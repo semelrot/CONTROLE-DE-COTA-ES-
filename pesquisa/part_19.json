@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 380,
+  "dominio_efetivo": "www.hyva.com.br",
+  "empresa": "Hyva",
+  "segmento": "Maquinas/Equipamentos hidraulicos",
+  "principal_produto": "Cilindros hidraulicos telescopicos, sistemas de basculamento e guindastes para caminhao",
+  "fabrica_brasil": "Caxias do Sul, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cilindros telescopicos, basculantes e estruturas de guindaste sao fabricados em aco carbono.",
+  "fonte": "https://www.hyva.com/pt-br/"
+ },
+ {
+  "idx": 381,
+  "dominio_efetivo": "albras.com",
+  "empresa": "Albras",
+  "segmento": "Metalurgica (ferragens)",
+  "principal_produto": "Ferragens para moveis: parafusos, dobradicas, corredicas e pistoes a gas",
+  "fabrica_brasil": "Embu das Artes, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Parafusos, dobradicas e corredicas metalicas para moveis sao tipicamente aco carbono conformado.",
+  "fonte": "https://albras.com"
+ },
+ {
+  "idx": 382,
+  "dominio_efetivo": "hydraforce.com",
+  "empresa": "HydraForce",
+  "segmento": "Autopecas (hidraulica)",
+  "principal_produto": "Valvulas cartucho, blocos/manifolds e controles hidraulicos",
+  "fabrica_brasil": "Sem fabrica no Brasil (matriz no exterior)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Corpos de valvulas e manifolds hidraulicos sao usinados em aco; sem producao no BR identificada.",
+  "fonte": "https://hydraforce.com"
+ },
+ {
+  "idx": 383,
+  "dominio_efetivo": "www.arcelormittal.com.br",
+  "empresa": "ArcelorMittal",
+  "segmento": "Siderurgia",
+  "principal_produto": "Producao de aco (vergalhoes, perfis, telhas, bobinas)",
+  "fabrica_brasil": "Varias unidades (MG, CE, RJ, ES, BA, etc.)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de aco, nao consumidora; seria concorrente do fornecedor, nao cliente.",
+  "fonte": "https://brasil.arcelormittal.com/"
+ },
+ {
+  "idx": 385,
+  "dominio_efetivo": "gertec.com.br",
+  "empresa": "Gertec",
+  "segmento": "Eletroeletronica",
+  "principal_produto": "Terminais de automacao comercial/bancaria, pinpads, microterminais",
+  "fabrica_brasil": "Ilheus, BA e Manaus, AM",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Terminais eletronicos com gabinetes em plastico/PCB; uso de aco carbono nao caracteriza producao.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 386,
+  "dominio_efetivo": "globousinagem.com.br",
+  "empresa": "Globo Usinagem",
+  "segmento": "Metalurgica (usinagem)",
+  "principal_produto": "Usinagem de precisao e montagem de conjuntos para aeroespacial, oleo e gas e energia",
+  "fabrica_brasil": "Jambeiro e Botucatu, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Usinagem de pecas industriais inclui comumente acos carbono e ligas conforme projeto.",
+  "fonte": "https://globousinagem.com.br"
+ },
+ {
+  "idx": 387,
+  "dominio_efetivo": "clemar.com.br",
+  "empresa": "Clemar",
+  "segmento": "Construção/Equipamentos",
+  "principal_produto": "Data centers modulares, shelters e abrigos para telecom e missao critica",
+  "fabrica_brasil": "Florianopolis, SC",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabrica shelters e abrigos metalicos, estruturas que usam chapas/perfis de aco carbono.",
+  "fonte": "https://clemar.com.br"
+ },
+ {
+  "idx": 388,
+  "dominio_efetivo": "marchesan.com.br",
+  "empresa": "Marchesan (Tatu)",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Implementos agricolas: plantadeiras, grades, arados e cultivadores",
+  "fabrica_brasil": "Matao, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos agricolas sao estampados/soldados em chapas, discos e perfis de aco carbono.",
+  "fonte": "https://marchesan.com.br"
+ },
+ {
+  "idx": 389,
+  "dominio_efetivo": "wolpac.com.br",
+  "empresa": "Wolpac",
+  "segmento": "Metalurgica (controle de acesso)",
+  "principal_produto": "Catracas, torniquetes, cancelas e bloqueios de controle de acesso",
+  "fabrica_brasil": "Ferraz de Vasconcelos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Pedestais, gabinetes e estruturas de catracas/torniquetes usam chapas de aco carbono.",
+  "fonte": "https://wolpac.com.br"
+ },
+ {
+  "idx": 390,
+  "dominio_efetivo": "grupo-ipa.com",
+  "empresa": "Grupo IPA",
+  "segmento": "Plasticos",
+  "principal_produto": "Tanques/tubos de combustivel e reservatorios plasticos por sopro e injecao",
+  "fabrica_brasil": "Jaguariuna, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Producao exclusiva em plastico (sopro/injecao); nao utiliza aco carbono.",
+  "fonte": "https://grupo-ipa.com"
+ },
+ {
+  "idx": 391,
+  "dominio_efetivo": "clarios.com",
+  "empresa": "Clarios",
+  "segmento": "Autopecas (baterias)",
+  "principal_produto": "Baterias automotivas e de motos (marca Heliar)",
+  "fabrica_brasil": "Sorocaba, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Baterias sao feitas de chumbo e plastico; nao consomem aco carbono na fabricacao.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 392,
+  "dominio_efetivo": "astecindustries.com",
+  "empresa": "Astec Industries",
+  "segmento": "Maquinas/Equipamentos pesados",
+  "principal_produto": "Britadores, peneiras, usinas de asfalto e tanques",
+  "fabrica_brasil": "Vespasiano, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Britadores, peneiras, usinas e tanques sao fabricados em chapas e perfis de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 393,
+  "dominio_efetivo": "oregontool.com",
+  "empresa": "Oregon Tool",
+  "segmento": "Metalurgica",
+  "principal_produto": "Correntes e sabres para motosserra",
+  "fabrica_brasil": "Curitiba, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Correntes e sabres de motosserra sao produzidos a partir de aco carbono/ligado conformado.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 394,
+  "dominio_efetivo": "wdbnet.com",
+  "empresa": "Westaflex do Brasil (WDB)",
+  "segmento": "Autopecas/Climatizacao",
+  "principal_produto": "Tubos flexiveis, dutos de ventilacao e tubos de conducao de ar automotivos",
+  "fabrica_brasil": "Araucaria e Contenda, PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Tubos multicamadas polimero/metal; pode usar aco mas predomina aluminio/plastico.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 395,
+  "dominio_efetivo": "collibike.com.br",
+  "empresa": "Colli Bike",
+  "segmento": "Metalurgica (bicicletas)",
+  "principal_produto": "Bicicletas (infantis, urbanas e de performance)",
+  "fabrica_brasil": "Maringa, PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Bicicletas de entrada usam quadros de tubo de aco carbono; linha alta usa aluminio/carbono.",
+  "fonte": "https://collibike.com.br"
+ },
+ {
+  "idx": 396,
+  "dominio_efetivo": "www.predilecta.com.br",
+  "empresa": "Predilecta",
+  "segmento": "Alimentos",
+  "principal_produto": "Molhos e polpa de tomate, conservas de vegetais e doces",
+  "fabrica_brasil": "Matao, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz alimentos; nao fabrica produtos com aco carbono.",
+  "fonte": "https://www.predilecta.com.br"
+ },
+ {
+  "idx": 397,
+  "dominio_efetivo": "afcm.com.br",
+  "empresa": "Alphafer (AFCM)",
+  "segmento": "Construção (estruturas metalicas)",
+  "principal_produto": "Estruturas metalicas, caldeiraria, corte e dobra sob medida",
+  "fabrica_brasil": "Varzea Paulista, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas, galpoes e caldeiraria a partir de chapas e perfis de aco carbono.",
+  "fonte": "https://afcm.com.br"
+ },
+ {
+  "idx": 398,
+  "dominio_efetivo": "msadobrasil.com.br",
+  "empresa": "M.S.Ambrogio do Brasil",
+  "segmento": "Metalurgica (estamparia)",
+  "principal_produto": "Componentes metalicos estampados de precisao (corte, dobra, repuxo, solda)",
+  "fabrica_brasil": "Sao Jose dos Campos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia/repuxo/soldagem de pecas metalicas para automotivo e eletro usa aco carbono.",
+  "fonte": "https://msadobrasil.com.br"
+ },
+ {
+  "idx": 399,
+  "dominio_efetivo": "simmsolucoes.com.br",
+  "empresa": "SIMM Solucoes",
+  "segmento": "Energia (renovaveis)",
+  "principal_produto": "Construcao e O&M de parques eolicos, usinas solares e armazenamento (servico)",
+  "fabrica_brasil": "Sede no Brasil (cidade nao identificada)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de construcao/EPC e O&M de energia, nao fabricante; nao produz com aco carbono.",
+  "fonte": "https://simmsolucoes.com.br"
+ }
+]

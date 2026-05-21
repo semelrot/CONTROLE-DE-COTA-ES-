@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 340,
+  "dominio_efetivo": "maze.com.br",
+  "empresa": "Maze",
+  "segmento": "Varejo (moda/streetwear)",
+  "principal_produto": "Venda de tenis, sneakers, streetwear e skate (lojas e e-commerce)",
+  "fabrica_brasil": "Nao identificado (varejista, sede em Sao Paulo SP)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Varejo de roupas e calcados; nao fabrica produtos com aco carbono.",
+  "fonte": "https://maze.com.br"
+ },
+ {
+  "idx": 341,
+  "dominio_efetivo": "delphi.com",
+  "empresa": "Delphi Technologies (PHINIA)",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de injecao de combustivel, gerenciamento de motor e eletronica veicular",
+  "fabrica_brasil": "Sao Paulo SP (operacao Delphi/PHINIA no Brasil)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Injetores e sistemas de combustivel usam pecas usinadas e estampadas de aco.",
+  "fonte": "https://www.phinia.com/company/our-brands/delphi"
+ },
+ {
+  "idx": 342,
+  "dominio_efetivo": "grazzimetal.com.br",
+  "empresa": "Grazzimetal",
+  "segmento": "Autopecas",
+  "principal_produto": "Componentes de suspensao e direcao (bandejas, bieletas, tirantes, barras axiais)",
+  "fabrica_brasil": "Sao Paulo SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica bandejas, barras e tirantes de suspensao, tipicamente em aco carbono conformado/soldado.",
+  "fonte": "https://grazzimetal.com.br"
+ },
+ {
+  "idx": 343,
+  "dominio_efetivo": "adm.com",
+  "empresa": "ADM (Archer Daniels Midland)",
+  "segmento": "Alimentos/Agronegocio",
+  "principal_produto": "Processamento de graos, ingredientes e nutricao humana e animal",
+  "fabrica_brasil": "Diversas unidades no Brasil (processamento agricola)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Processa graos e alimentos; nao fabrica produtos de aco carbono.",
+  "fonte": "https://adm.com"
+ },
+ {
+  "idx": 344,
+  "dominio_efetivo": "passarelli.com.br",
+  "empresa": "Passarelli Engenharia e Construcao",
+  "segmento": "Construcao (construtora)",
+  "principal_produto": "Obras de infraestrutura, saneamento, edificacoes e incorporacao",
+  "fabrica_brasil": "Sede em Sao Paulo SP (atuacao nacional)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora de servicos de engenharia; nao fabrica produtos de aco.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 345,
+  "dominio_efetivo": "tetraferro.com.br",
+  "empresa": "Tetra Ferro",
+  "segmento": "Distribuicao de aco (service center)",
+  "principal_produto": "Distribuicao e corte de aco (blanks, slitter, perfis); aco plano e longo",
+  "fabrica_brasil": "Sao Paulo SP (Jacana)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Service center que corta e distribui aco; nao fabrica produto final.",
+  "fonte": "https://tetraferro.com.br"
+ },
+ {
+  "idx": 346,
+  "dominio_efetivo": "gilbarco.com",
+  "empresa": "Gilbarco Veeder-Root",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Bombas de combustivel e dispensers para postos",
+  "fabrica_brasil": "Possui fabrica no Brasil (manufatura global da marca)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Gabinetes e estruturas das bombas de combustivel sao feitos em chapa de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 347,
+  "dominio_efetivo": "grupoaiz.com.br",
+  "empresa": "Grupo AIZ",
+  "segmento": "Implementos rodoviarios/Maquinas pesadas",
+  "principal_produto": "Fabricacao de manipuladores, guindastes, escavadeiras anfibias e implementos rodoviarios",
+  "fabrica_brasil": "Sao Jose dos Pinhais PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica conta com corte laser, plasma, dobra e solda de chapas de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 348,
+  "dominio_efetivo": "industriascolombo.com.br",
+  "empresa": "Industrias Colombo (MIAC/AEMCO)",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Colhedoras de cafe, feijao, amendoim e milho; cardans e transmissoes agricolas",
+  "fabrica_brasil": "Pindorama SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maquinas e implementos agricolas sao fabricados com chapas, tubos e barras de aco carbono.",
+  "fonte": "https://industriascolombo.com.br"
+ },
+ {
+  "idx": 349,
+  "dominio_efetivo": "nouryon.com",
+  "empresa": "Nouryon",
+  "segmento": "Quimica (especialidades)",
+  "principal_produto": "Quimicos especiais (perioxidos organicos, aminas, surfactantes, polimeros)",
+  "fabrica_brasil": "Itupeva SP; Rio de Janeiro RJ",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica produtos quimicos; nao usa aco carbono como materia-prima de produto.",
+  "fonte": "https://nouryon.com"
+ },
+ {
+  "idx": 350,
+  "dominio_efetivo": "horizonglobal.com",
+  "empresa": "Horizon Global",
+  "segmento": "Autopecas",
+  "principal_produto": "Engates e sistemas de reboque e gerenciamento de carga (Reese, Draw-Tite, Westfalia)",
+  "fabrica_brasil": "Possui fabrica no Brasil (footprint global)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Engates e barras de reboque sao fabricados em aco carbono conformado/soldado.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 351,
+  "dominio_efetivo": "chriscintos.com.br",
+  "empresa": "Chris Cintos de Seguranca",
+  "segmento": "Autopecas",
+  "principal_produto": "Cintos de seguranca e airbags automotivos",
+  "fabrica_brasil": "Sao Paulo SP (Santo Amaro)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Retratores e fivelas dos cintos usam pecas estampadas e molas de aco carbono.",
+  "fonte": "https://chriscintos.com.br"
+ },
+ {
+  "idx": 352,
+  "dominio_efetivo": "litens.com",
+  "empresa": "Litens Automotive",
+  "segmento": "Autopecas",
+  "principal_produto": "Tensionadores de correia e polias para sistemas de powertrain",
+  "fabrica_brasil": "Atibaia SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tensionadores e polias usam corpos, molas e bracos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 353,
+  "dominio_efetivo": "edscha.com",
+  "empresa": "Edscha (Gestamp)",
+  "segmento": "Autopecas",
+  "principal_produto": "Dobradicas de porta, limitadores e sistemas de carroceria",
+  "fabrica_brasil": "Sorocaba SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Dobradicas e limitadores sao pecas estampadas/conformadas em aco carbono.",
+  "fonte": "https://edscha.com"
+ },
+ {
+  "idx": 354,
+  "dominio_efetivo": "suez.com",
+  "empresa": "SUEZ",
+  "segmento": "Servicos (agua/residuos)",
+  "principal_produto": "Tratamento e distribuicao de agua, reciclagem e gestao de residuos",
+  "fabrica_brasil": "Nao identificado (empresa de servicos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Presta servicos de agua e residuos; nao fabrica produtos de aco carbono.",
+  "fonte": "https://suez.com"
+ },
+ {
+  "idx": 355,
+  "dominio_efetivo": "donaldson.com",
+  "empresa": "Donaldson",
+  "segmento": "Autopecas",
+  "principal_produto": "Filtros de ar, oleo e liquidos para motores e industria",
+  "fabrica_brasil": "Itatiba SP (anterior em Atibaia SP)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcacas e tampas de filtros sao estampadas em chapa de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 356,
+  "dominio_efetivo": "o-i.com",
+  "empresa": "O-I (Owens-Illinois)",
+  "segmento": "Embalagens de vidro",
+  "principal_produto": "Garrafas e embalagens de vidro para alimentos e bebidas",
+  "fabrica_brasil": "Diversas fabricas no Brasil (vidro)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto e vidro; nao usa aco carbono como materia-prima do produto.",
+  "fonte": "https://o-i.com"
+ },
+ {
+  "idx": 357,
+  "dominio_efetivo": "www.ipirangaagroindustrial.com.br",
+  "empresa": "Ipiranga Agroindustrial",
+  "segmento": "Sucroenergetico",
+  "principal_produto": "Acucar, etanol e energia eletrica de biomassa",
+  "fabrica_brasil": "Mococa SP; Descalvado SP; Iacanga SP; Passos MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz acucar, etanol e energia; nao fabrica produtos de aco carbono.",
+  "fonte": "https://www.ipirangaagroindustrial.com.br"
+ },
+ {
+  "idx": 358,
+  "dominio_efetivo": "mta.it",
+  "empresa": "MTA SpA",
+  "segmento": "Autopecas (eletricos/eletronicos)",
+  "principal_produto": "Fusiveis, caixas de distribuicao, conectores e terminais de bateria automotivos",
+  "fabrica_brasil": "Sem fabrica no Brasil (matriz na Italia)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Componentes eletricos sao majoritariamente cobre/latao/zinco, nao aco carbono.",
+  "fonte": "busca web"
+ }
+]

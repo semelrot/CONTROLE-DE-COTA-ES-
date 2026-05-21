@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 300,
+  "dominio_efetivo": "tex.com.br",
+  "empresa": "TEX",
+  "segmento": "Equipamentos eletronicos",
+  "principal_produto": "Equipamentos eletronicos de medicao e testes de estanqueidade/vazamento",
+  "fabrica_brasil": "Itupeva-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica instrumentos eletronicos de medicao/teste, nao produtos conformados em aco carbono.",
+  "fonte": "https://tex.com.br"
+ },
+ {
+  "idx": 301,
+  "dominio_efetivo": "continental-corporation.com",
+  "empresa": "Continental",
+  "segmento": "Autopecas",
+  "principal_produto": "Pneus e eletronica automotiva (tacografos, paineis, freios ATE)",
+  "fabrica_brasil": "Camacari-BA (pneus); Guarulhos-SP (eletronica/freios)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Producao BR e majoritariamente pneus/eletronica; componentes de freio/chassi podem usar aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 302,
+  "dominio_efetivo": "comilonibus.com.br",
+  "empresa": "Comil Onibus",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Carrocerias de onibus rodoviarios e urbanos",
+  "fabrica_brasil": "Erechim-RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas das carrocerias de onibus sao construidas em aco desde os primeiros modelos.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 303,
+  "dominio_efetivo": "nemak.com",
+  "empresa": "Nemak",
+  "segmento": "Metalurgica",
+  "principal_produto": "Cabecotes e blocos de motor fundidos em aluminio",
+  "fabrica_brasil": "Betim-MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fundicao de aluminio para componentes automotivos; nao usa aco carbono na fabricacao.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 304,
+  "dominio_efetivo": "gonpetro.com.br",
+  "empresa": "GonPetro",
+  "segmento": "Distribuicao industrial",
+  "principal_produto": "Distribuicao de tubos, chapas, flanges, valvulas e ligas para oleo e gas",
+  "fabrica_brasil": "Macae-RJ; Sao Paulo-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Trading/distribuidora de insumos de tubulacao, nao fabrica nem conforma aco carbono.",
+  "fonte": "https://gonpetro.com.br"
+ },
+ {
+  "idx": 305,
+  "dominio_efetivo": "durr.com",
+  "empresa": "Durr",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Sistemas e cabines de pintura, robos e automacao industrial",
+  "fabrica_brasil": "Sao Paulo-SP; Betim-MG (Verind)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cabines, linhas e estruturas de pintura sao fabricadas em chapa/perfil de aco carbono.",
+  "fonte": "https://durr.com"
+ },
+ {
+  "idx": 306,
+  "dominio_efetivo": "www.jtekt.com.br",
+  "empresa": "JTEKT Brasil",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de direcao (colunas) e rolamentos automotivos/industriais",
+  "fabrica_brasil": "Sao Jose dos Pinhais-PR; Indaiatuba-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Colunas de direcao e rolamentos sao usinados/conformados a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 307,
+  "dominio_efetivo": "cooperstandard.com",
+  "empresa": "Cooper Standard",
+  "segmento": "Autopecas",
+  "principal_produto": "Vedacoes de borracha, mangueiras e dutos de fluidos automotivos",
+  "fabrica_brasil": "Varginha-MG; Atibaia-SP; Sao Bento do Sul-SC; Camacari-BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos sao de borracha/polimeros (vedacoes, mangueiras), nao aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 308,
+  "dominio_efetivo": "usp.br",
+  "empresa": "Universidade de Sao Paulo",
+  "segmento": "Educacao/Pesquisa",
+  "principal_produto": "Ensino superior e pesquisa (universidade publica)",
+  "fabrica_brasil": "Nao se aplica (instituicao de ensino, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Universidade publica de ensino e pesquisa; nao fabrica produtos em aco carbono.",
+  "fonte": "https://www5.usp.br"
+ },
+ {
+  "idx": 309,
+  "dominio_efetivo": "altamira.com.br",
+  "empresa": "Altamira",
+  "segmento": "Metalurgica",
+  "principal_produto": "Sistemas de armazenagem: porta-paletes, estantes, mezaninos e drive-in",
+  "fabrica_brasil": "Sao Paulo-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de armazenagem feitas de perfis/colunas de aco estrutural conformados.",
+  "fonte": "https://altamira.com.br"
+ },
+ {
+  "idx": 310,
+  "dominio_efetivo": "irizar.com.br",
+  "empresa": "Irizar Brasil",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Carrocerias de onibus rodoviarios (i6S, i6) e micro-onibus",
+  "fabrica_brasil": "Botucatu-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carrocerias de onibus tem estrutura/chassi conformados e soldados em aco carbono.",
+  "fonte": "https://brasil.irizar.com"
+ },
+ {
+  "idx": 311,
+  "dominio_efetivo": "moveng.com.br",
+  "empresa": "Moveng Engenharia",
+  "segmento": "Construcao/Estruturas metalicas",
+  "principal_produto": "Projeto, fabricacao e montagem de estruturas metalicas industriais",
+  "fabrica_brasil": "Parauapebas-PA",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica e monta estruturas metalicas usando perfis e chapas de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 312,
+  "dominio_efetivo": "spiraxsarco.com",
+  "empresa": "Spirax Sarco",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Valvulas, purgadores e sistemas para vapor industrial",
+  "fabrica_brasil": "Cotia-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Valvulas e acessorios de linha de vapor sao fabricados em aco carbono (e ferro/inox).",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 313,
+  "dominio_efetivo": "www.qualieng.com.br",
+  "empresa": "QualiEng",
+  "segmento": "Engenharia/Servicos",
+  "principal_produto": "Servicos de montagem eletromecanica (eletrica, hidraulica, mecanica)",
+  "fabrica_brasil": "Diadema-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de servicos de montagem/instalacao, nao fabrica produtos em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 314,
+  "dominio_efetivo": "feeder.com.br",
+  "empresa": "Feeder Industrial",
+  "segmento": "Autopecas",
+  "principal_produto": "Pecas e acessorios automotivos estampados/soldados e molas",
+  "fabrica_brasil": "Guarulhos-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Possui prensas, solda, robos e dobra de molas, conformando pecas de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 315,
+  "dominio_efetivo": "ngkntk.com.br",
+  "empresa": "NGK NTK",
+  "segmento": "Autopecas",
+  "principal_produto": "Velas de ignicao, ceramicas tecnicas, sensores e cabos",
+  "fabrica_brasil": "Mogi das Cruzes-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos base sao ceramicos/cabos; nao fabrica produtos conformados em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 316,
+  "dominio_efetivo": "deltaducon.com.br",
+  "empresa": "Delta Ducon",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Equipamentos de controle de emissoes: despoeiramento, lavagem e tratamento de gases",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Dutos, ciclones, filtros e lavadores de gases sao fabricados em chapa de aco carbono.",
+  "fonte": "https://deltaducon.com.br"
+ },
+ {
+  "idx": 317,
+  "dominio_efetivo": "rotadasbandeiras.com.br",
+  "empresa": "Rota das Bandeiras",
+  "segmento": "Servicos (concessao rodoviaria)",
+  "principal_produto": "Concessao e operacao do Corredor Dom Pedro (pedagio/rodovias)",
+  "fabrica_brasil": "Nao se aplica (concessionaria de rodovias, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionaria de rodovia presta servico de operacao viaria; nao fabrica em aco.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 318,
+  "dominio_efetivo": "dedini.com.br",
+  "empresa": "Dedini",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Equipamentos e plantas completas para o setor sucroenergetico",
+  "fabrica_brasil": "Piracicaba-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiras, moendas, tanques e destilarias sao fabricados em chapas/estruturas de aco carbono.",
+  "fonte": "https://dedini.com.br"
+ },
+ {
+  "idx": 319,
+  "dominio_efetivo": "www.metalfrio.com.br",
+  "empresa": "Metalfrio",
+  "segmento": "Eletrodomesticos/Refrigeracao",
+  "principal_produto": "Refrigeracao comercial: freezers, cervejeiras e refrigeradores",
+  "fabrica_brasil": "Tres Lagoas-MS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Gabinetes de freezers/refrigeradores sao estampados em chapa de aco carbono.",
+  "fonte": "https://www.metalfrio.com.br"
+ }
+]

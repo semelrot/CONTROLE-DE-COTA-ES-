@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 360,
+  "dominio_efetivo": "bdois.com.br",
+  "empresa": "B2 Industria E Comercio (BDOIS)",
+  "segmento": "Metalurgica (servicos)",
+  "principal_produto": "Corte laser, dobra, solda robotizada e pintura de pecas metalicas",
+  "fabrica_brasil": "Rolandia, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Corta, dobra e solda chapas de aco carbono para fabricar pecas sob demanda.",
+  "fonte": "https://bdois.com.br"
+ },
+ {
+  "idx": 361,
+  "dominio_efetivo": "snovio.com",
+  "empresa": "Snov.io (domain_health)",
+  "segmento": "Software/SaaS",
+  "principal_produto": "Plataforma de prospeccao e automacao de e-mails B2B",
+  "fabrica_brasil": "Sem fabrica no Brasil (empresa de software)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de software de prospeccao; nao fabrica produtos fisicos.",
+  "fonte": "https://snovio.com"
+ },
+ {
+  "idx": 362,
+  "dominio_efetivo": "grupomaringa.com.br",
+  "empresa": "Grupo Maringa",
+  "segmento": "Sucroenergetico / Siderurgia (ferroligas)",
+  "principal_produto": "Acucar, etanol, energia e ferroligas de manganes",
+  "fabrica_brasil": "Jacarezinho, PR; Itapeva, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz acucar/etanol e ferroligas de manganes; nao consome aco carbono para fabricar.",
+  "fonte": "https://grupomaringa.com.br"
+ },
+ {
+  "idx": 363,
+  "dominio_efetivo": "vitalex.com.br",
+  "empresa": "Vitalex",
+  "segmento": "Eletrodomesticos / Equipamentos de cozinha",
+  "principal_produto": "Liquidificadores, cutters e equipamentos para cozinha industrial",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Equipamentos destacam inox, mas bases/estruturas costumam usar aco carbono estampado.",
+  "fonte": "https://vitalex.com.br"
+ },
+ {
+  "idx": 364,
+  "dominio_efetivo": "semi.com.br",
+  "empresa": "SEMI Engenharia",
+  "segmento": "Energia / Maquinas (hidreletricas)",
+  "principal_produto": "Turbinas hidraulicas (Kaplan, Francis, Pelton) e equipamentos para PCHs/CGHs",
+  "fabrica_brasil": "Sao Jose dos Pinhais, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica turbinas e equipamentos mecanicos pesados feitos em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 365,
+  "dominio_efetivo": "plamont.com.br",
+  "empresa": "Plamont Engenharia",
+  "segmento": "Construcao / Montagem industrial",
+  "principal_produto": "Servicos de engenharia, montagem e construcao industrial",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Montagem/construcao industrial tipicamente envolve estruturas e tubulacoes de aco carbono.",
+  "fonte": "https://plamont.com.br"
+ },
+ {
+  "idx": 366,
+  "dominio_efetivo": "stanleyblackanddecker.com",
+  "empresa": "Stanley Black & Decker",
+  "segmento": "Ferramentas / Eletrodomesticos",
+  "principal_produto": "Ferramentas manuais e eletricas, eletrodomesticos, fechaduras",
+  "fabrica_brasil": "Uberaba, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica ferramentas e fechaduras com aco carbono estampado/forjado em Uberaba.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 367,
+  "dominio_efetivo": "metadil.com.br",
+  "empresa": "Metadil",
+  "segmento": "Moveis (escolares/corporativos)",
+  "principal_produto": "Mesas, cadeiras, armarios e estantes com estrutura em aco",
+  "fabrica_brasil": "Guarulhos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Moveis com estrutura metalica em aco carbono (tubos/chapas) conformado e soldado.",
+  "fonte": "https://metadil.com.br"
+ },
+ {
+  "idx": 368,
+  "dominio_efetivo": "omel.com.br",
+  "empresa": "Omel",
+  "segmento": "Maquinas / Equipamentos industriais",
+  "principal_produto": "Bombas centrifugas, de vacuo, sopradores roots e valvulas",
+  "fabrica_brasil": "Guarulhos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica bombas e valvulas industriais com corpos/componentes de aco carbono.",
+  "fonte": "https://omel.com.br"
+ },
+ {
+  "idx": 369,
+  "dominio_efetivo": "ourofino.com",
+  "empresa": "Ourofino Saude Animal",
+  "segmento": "Quimica / Farmaceutica veterinaria",
+  "principal_produto": "Medicamentos e produtos para saude animal",
+  "fabrica_brasil": "Cravinhos, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica farmacos veterinarios; nao usa aco carbono como insumo de fabricacao.",
+  "fonte": "https://ourofino.com"
+ },
+ {
+  "idx": 370,
+  "dominio_efetivo": "www.tstech.com",
+  "empresa": "TS Tech",
+  "segmento": "Autopecas",
+  "principal_produto": "Assentos automotivos e componentes de interior",
+  "fabrica_brasil": "Leme, SP; Ouro Fino, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas/armacoes de bancos automotivos sao em aco carbono estampado e soldado.",
+  "fonte": "https://www.tstech.com"
+ },
+ {
+  "idx": 371,
+  "dominio_efetivo": "converplast.com.br",
+  "empresa": "Converplast",
+  "segmento": "Plasticos / Embalagens",
+  "principal_produto": "Embalagens plasticas flexiveis (laminadas, stand-up pouches, rotulos)",
+  "fabrica_brasil": "Guarulhos e Jundiai, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica embalagens flexiveis de plastico; nao usa aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 372,
+  "dominio_efetivo": "altona.com.br",
+  "empresa": "Electro Aco Altona",
+  "segmento": "Metalurgica (fundicao)",
+  "principal_produto": "Pecas fundidas e usinadas em aco carbono e ligado",
+  "fabrica_brasil": "Blumenau, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fundicao e usinagem de pecas em aco carbono e ligado (1.250 t/mes de aco).",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 373,
+  "dominio_efetivo": "guerraimplementos.com.br",
+  "empresa": "AB Rodofort / Guerra Implementos Rodoviarios",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Semirreboques: graneleiro, sider, tanque, porta-conteiner, carrega-tudo",
+  "fabrica_brasil": "Caxias do Sul, RS; Sumare, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos rodoviarios construidos com chapas/perfis de aco carbono soldados.",
+  "fonte": "https://guerraimplementos.com.br"
+ },
+ {
+  "idx": 374,
+  "dominio_efetivo": "nordex-online.com",
+  "empresa": "Nordex",
+  "segmento": "Energia (eolica)",
+  "principal_produto": "Aerogeradores: torres, nacelles e hubs",
+  "fabrica_brasil": "Simoes Filho, BA; Lajes/Areia Branca, RN; Lagoa do Barro, PI",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Torres no BR sao de concreto, mas nacelles/hubs e estruturas usam aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 375,
+  "dominio_efetivo": "piccin.com.br",
+  "empresa": "Grupo Piccin",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Implementos agricolas: distribuidores, grades, descompactadores",
+  "fabrica_brasil": "Sao Carlos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos agricolas fabricados com chapas/perfis/barras de aco carbono.",
+  "fonte": "https://piccin.com.br"
+ },
+ {
+  "idx": 376,
+  "dominio_efetivo": "lincolnelectric.com.br",
+  "empresa": "Lincoln Electric do Brasil",
+  "segmento": "Equipamentos (soldagem)",
+  "principal_produto": "Arames de solda (MIG/MAG, tubular), eletrodos e maquinas de solda",
+  "fabrica_brasil": "Guarulhos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica arames e eletrodos de solda a base de aco carbono no Brasil.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 377,
+  "dominio_efetivo": "htmsgroup.com",
+  "empresa": "Grupo Plastilit",
+  "segmento": "Plasticos",
+  "principal_produto": "Tubos e conexoes de PVC para construcao, agua e esgoto",
+  "fabrica_brasil": "Fazenda Rio Grande, PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica tubos e conexoes de PVC; nao usa aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 378,
+  "dominio_efetivo": "baldan.com.br",
+  "empresa": "Baldan Implementos Agricolas",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Implementos agricolas: arados, grades, plantadeiras, pulverizadores",
+  "fabrica_brasil": "Matao, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos agricolas fabricados com chapas e perfis de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 379,
+  "dominio_efetivo": "marcegaglia.com.br",
+  "empresa": "Marcegaglia do Brasil",
+  "segmento": "Metalurgica (transformacao de aco)",
+  "principal_produto": "Tubos de aco com costura e produtos planos (chapas) de aco carbono",
+  "fabrica_brasil": "Garuva, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa bobinas em tubos soldados e produtos planos de aco carbono.",
+  "fonte": "https://www.marcegagliadobrasil.com/pt-br/"
+ }
+]

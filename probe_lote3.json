@@ -1,0 +1,248 @@
+{
+ "lin.jbs.com.br": {
+  "orig": "lin.jbs.com.br",
+  "dominio_corrigido": "www.jbs.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.jbs.com.br/"
+ },
+ "usimabe.com.br": {
+  "orig": "usimabe.com.br",
+  "dominio_corrigido": null
+ },
+ "koerber-tissue.com": {
+  "orig": "koerber-tissue.com",
+  "dominio_corrigido": "www.koerber.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.koerber.com/en"
+ },
+ "smorenometalurgica.com.br": {
+  "orig": "smorenometalurgica.com.br",
+  "dominio_corrigido": null
+ },
+ "shestruturas.com.br": {
+  "orig": "shestruturas.com.br",
+  "dominio_corrigido": "www.shestruturas.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.shestruturas.com.br/"
+ },
+ "positivaindustrial.com.br": {
+  "orig": "positivaindustrial.com.br",
+  "dominio_corrigido": null
+ },
+ "varinhadigital.com.br": {
+  "orig": "varinhadigital.com.br",
+  "dominio_corrigido": null
+ },
+ "industriastosi.com.br": {
+  "orig": "industriastosi.com.br",
+  "dominio_corrigido": "www.industriastosi.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.industriastosi.com.br/"
+ },
+ "dispetral.com.br": {
+  "orig": "dispetral.com.br",
+  "dominio_corrigido": "www.dispetral.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.dispetral.com.br/"
+ },
+ "mediacom.com": {
+  "orig": "mediacom.com",
+  "dominio_corrigido": null
+ },
+ "sugoiincorporadora.com.br": {
+  "orig": "sugoiincorporadora.com.br",
+  "dominio_corrigido": null
+ },
+ "csdvarejo.com.br": {
+  "orig": "csdvarejo.com.br",
+  "dominio_corrigido": null
+ },
+ "airplusengenharia.com.br": {
+  "orig": "airplusengenharia.com.br",
+  "dominio_corrigido": null
+ },
+ "ab-rodofort.com.br": {
+  "orig": "ab-rodofort.com.br",
+  "dominio_corrigido": null
+ },
+ "reconditec.com.br": {
+  "orig": "reconditec.com.br",
+  "dominio_corrigido": "www.reconditec.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.reconditec.com.br/"
+ },
+ "continentaltop.com.br": {
+  "orig": "continentaltop.com.br",
+  "dominio_corrigido": "www.continentaltop.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.continentaltop.com.br/"
+ },
+ "metalurgicamagalhaes.com.br": {
+  "orig": "metalurgicamagalhaes.com.br",
+  "dominio_corrigido": null
+ },
+ "carvalheirapapeis.com.br": {
+  "orig": "carvalheirapapeis.com.br",
+  "dominio_corrigido": "www.carvalheirapapeis.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.carvalheirapapeis.com.br/home/"
+ },
+ "decioindmet.com.br": {
+  "orig": "decioindmet.com.br",
+  "dominio_corrigido": null
+ },
+ "grupojari.com.br": {
+  "orig": "grupojari.com.br",
+  "dominio_corrigido": "www.grupojari.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.grupojari.com.br/"
+ },
+ "ttxequipamentos.com.br": {
+  "orig": "ttxequipamentos.com.br",
+  "dominio_corrigido": null
+ },
+ "bra.dupont.com": {
+  "orig": "bra.dupont.com",
+  "dominio_corrigido": "www.dupont.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.dupont.com/"
+ },
+ "neopartsbrasil.com.br": {
+  "orig": "neopartsbrasil.com.br",
+  "dominio_corrigido": "www.neopartsbrasil.com",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.neopartsbrasil.com/"
+ },
+ "norsa.com.br": {
+  "orig": "norsa.com.br",
+  "dominio_corrigido": "www.solarbr.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.solarbr.com.br/"
+ },
+ "carueme.com.br": {
+  "orig": "carueme.com.br",
+  "dominio_corrigido": null
+ },
+ "camter.com.br": {
+  "orig": "camter.com.br",
+  "dominio_corrigido": "www.camter.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.camter.com.br/"
+ },
+ "ferramentariadamp.com.br": {
+  "orig": "ferramentariadamp.com.br",
+  "dominio_corrigido": null
+ },
+ "kfestamparia.com.br": {
+  "orig": "kfestamparia.com.br",
+  "dominio_corrigido": null
+ },
+ "metalurgicaclara.com.br": {
+  "orig": "metalurgicaclara.com.br",
+  "dominio_corrigido": null
+ },
+ "vectoreq.com.br": {
+  "orig": "vectoreq.com.br",
+  "dominio_corrigido": null
+ },
+ "reedexhibitionsbrasil.com.br": {
+  "orig": "reedexhibitionsbrasil.com.br",
+  "dominio_corrigido": "www.rxglobal.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://rxglobal.com/"
+ },
+ "rexam.com": {
+  "orig": "rexam.com",
+  "dominio_corrigido": "www.ball.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.ball.com/"
+ },
+ "proficientnowresearch.com": {
+  "orig": "proficientnowresearch.com",
+  "dominio_corrigido": null
+ },
+ "detroit.cl": {
+  "orig": "detroit.cl",
+  "dominio_corrigido": "www.detroit.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.detroit.com.br/"
+ },
+ "rdj.com.br": {
+  "orig": "rdj.com.br",
+  "dominio_corrigido": "www.rdj.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.rdj.com.br/"
+ },
+ "colpal.com.br": {
+  "orig": "colpal.com.br",
+  "dominio_corrigido": "www.colgate.com.br",
+  "http": 403,
+  "responde": "sim (bloqueio bot)",
+  "final_url": "https://www.colgate.com.br/"
+ },
+ "sipcam-upl.com.br": {
+  "orig": "sipcam-upl.com.br",
+  "dominio_corrigido": "www.sipcamnichino.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.sipcamnichino.com.br/"
+ },
+ "cam.eng.br": {
+  "orig": "cam.eng.br",
+  "dominio_corrigido": "www.cam.eng.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.cam.eng.br/"
+ },
+ "prototype3d.com.br": {
+  "orig": "prototype3d.com.br",
+  "dominio_corrigido": null
+ },
+ "idealsboardmail.com": {
+  "orig": "idealsboardmail.com",
+  "dominio_corrigido": null
+ },
+ "cassioecassio.com.br": {
+  "orig": "cassioecassio.com.br",
+  "dominio_corrigido": null
+ },
+ "hubnerfundicao.com.br": {
+  "orig": "hubnerfundicao.com.br",
+  "dominio_corrigido": "www.hubnerfundicao.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.hubnerfundicao.com.br/"
+ },
+ "amtektekfor.com": {
+  "orig": "amtektekfor.com",
+  "dominio_corrigido": "www.tekfor.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.aam.com/"
+ },
+ "3x.png": {
+  "orig": "3x.png",
+  "dominio_corrigido": null
+ },
+ "tiberina.com.br": {
+  "orig": "tiberina.com.br",
+  "dominio_corrigido": null
+ }
+}

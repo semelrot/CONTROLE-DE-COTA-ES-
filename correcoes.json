@@ -316,5 +316,353 @@
   "funciona": "NAO",
   "metodo": "busca web",
   "obs": "dominio correto (Stamp Spumas) resolve mas servidor retorna HTTP 500; site instavel"
+ },
+ "lin.jbs.com.br": {
+  "dominio_corrigido": "www.jbs.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.jbs.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (JBS)"
+ },
+ "koerber-tissue.com": {
+  "dominio_corrigido": "www.koerber.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.koerber.com/en",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Korber)"
+ },
+ "shestruturas.com.br": {
+  "dominio_corrigido": "www.shestruturas.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.shestruturas.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "industriastosi.com.br": {
+  "dominio_corrigido": "www.industriastosi.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.industriastosi.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "dispetral.com.br": {
+  "dominio_corrigido": "www.dispetral.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.dispetral.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "reconditec.com.br": {
+  "dominio_corrigido": "www.reconditec.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.reconditec.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "continentaltop.com.br": {
+  "dominio_corrigido": "www.continentaltop.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.continentaltop.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "carvalheirapapeis.com.br": {
+  "dominio_corrigido": "www.carvalheirapapeis.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.carvalheirapapeis.com.br/home/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "grupojari.com.br": {
+  "dominio_corrigido": "www.grupojari.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.grupojari.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "bra.dupont.com": {
+  "dominio_corrigido": "www.dupont.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.dupont.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (DuPont)"
+ },
+ "neopartsbrasil.com.br": {
+  "dominio_corrigido": "www.neopartsbrasil.com",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.neopartsbrasil.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Neo Parts)"
+ },
+ "norsa.com.br": {
+  "dominio_corrigido": "www.solarbr.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.solarbr.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Norsa -> Solar Coca-Cola)"
+ },
+ "camter.com.br": {
+  "dominio_corrigido": "www.camter.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.camter.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "reedexhibitionsbrasil.com.br": {
+  "dominio_corrigido": "www.rxglobal.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://rxglobal.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Reed Exhibitions -> RX)"
+ },
+ "rexam.com": {
+  "dominio_corrigido": "www.ball.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.ball.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Rexam -> Ball)"
+ },
+ "detroit.cl": {
+  "dominio_corrigido": "www.detroit.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.detroit.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Detroit Brasil)"
+ },
+ "rdj.com.br": {
+  "dominio_corrigido": "www.rdj.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.rdj.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "colpal.com.br": {
+  "dominio_corrigido": "www.colgate.com.br",
+  "http": 403,
+  "responde": "sim (bloqueio bot)",
+  "final_url": "https://www.colgate.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Colgate-Palmolive)"
+ },
+ "sipcam-upl.com.br": {
+  "dominio_corrigido": "www.sipcamnichino.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.sipcamnichino.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Sipcam Nichino)"
+ },
+ "cam.eng.br": {
+  "dominio_corrigido": "www.cam.eng.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.cam.eng.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "hubnerfundicao.com.br": {
+  "dominio_corrigido": "www.hubnerfundicao.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.hubnerfundicao.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (site verificado)"
+ },
+ "amtektekfor.com": {
+  "dominio_corrigido": "www.tekfor.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.aam.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Amtek/Tekfor)"
+ },
+ "3x.png": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "valor invalido na base (nome de arquivo de imagem, nao e dominio)"
+ },
+ "idealsboardmail.com": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "nao e empresa da base (parece produto de software); sem site valido"
+ },
+ "proficientnowresearch.com": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio generico/sem empresa identificavel; sem site valido"
+ },
+ "varinhadigital.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "registro sem empresa real (campo dizia 'em busca de oportunidades'); dominio nao resolve"
+ },
+ "prototype3d.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); nenhum site de 'Prototype 3D' confirmado"
+ },
+ "ab-rodofort.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "empresa baixada/incorporada; sem site ativo"
+ },
+ "usimabe.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio registrado mas sem registro A (site fora do ar)"
+ },
+ "smorenometalurgica.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio registrado mas sem registro A (site fora do ar)"
+ },
+ "positivaindustrial.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio registrado mas sem registro A (site fora do ar)"
+ },
+ "mediacom.com": {
+  "dominio_corrigido": "www.essencemediacom.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.essencemediacom.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (MediaCom -> EssenceMediacom)"
+ },
+ "sugoiincorporadora.com.br": {
+  "dominio_corrigido": "sugoisa.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://sugoisa.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Sugoi Incorporadora)"
+ },
+ "csdvarejo.com.br": {
+  "dominio_corrigido": "www.grupoamigao.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.grupoamigao.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (CSD -> Grupo Amigao)"
+ },
+ "airplusengenharia.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio resolve mas retorna HTTP 404 (site fora do ar)"
+ },
+ "metalurgicamagalhaes.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio resolve mas retorna HTTP 404 em todas as paginas (site fora do ar)"
+ },
+ "ttxequipamentos.com.br": {
+  "dominio_corrigido": "grupottx.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://grupottx.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (TTX Equipamentos)"
+ },
+ "carueme.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "Grupo Carueme (caminhoes); grupocarueme.com.br retorna HTTP 404, sem site acessivel"
+ },
+ "kfestamparia.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); cache de busca desatualizado"
+ },
+ "metalurgicaclara.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio resolve mas servidor retorna HTTP 500 (site instavel)"
+ },
+ "cassioecassio.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); distribuidora de aco com site fora do ar"
+ },
+ "tiberina.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio registrado mas sem registro A; grupo italiano Tiberina sem site BR ativo"
+ },
+ "decioindmet.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); empresa so mantem Linktree"
+ },
+ "ferramentariadamp.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve; existe 'Damp' em Portugal (damp.pt) mas provavelmente empresa distinta"
+ },
+ "vectoreq.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio registrado mas sem registro A (site fora do ar)"
  }
 }

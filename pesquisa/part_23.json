@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 460,
+    "dominio_efetivo": "vcimentos.com",
+    "empresa": "Votorantim Cimentos",
+    "segmento": "Construção (cimento)",
+    "principal_produto": "Cimento, concreto, agregados e argamassas",
+    "fabrica_brasil": "Votorantim/SP (sede) e 34 fábricas no Brasil",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica materiais de construção (cimento/concreto), não transforma aço carbono em produtos.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 461,
+    "dominio_efetivo": "helisul.com",
+    "empresa": "Helisul",
+    "segmento": "Aviação (serviços)",
+    "principal_produto": "Serviços aéreos com helicópteros, aviões e drones",
+    "fabrica_brasil": "Foz do Iguaçu/PR (base), Rio de Janeiro/RJ e outras bases",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de serviços de aviação, não fabrica produtos com aço carbono.",
+    "fonte": "https://helisul.com"
+  },
+  {
+    "idx": 462,
+    "dominio_efetivo": "sonaca.com",
+    "empresa": "Sonaca",
+    "segmento": "Aeroespacial",
+    "principal_produto": "Aeroestruturas, peças estampadas e usinadas para aviação",
+    "fabrica_brasil": "São José dos Campos/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Aeroestruturas em alumínio, mas tem estamparia/usinagem que pode incluir peças de aço carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 463,
+    "dominio_efetivo": "csm.ind.br",
+    "empresa": "CSM (Construção e Máquinas)",
+    "segmento": "Máquinas/Equipamentos (construção)",
+    "principal_produto": "Betoneiras, guinchos, fôrmas, pontes rolantes",
+    "fabrica_brasil": "Jaraguá do Sul/SC e Schroeder/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica fôrmas, equipamentos de elevação e betoneiras com chapas/tubos de aço soldados e estampados.",
+    "fonte": "https://csm.ind.br"
+  },
+  {
+    "idx": 464,
+    "dominio_efetivo": "perfectbrasil.com.br",
+    "empresa": "Perfect Brasil",
+    "segmento": "Equipamentos (alimentício)",
+    "principal_produto": "Equipamentos para cozinha/alimentação (inox)",
+    "fabrica_brasil": "Não identificado",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Equipamentos alimentícios em inox; estrutura/base pode usar aço carbono, não confirmado (site fora do ar).",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 465,
+    "dominio_efetivo": "iveco.com",
+    "empresa": "Iveco",
+    "segmento": "Montadora",
+    "principal_produto": "Caminhões e veículos comerciais (Daily, Tector, Hi-Way)",
+    "fabrica_brasil": "Sete Lagoas/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica caminhões e veículos cortando/dobrando chapas de aço; chassi e cabines em aço carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 466,
+    "dominio_efetivo": "sermasa.com.br",
+    "empresa": "Sermasa",
+    "segmento": "Máquinas/Equipamentos industriais",
+    "principal_produto": "Trocadores de calor, vasos de pressão, equipamentos para usinas",
+    "fabrica_brasil": "Sertãozinho/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Caldeiraria pesada: transforma e solda chapas de aço em equipamentos industriais.",
+    "fonte": "https://sermasa.com.br"
+  },
+  {
+    "idx": 467,
+    "dominio_efetivo": "tieteagro.com.br",
+    "empresa": "Tietê Agroindustrial",
+    "segmento": "Sucroenergético",
+    "principal_produto": "Açúcar VHP, etanol e cogeração de energia",
+    "fabrica_brasil": "Paraíso/SP e Ubarana/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz açúcar, etanol e energia; não fabrica produtos a partir de aço carbono.",
+    "fonte": "https://tieteagro.com.br"
+  },
+  {
+    "idx": 468,
+    "dominio_efetivo": "tecumseh.com",
+    "empresa": "Tecumseh",
+    "segmento": "Equipamentos (refrigeração)",
+    "principal_produto": "Compressores herméticos para refrigeração",
+    "fabrica_brasil": "São Carlos/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Compressores herméticos com carcaça de aço estampada e soldada.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 469,
+    "dominio_efetivo": "econeteditora.com.br",
+    "empresa": "Econet Editora",
+    "segmento": "Editora/Serviços (conteúdo fiscal)",
+    "principal_produto": "Conteúdo e ferramentas digitais fiscais/trabalhistas",
+    "fabrica_brasil": "Não identificado (editora digital)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Editora digital de conteúdo fiscal/trabalhista, não é fabricante.",
+    "fonte": "https://econeteditora.com.br"
+  },
+  {
+    "idx": 470,
+    "dominio_efetivo": "eurofarma.com.br",
+    "empresa": "Eurofarma",
+    "segmento": "Farmacêutica",
+    "principal_produto": "Medicamentos",
+    "fabrica_brasil": "São Paulo/SP e Itapevi/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica medicamentos; não transforma aço carbono em produtos.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 471,
+    "dominio_efetivo": "www.progen.com.br",
+    "empresa": "Progen",
+    "segmento": "Engenharia (EPC)",
+    "principal_produto": "Engenharia, construção e gestão de projetos (EPC/EPCM)",
+    "fabrica_brasil": "São Paulo/SP (sede de serviços)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Presta serviços de engenharia/EPC; executa obras, não fabrica produtos de aço.",
+    "fonte": "https://www.progen.com.br"
+  },
+  {
+    "idx": 472,
+    "dominio_efetivo": "schioppa.com",
+    "empresa": "Schioppa Casters and Wheels",
+    "segmento": "Metalúrgica",
+    "principal_produto": "Rodízios e rodas (casters)",
+    "fabrica_brasil": "São Paulo/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica rodízios e rodas com suportes/estruturas em aço carbono estampado.",
+    "fonte": "https://schioppa.com.br"
+  },
+  {
+    "idx": 473,
+    "dominio_efetivo": "artivinco.com.br",
+    "empresa": "Artivinco",
+    "segmento": "Embalagens (papel/papelão)",
+    "principal_produto": "Papéis, chapas e embalagens de papelão ondulado",
+    "fabrica_brasil": "Itatiba/SP e Santa Rosa de Viterbo/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica embalagens de papelão; não usa aço carbono no produto.",
+    "fonte": "https://artivinco.com.br"
+  },
+  {
+    "idx": 474,
+    "dominio_efetivo": "feital.com.br",
+    "empresa": "Grupo Feital",
+    "segmento": "Distribuição de aço (siderurgia)",
+    "principal_produto": "Distribuição de aço inox e carbono (chapas, tubos, barras, conexões)",
+    "fabrica_brasil": "Ribeirão Pires/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Distribuidor de aço (inox e carbono), não fabrica produtos conformados a partir do aço.",
+    "fonte": "https://feital.com.br"
+  },
+  {
+    "idx": 475,
+    "dominio_efetivo": "romagnole.com.br",
+    "empresa": "Romagnole",
+    "segmento": "Energia (material elétrico)",
+    "principal_produto": "Ferragens eletrotécnicas, postes de aço, cabines e transformadores",
+    "fabrica_brasil": "Mandaguari/PR (sede) e outras unidades",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Processa mais de 4 mil ton/mês de aço em ferragens estampadas/forjadas, postes e estruturas.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 476,
+    "dominio_efetivo": "seatrium.com",
+    "empresa": "Estaleiro Jurong Aracruz (Seatrium)",
+    "segmento": "Naval/Offshore",
+    "principal_produto": "Plataformas, FPSOs e estruturas navais/offshore",
+    "fabrica_brasil": "Aracruz/ES; também Angra dos Reis/RJ e Navegantes/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estaleiro com oficina de aço que processa +4 mil ton/mês em cascos e módulos de plataformas.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 477,
+    "dominio_efetivo": "berneck.com.br",
+    "empresa": "Berneck Painéis",
+    "segmento": "Madeira/Painéis",
+    "principal_produto": "Painéis MDF, MDP, HDF e madeira serrada (pinus/teca)",
+    "fabrica_brasil": "Araucária/PR (sede); Lages/SC e Curitibanos/SC",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica painéis de madeira e serrados; não usa aço carbono no produto.",
+    "fonte": "https://berneck.com.br"
+  },
+  {
+    "idx": 478,
+    "dominio_efetivo": "imam.ind.br",
+    "empresa": "IMAM",
+    "segmento": "Consultoria/Editora (logística)",
+    "principal_produto": "Consultoria, treinamento e publicações em logística/supply chain",
+    "fabrica_brasil": "São Paulo/SP (não é fábrica)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Consultoria, treinamento e editora de logística; não é fabricante.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 479,
+    "dominio_efetivo": "unesp.br",
+    "empresa": "UNESP (Universidade Estadual Paulista)",
+    "segmento": "Educação/Ensino superior",
+    "principal_produto": "Ensino, pesquisa e extensão universitária",
+    "fabrica_brasil": "São Paulo/SP (campi pelo estado de SP)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Universidade pública; não é fabricante de produtos.",
+    "fonte": "https://unesp.br"
+  }
+]

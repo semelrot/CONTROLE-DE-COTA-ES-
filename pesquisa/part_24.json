@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 480,
+  "dominio_efetivo": "unimil.com.br",
+  "empresa": "Unimil",
+  "segmento": "Maquinas agricolas (pecas)",
+  "principal_produto": "Pecas de reposicao para colhedoras de cana John Deere e Case",
+  "fabrica_brasil": "Aracatuba, SP (e unidades em Assis/SP, Maringa/PR, Rio Verde/GO, Dourados/MS)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Pecas de reposicao para colhedoras (facas, eixos, conjuntos) sao usinadas/conformadas em aco carbono.",
+  "fonte": "https://unimil.com.br"
+ },
+ {
+  "idx": 481,
+  "dominio_efetivo": "www.monsanto.com",
+  "empresa": "Monsanto (Bayer)",
+  "segmento": "Agronegocio/Quimica",
+  "principal_produto": "Sementes, defensivos agricolas e biotecnologia agricola",
+  "fabrica_brasil": "Sao Paulo, SP (sementes/agroquimicos; varias unidades agro no BR)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz sementes e agroquimicos; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 482,
+  "dominio_efetivo": "steelrool.com.br",
+  "empresa": "SteelRool",
+  "segmento": "Metalurgica",
+  "principal_produto": "Transportadores de correia e componentes (roletes, cavaletes, tambores) para graneis",
+  "fabrica_brasil": "Criciuma, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Roletes, tambores e estruturas de transportadores sao fabricados em tubos/chapas de aco carbono.",
+  "fonte": "https://steelrool.com.br"
+ },
+ {
+  "idx": 483,
+  "dominio_efetivo": "deltaww.com",
+  "empresa": "Delta Electronics",
+  "segmento": "Eletroeletronica/Energia",
+  "principal_produto": "Fontes chaveadas, gestao de energia, automacao e solucoes de infraestrutura",
+  "fabrica_brasil": "Sao Jose dos Campos, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Nucleo e eletronico; gabinetes/racks de fontes e nobreaks usam chapa de aco carbono.",
+  "fonte": "https://deltaww.com"
+ },
+ {
+  "idx": 484,
+  "dominio_efetivo": "cebi.com",
+  "empresa": "CEBI",
+  "segmento": "Autopecas (eletromecanica)",
+  "principal_produto": "Componentes eletromecanicos: atuadores, bombas, sensores, fechaduras, sistemas de lavagem",
+  "fabrica_brasil": "Indaiatuba, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes eletromecanicos combinam pecas estampadas de aco carbono com plastico e eletronica.",
+  "fonte": "https://cebi.com"
+ },
+ {
+  "idx": 485,
+  "dominio_efetivo": "selmi.com.br",
+  "empresa": "Selmi",
+  "segmento": "Alimentos",
+  "principal_produto": "Massas, biscoitos e farinhas (marcas Renata, Galo, Todeschini)",
+  "fabrica_brasil": "Sumare, SP (e Rolandia, PR)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica alimentos; nao utiliza aco carbono na composicao de seus produtos.",
+  "fonte": "https://selmi.com.br"
+ },
+ {
+  "idx": 486,
+  "dominio_efetivo": "zeppelin-la.com",
+  "empresa": "Zeppelin (Systems LA)",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Sistemas de transporte pneumatico, silos, valvulas e misturadores para po/granulado",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Silos divulgados em aluminio/inox, mas estruturas e tubulacoes de processo usam aco carbono.",
+  "fonte": "https://zeppelin-la.com"
+ },
+ {
+  "idx": 487,
+  "dominio_efetivo": "stahl.ind.br",
+  "empresa": "STAHL Engenharia",
+  "segmento": "Caldeiraria/Montagem industrial",
+  "principal_produto": "Estruturas e equipamentos (piperack, trocadores, silos) e montagem eletromecanica",
+  "fabrica_brasil": "Esteio, RS (filiais em Santos/SP, Serra/ES, Tres Lagoas/MS e outras)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica piperacks, silos e estruturas em chapas e perfis de aco carbono.",
+  "fonte": "https://stahl.ind.br"
+ },
+ {
+  "idx": 488,
+  "dominio_efetivo": "ventisilva.com.br",
+  "empresa": "Ventisilva",
+  "segmento": "Metalurgica (ventilacao)",
+  "principal_produto": "Ventiladores, exaustores e microventiladores industriais",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcacas, helices e estruturas de ventiladores/exaustores sao fabricadas em chapa de aco carbono.",
+  "fonte": "http://www.ventisilva.com.br"
+ },
+ {
+  "idx": 489,
+  "dominio_efetivo": "www.augustovelloso.com.br",
+  "empresa": "Augusto Velloso",
+  "segmento": "Construtora",
+  "principal_produto": "Construcao civil e pesada: edificacoes, saneamento, tuneis, pontes e infraestrutura",
+  "fabrica_brasil": "Sao Paulo, SP (sede; obras em todo o Brasil)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora de obras; consome aco em obra mas nao fabrica produtos de aco carbono.",
+  "fonte": "https://www.augustovelloso.com.br"
+ },
+ {
+  "idx": 490,
+  "dominio_efetivo": "autometal.com.br",
+  "empresa": "Autometal (CIE Automotive)",
+  "segmento": "Autopecas",
+  "principal_produto": "Componentes automotivos estampados/usinados de aco e pecas plasticas",
+  "fabrica_brasil": "Taubate, SP (e Diadema/SP, Piracicaba/SP, Cabo de Santo Agostinho/PE)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Unidades produzem componentes automotivos estampados e usinados em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 491,
+  "dominio_efetivo": "grupoaldo.com.br",
+  "empresa": "Grupo Aldo",
+  "segmento": "Distribuicao (energia solar/TI)",
+  "principal_produto": "Distribuicao de equipamentos de energia solar fotovoltaica e produtos de TI",
+  "fabrica_brasil": "Maringa, PR (distribuidor, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/importador de equipamentos; nao fabrica produtos com aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 492,
+  "dominio_efetivo": "temon.com.br",
+  "empresa": "Temon",
+  "segmento": "Montagem industrial/Construcao",
+  "principal_produto": "Montagens eletromecanicas, instalacoes eletricas/hidraulicas e obras industriais",
+  "fabrica_brasil": "Sao Paulo, SP (sede; obras em todo o Brasil)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Presta servicos de montagem e construcao; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 493,
+  "dominio_efetivo": "ashland.com",
+  "empresa": "Ashland",
+  "segmento": "Quimica",
+  "principal_produto": "Aditivos e ingredientes quimicos especiais (farma, cosmetico, industrial)",
+  "fabrica_brasil": "Sem fabrica no Brasil (matriz no exterior); operacao comercial no BR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica quimicos especiais; nao produz bens a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 494,
+  "dominio_efetivo": "racional.com",
+  "empresa": "Racional Engenharia",
+  "segmento": "Construtora/Engenharia",
+  "principal_produto": "Engenharia e construcao de obras comerciais, industriais e de infraestrutura",
+  "fabrica_brasil": "Sao Paulo, SP (sede; obras em todo o Brasil)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora; consome aco em obras mas nao fabrica produtos de aco carbono.",
+  "fonte": "https://racional.com"
+ },
+ {
+  "idx": 495,
+  "dominio_efetivo": "krones.com.br",
+  "empresa": "Krones",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Maquinas de engarrafamento, enchimento e embalagem de bebidas",
+  "fabrica_brasil": "Sem fabrica no Brasil (matriz na Alemanha); subsidiaria/servico no BR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Maquinas usam inox no contato com bebida, mas bases, estruturas e protecoes sao aco carbono.",
+  "fonte": "https://www.krones.com"
+ },
+ {
+  "idx": 496,
+  "dominio_efetivo": "bridgestone.com.br",
+  "empresa": "Bridgestone",
+  "segmento": "Pneus (borracha)",
+  "principal_produto": "Pneus para automoveis, caminhoes e maquinas",
+  "fabrica_brasil": "Santo Andre, SP e Camacari, BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto e de borracha; usa fios de aco como reforco, mas nao fabrica pecas de aco carbono.",
+  "fonte": "https://bridgestone.com.br"
+ },
+ {
+  "idx": 497,
+  "dominio_efetivo": "dynamicair.com.br",
+  "empresa": "Dynamic Air",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Sistemas de transporte pneumatico e equipamentos para manuseio de solidos a granel",
+  "fabrica_brasil": "Nazare Paulista, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Vasos, tanques pressurizados e tubulacoes do sistema pneumatico sao fabricados em aco carbono.",
+  "fonte": "https://dynamicair.com.br"
+ },
+ {
+  "idx": 498,
+  "dominio_efetivo": "www.kloecknermetals.com.br",
+  "empresa": "Kloeckner Metals",
+  "segmento": "Distribuicao de aco",
+  "principal_produto": "Distribuicao e centro de servicos de aco (corte/beneficiamento de chapas e bobinas)",
+  "fabrica_brasil": "Centros de servico no BR (distribuidor, sem fabricacao de produto final)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribui e beneficia aco; e fornecedor/concorrente, nao fabricante de produto consumindo aco.",
+  "fonte": "https://www.kloecknermetals.com.br"
+ },
+ {
+  "idx": 499,
+  "dominio_efetivo": "sms-group.com",
+  "empresa": "SMS group",
+  "segmento": "Maquinas/Equipamentos siderurgicos",
+  "principal_produto": "Plantas e equipamentos metalurgicos/siderurgicos; pecas, reparos e modernizacoes",
+  "fabrica_brasil": "Vespasiano, MG (oficina de fabricacao e reparo)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica e recondiciona componentes pesados de equipamentos siderurgicos em aco carbono/ligado.",
+  "fonte": "https://www.sms-group.com/company/locations/our-global-setup/sms-group-in-brazil"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 400,
+  "dominio_efetivo": "enebras.com.br",
+  "empresa": "Enebras",
+  "segmento": "Climatizacao/HVAC (servicos)",
+  "principal_produto": "Projetos, instalacao e manutencao de climatizacao para ambientes criticos",
+  "fabrica_brasil": "Sao Paulo, SP (sede de servicos, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de servicos de engenharia/HVAC, nao fabrica produtos em aco.",
+  "fonte": "https://enebras.com.br"
+ },
+ {
+  "idx": 401,
+  "dominio_efetivo": "nordestefs.com.br",
+  "empresa": "Nordeste Servicos",
+  "segmento": "Metalurgica/Montagem industrial",
+  "principal_produto": "Fabricacao de estruturas metalicas e servicos eletromecanicos",
+  "fabrica_brasil": "Parauapebas, PA",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas (>500 t/mes), tipicamente aco carbono estrutural.",
+  "fonte": "https://nordestefs.com.br"
+ },
+ {
+  "idx": 402,
+  "dominio_efetivo": "cravil.com.br",
+  "empresa": "Cravil",
+  "segmento": "Agronegocio (cooperativa)",
+  "principal_produto": "Sementes de arroz, leite, racoes, graos e varejo agricola",
+  "fabrica_brasil": "Santa Catarina (varias unidades de beneficiamento)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Cooperativa agricola; beneficia/comercializa graos e leite, nao fabrica em aco.",
+  "fonte": "https://cravil.com.br"
+ },
+ {
+  "idx": 403,
+  "dominio_efetivo": "ostengroup.com",
+  "empresa": "Osten Group",
+  "segmento": "Concessionaria/Mobilidade automotiva",
+  "principal_produto": "Venda de veiculos (BMW/BYD/Jeep), locacao, seguros e recarga eletrica",
+  "fabrica_brasil": "Sao Paulo, SP (rede de lojas; sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Grupo de concessionarias e servicos automotivos, nao fabrica produtos.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 404,
+  "dominio_efetivo": "deltasucroenergia.com.br",
+  "empresa": "Delta Sucroenergia",
+  "segmento": "Sucroenergetico/Alimentos",
+  "principal_produto": "Acucar cristal/VHP, etanol e bioenergia",
+  "fabrica_brasil": "Delta, MG e Conceicao das Alagoas, MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina de cana; produz acucar, etanol e energia, nao fabrica em aco.",
+  "fonte": "https://deltasucroenergia.com.br"
+ },
+ {
+  "idx": 405,
+  "dominio_efetivo": "sollecom.com.br",
+  "empresa": "Sollecom",
+  "segmento": "Equipamentos (unidades moveis/broadcast)",
+  "principal_produto": "Unidades moveis, shelters, trailers, mastros e racks",
+  "fabrica_brasil": "Jacarei, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica unidades moveis, shelters e mastros, estruturas metalicas em aco carbono.",
+  "fonte": "https://sollecom.com.br"
+ },
+ {
+  "idx": 406,
+  "dominio_efetivo": "www.toyota-boshoku.com",
+  "empresa": "Toyota Boshoku",
+  "segmento": "Autopecas",
+  "principal_produto": "Bancos automotivos, interiores e filtros",
+  "fabrica_brasil": "Sorocaba, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica bancos automotivos cujas estruturas usam aco carbono estampado.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 407,
+  "dominio_efetivo": "ccstec.com.br",
+  "empresa": "CCS Tecnologia e Servicos",
+  "segmento": "Metalurgica (transformacao de aco)",
+  "principal_produto": "Conjuntos soldados/pecas metalicas (corte laser, dobra, usinagem, solda)",
+  "fabrica_brasil": "Limeira, SP e Palmeira, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Especializada em transformacao do aco; corta, dobra, usina e solda pecas em aco.",
+  "fonte": "https://ccstec.com.br"
+ },
+ {
+  "idx": 408,
+  "dominio_efetivo": "planaltoindustria.com.br",
+  "empresa": "Planalto Industria Mecanica",
+  "segmento": "Maquinas/Equipamentos (coleta de residuos)",
+  "principal_produto": "Coletores compactadores, lava-containers e compactadores estacionarios",
+  "fabrica_brasil": "Goiania, GO",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica compactadores e coletores cujas carrocerias/estruturas sao em aco carbono.",
+  "fonte": "https://planaltoindustria.com.br"
+ },
+ {
+  "idx": 409,
+  "dominio_efetivo": "frum.com.br",
+  "empresa": "Frum",
+  "segmento": "Autopecas (sistemas de freio)",
+  "principal_produto": "Tambores, cubos, discos e sistemas de freio para veiculos pesados",
+  "fabrica_brasil": "Extrema, MG",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes de freio usam aco; tambores/discos frequentemente sao ferro fundido.",
+  "fonte": "https://frum.com.br"
+ },
+ {
+  "idx": 410,
+  "dominio_efetivo": "metalsato.com.br",
+  "empresa": "Metalurgica Sato da Amazonia",
+  "segmento": "Metalurgica (estamparia/usinagem)",
+  "principal_produto": "Pecas estampadas/usinadas/soldadas, paletes, lixeiras e ferragens metalicas",
+  "fabrica_brasil": "Manaus, AM",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Faz estamparia, solda e usinagem de pecas metalicas, base de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 411,
+  "dominio_efetivo": "bobst.com",
+  "empresa": "Bobst",
+  "segmento": "Maquinas/Equipamentos (embalagem)",
+  "principal_produto": "Maquinas de corte e vinco e dobradeiras-coladeiras para embalagens",
+  "fabrica_brasil": "Itatiba, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica maquinas industriais em Itatiba; estruturas/componentes em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 412,
+  "dominio_efetivo": "reframax.com.br",
+  "empresa": "Reframax",
+  "segmento": "Refratarios/Servicos industriais",
+  "principal_produto": "Aplicacao de revestimento refratario e isolamento termico",
+  "fabrica_brasil": "Belo Horizonte, MG (sede de servicos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de servicos de refratario para siderurgia, nao fabrica em aco.",
+  "fonte": "http://www.reframax.com.br/portal/"
+ },
+ {
+  "idx": 413,
+  "dominio_efetivo": "indisa.com.br",
+  "empresa": "Indisa (Bozza Junior)",
+  "segmento": "Autopecas",
+  "principal_produto": "Bombas automotivas (agua, oleo, combustivel) e componentes hidraulicos",
+  "fabrica_brasil": "Campinas, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Bombas automotivas usam aco em eixos/estampados, mas tambem ferro fundido/aluminio.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 414,
+  "dominio_efetivo": "innara.com.br",
+  "empresa": "Innara",
+  "segmento": "Metalurgica (aramados/estamparia)",
+  "principal_produto": "Prateleiras, grades, cestos aramados e pecas estampadas",
+  "fabrica_brasil": "Indaiatuba, SP e Sorocaba, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica aramados e estampados em aco (alem de latao/inox/aluminio).",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 415,
+  "dominio_efetivo": "furlan.com.br",
+  "empresa": "Furlan",
+  "segmento": "Maquinas/Equipamentos (mineracao)",
+  "principal_produto": "Plantas e equipamentos de britagem, moagem e beneficiamento de minerios",
+  "fabrica_brasil": "Limeira, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica britadores e equipamentos pesados, estruturas e chapas em aco carbono.",
+  "fonte": "https://furlan.com.br"
+ },
+ {
+  "idx": 416,
+  "dominio_efetivo": "aurotec.com",
+  "empresa": "Aurotec",
+  "segmento": "Autopecas/Maquinas agricolas",
+  "principal_produto": "Pecas de desgaste e chapas para colhedoras de cana e tratores",
+  "fabrica_brasil": "Presidente Prudente, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica pecas de desgaste e chapas usinadas em aco para colhedoras.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 417,
+  "dominio_efetivo": "mosaicco.com",
+  "empresa": "The Mosaic Company",
+  "segmento": "Fertilizantes/Mineracao",
+  "principal_produto": "Fertilizantes de fosfato e potassio",
+  "fabrica_brasil": "Operacoes na America do Sul (mosaicco.com.br)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora e produtora de fertilizantes, nao fabrica produtos em aco.",
+  "fonte": "https://www.mosaicco.com"
+ },
+ {
+  "idx": 418,
+  "dominio_efetivo": "fantr.com",
+  "empresa": "Fantr",
+  "segmento": "Equipamentos (ventilacao industrial)",
+  "principal_produto": "Ventiladores axiais para mineracao, tuneis e torres de resfriamento",
+  "fabrica_brasil": "Sorocaba, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Foca em pas de material composto, mas carcacas/estruturas costumam ser aco carbono.",
+  "fonte": "https://fantr.com"
+ },
+ {
+  "idx": 419,
+  "dominio_efetivo": "schulergroup.com",
+  "empresa": "Schuler Group",
+  "segmento": "Maquinas/Equipamentos (prensas)",
+  "principal_produto": "Prensas e equipamentos de conformacao de metais para estamparia",
+  "fabrica_brasil": "Diadema, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica prensas de grande porte em Diadema; estruturas em aco carbono.",
+  "fonte": "busca web"
+ }
+]

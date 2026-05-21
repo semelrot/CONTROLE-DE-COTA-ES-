@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 20,
+    "dominio_efetivo": "gestamp.com",
+    "empresa": "Gestamp",
+    "segmento": "Autopecas",
+    "principal_produto": "Estampados e conjuntos estruturais soldados para carrocerias/chassis",
+    "fabrica_brasil": "Betim/MG, Sorocaba/SP, Taubate/SP, Santa Isabel/SP, Curitiba/PR, Gravatai/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa chapas e bobinas de aco para componentes estruturais automotivos",
+    "fonte": "busca web (automotivebusiness, autodata)"
+  },
+  {
+    "idx": 21,
+    "dominio_efetivo": "marcopolo.com.br",
+    "empresa": "Marcopolo",
+    "segmento": "Carroceria/Implementos",
+    "principal_produto": "Carrocerias de onibus (urbano, rodoviario, micro)",
+    "fabrica_brasil": "Caxias do Sul/RS (Ana Rech)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas e carrocerias de aco para onibus desde 1952",
+    "fonte": "busca web (clubedoonibus, lexicar)"
+  },
+  {
+    "idx": 22,
+    "dominio_efetivo": "andritz.com",
+    "empresa": "Andritz",
+    "segmento": "Maquinas/Equipamentos industriais",
+    "principal_produto": "Equipamentos para celulose/papel, hidreletricas e metais",
+    "fabrica_brasil": "Pomerode/SC e outras unidades (Brasil)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Equipamentos industriais pesados fabricados com chapas/perfis de aco",
+    "fonte": "https://andritz.com"
+  },
+  {
+    "idx": 23,
+    "dominio_efetivo": "ford.com",
+    "empresa": "Ford",
+    "segmento": "Montadora",
+    "principal_produto": "Automoveis e veiculos comerciais",
+    "fabrica_brasil": "Sem fabrica de veiculos no Brasil (producao encerrada 2021)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa chapas de aco para carrocerias (producao global)",
+    "fonte": "busca web (CNN Brasil, Gazeta do Povo)"
+  },
+  {
+    "idx": 24,
+    "dominio_efetivo": "iochpe.com.br",
+    "empresa": "Iochpe-Maxion",
+    "segmento": "Autopecas",
+    "principal_produto": "Rodas de aco e chassis/longarinas para veiculos",
+    "fabrica_brasil": "Limeira/SP, Cruzeiro/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e conforma chapas de aco para rodas e chassis",
+    "fonte": "busca web (iochpe.com.br, investe.sp)"
+  },
+  {
+    "idx": 25,
+    "dominio_efetivo": "grupomoura.com",
+    "empresa": "Baterias Moura",
+    "segmento": "Autopecas/Energia",
+    "principal_produto": "Baterias automotivas e sistemas de acumulacao de energia",
+    "fabrica_brasil": "Belo Jardim/PE (sede) e demais plantas no Brasil",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Baterias feitas de chumbo e plastico, nao usa aco carbono",
+    "fonte": "https://grupomoura.com"
+  },
+  {
+    "idx": 26,
+    "dominio_efetivo": "hyundai.com",
+    "empresa": "Hyundai",
+    "segmento": "Montadora",
+    "principal_produto": "Automoveis (HB20, Creta)",
+    "fabrica_brasil": "Piracicaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa chapas de aco para carrocerias de automoveis",
+    "fonte": "busca web (hyundai.com.br, timesbrasil)"
+  },
+  {
+    "idx": 27,
+    "dominio_efetivo": "biagioturbos.com",
+    "empresa": "Biagio Turbos",
+    "segmento": "Autopecas",
+    "principal_produto": "Turbocompressores, coletores de escape e valvulas wastegate",
+    "fabrica_brasil": "Sao Joao da Boa Vista/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Coletores/wastegate podem usar aco; nucleo do turbo e fofo/superliga/aluminio",
+    "fonte": "busca web (biagioturbos.com, linkedin)"
+  },
+  {
+    "idx": 28,
+    "dominio_efetivo": "volvogroup.com",
+    "empresa": "Volvo Group",
+    "segmento": "Montadora",
+    "principal_produto": "Caminhoes, onibus e motores",
+    "fabrica_brasil": "Curitiba/PR",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica chassis e cabines de caminhao usando aco",
+    "fonte": "busca web (volvogroup.com/br, logweb)"
+  },
+  {
+    "idx": 29,
+    "dominio_efetivo": "ivecogroup.com",
+    "empresa": "Iveco Group",
+    "segmento": "Montadora",
+    "principal_produto": "Caminhoes (Daily, Tector, Hi-Way) e cabines",
+    "fabrica_brasil": "Sete Lagoas/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa cabines e fabrica chassis de aco para caminhoes",
+    "fonte": "busca web (ivecogroup.com, autossegredos)"
+  },
+  {
+    "idx": 30,
+    "dominio_efetivo": "continental.com",
+    "empresa": "Continental",
+    "segmento": "Autopecas",
+    "principal_produto": "Pneus e produtos tecnicos de borracha/plastico (ContiTech)",
+    "fabrica_brasil": "Camacari/BA, Ponta Grossa/PR, Varzea Paulista/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz pneus e pecas de borracha/plastico, nao aco carbono",
+    "fonte": "busca web (conti.com.br, contitech.com.br)"
+  },
+  {
+    "idx": 31,
+    "dominio_efetivo": "randoncorp.com",
+    "empresa": "Randon S.A.",
+    "segmento": "Implementos rodoviarios",
+    "principal_produto": "Reboques e semirreboques (carretas, tanques, basculantes)",
+    "fabrica_brasil": "Caxias do Sul/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Linha de producao parte de bobinas de aco para semirreboques",
+    "fonte": "busca web (randon.com.br, autovideos)"
+  },
+  {
+    "idx": 32,
+    "dominio_efetivo": "marelli.com",
+    "empresa": "Marelli",
+    "segmento": "Autopecas",
+    "principal_produto": "Escapamentos, amortecedores/suspensao, farois e eletronica",
+    "fabrica_brasil": "Hortolandia/SP, Maua/SP, Amparo/SP, Contagem/MG, Lavras/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica escapamentos e estruturas de suspensao em aco",
+    "fonte": "busca web (mecanicaonline, transportemoderno)"
+  },
+  {
+    "idx": 33,
+    "dominio_efetivo": "adient.com",
+    "empresa": "Adient",
+    "segmento": "Autopecas",
+    "principal_produto": "Bancos automotivos, estruturas e mecanismos de assento",
+    "fabrica_brasil": "Sao Bernardo do Campo/SP, Curitiba/PR, Pouso Alegre/MG, Gravatai/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas e mecanismos de bancos em aco",
+    "fonte": "busca web (econodata, linkedin Adient)"
+  },
+  {
+    "idx": 34,
+    "dominio_efetivo": "parker.com",
+    "empresa": "Parker Hannifin",
+    "segmento": "Equipamentos/Hidraulica",
+    "principal_produto": "Cilindros hidraulicos, conexoes, blocos manifold e filtros",
+    "fabrica_brasil": "Jacarei/SP, Sao Jose dos Campos/SP, Aruja/SP, Cachoeirinha/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usina cilindros, tubos e conexoes de aco para hidraulica",
+    "fonte": "busca web (parker50anosbrasil, brasilengenharia)"
+  },
+  {
+    "idx": 35,
+    "dominio_efetivo": "borgwarner.com",
+    "empresa": "BorgWarner",
+    "segmento": "Autopecas",
+    "principal_produto": "Turbocompressores, correntes de comando e powertrain",
+    "fabrica_brasil": "Itatiba/SP, Piracicaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Correntes de comando e componentes de powertrain feitos de aco",
+    "fonte": "busca web (borgwarner.com newsroom)"
+  },
+  {
+    "idx": 36,
+    "dominio_efetivo": "weg.net",
+    "empresa": "WEG",
+    "segmento": "Maquinas/Energia eletrica",
+    "principal_produto": "Motores eletricos, transformadores, geradores e automacao",
+    "fabrica_brasil": "Jaragua do Sul/SC e 14 parques industriais no Brasil",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Carcacas e nucleos (aco-silicio/chapas de aco) em motores e trafos",
+    "fonte": "busca web (weg.net, wikipedia)"
+  },
+  {
+    "idx": 37,
+    "dominio_efetivo": "tupy.com.br",
+    "empresa": "Tupy",
+    "segmento": "Metalurgica/Fundicao",
+    "principal_produto": "Blocos e cabecotes de motor em ferro fundido",
+    "fabrica_brasil": "Joinville/SC, Maua/SP, Betim/MG",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Trabalha com ferro fundido, nao com aco carbono",
+    "fonte": "busca web (tupy.com.br, usinagem-brasil)"
+  },
+  {
+    "idx": 38,
+    "dominio_efetivo": "zm.com.br",
+    "empresa": "ZM S.A.",
+    "segmento": "Autopecas",
+    "principal_produto": "Motores de partida, alternadores, conformados a frio, parafusos/porcas de roda",
+    "fabrica_brasil": "Brusque/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma a frio (cold forging) parafusos e fixadores de aco",
+    "fonte": "busca web (zm.com.br, balcaoautomotivo)"
+  },
+  {
+    "idx": 39,
+    "dominio_efetivo": "thyssenkrupp.com",
+    "empresa": "ThyssenKrupp",
+    "segmento": "Metalurgica/Forjaria",
+    "principal_produto": "Virabrequins e bielas forjados, componentes para powertrain",
+    "fabrica_brasil": "Campo Limpo Paulista/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Forja virabrequins e bielas a partir de aco",
+    "fonte": "busca web (thyssenkrupp-brazil.com, autoindustria)"
+  }
+]

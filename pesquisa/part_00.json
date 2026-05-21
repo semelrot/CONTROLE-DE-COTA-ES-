@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 0,
+  "dominio_efetivo": "gm.com",
+  "empresa": "General Motors",
+  "segmento": "Montadora",
+  "principal_produto": "Automoveis e picapes (Chevrolet)",
+  "fabrica_brasil": "Sao Caetano do Sul/SP, Gravatai/RS, Sao Jose dos Campos/SP, Joinville/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para carrocerias e estruturas de veiculos",
+  "fonte": "conhecimento setorial (gm.com fora do ar)"
+ },
+ {
+  "idx": 1,
+  "dominio_efetivo": "toyota.com.br",
+  "empresa": "Toyota do Brasil",
+  "segmento": "Montadora",
+  "principal_produto": "Automoveis (Corolla, Corolla Cross, Hilux)",
+  "fabrica_brasil": "Sorocaba/SP, Indaiatuba/SP, Porto Feliz/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para carrocarias de veiculos",
+  "fonte": "https://toyota.com.br"
+ },
+ {
+  "idx": 2,
+  "dominio_efetivo": "www.mercedes-benz.com.br",
+  "empresa": "Mercedes-Benz",
+  "segmento": "Montadora",
+  "principal_produto": "Caminhoes e onibus (chassis)",
+  "fabrica_brasil": "Sao Bernardo do Campo/SP, Juiz de Fora/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica chassis e cabines de aco para caminhoes e onibus",
+  "fonte": "conhecimento setorial (site em manutencao)"
+ },
+ {
+  "idx": 3,
+  "dominio_efetivo": "mann-hummel.com",
+  "empresa": "Mann+Hummel",
+  "segmento": "Autopecas",
+  "principal_produto": "Filtros (ar, oleo, combustivel)",
+  "fabrica_brasil": "Indaiatuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcacas de aco estampado em filtros spin-on automotivos",
+  "fonte": "https://mann-hummel.com"
+ },
+ {
+  "idx": 4,
+  "dominio_efetivo": "randon.com.br",
+  "empresa": "Empresas Randon",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Reboques e semirreboques",
+  "fabrica_brasil": "Caxias do Sul/RS, Erechim/RS, Chapeco/SC, Araraquara/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas, chassis e tanques de aco para implementos rodoviarios",
+  "fonte": "busca web (randoncorp.com)"
+ },
+ {
+  "idx": 5,
+  "dominio_efetivo": "cnh.com",
+  "empresa": "CNH Industrial",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Tratores e colheitadeiras (Case IH, New Holland)",
+  "fabrica_brasil": "Curitiba/PR, Sorocaba/SP, Piracicaba/SP, Contagem/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Conforma e solda chapas/perfis de aco em maquinas pesadas",
+  "fonte": "https://cnh.com"
+ },
+ {
+  "idx": 6,
+  "dominio_efetivo": "stellantis.com",
+  "empresa": "Stellantis",
+  "segmento": "Montadora",
+  "principal_produto": "Automoveis e picapes (Fiat, Jeep, Ram, Peugeot, Citroen)",
+  "fabrica_brasil": "Betim/MG, Goiana/PE, Porto Real/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para carrocerias de veiculos",
+  "fonte": "https://stellantis.com"
+ },
+ {
+  "idx": 7,
+  "dominio_efetivo": "vwtb.com.br",
+  "empresa": "VW Caminhoes e Onibus",
+  "segmento": "Montadora",
+  "principal_produto": "Caminhoes e onibus",
+  "fabrica_brasil": "Resende/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica chassis e cabines de aco para caminhoes e onibus",
+  "fonte": "conhecimento setorial (site fora do ar)"
+ },
+ {
+  "idx": 8,
+  "dominio_efetivo": "cargill.com",
+  "empresa": "Cargill",
+  "segmento": "Alimentos / Agronegocio",
+  "principal_produto": "Graos, ingredientes e alimentos",
+  "fabrica_brasil": "Diversas unidades (matriz Sao Paulo/SP)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Processa graos e alimentos, nao fabrica produtos de aco",
+  "fonte": "https://cargill.com.br"
+ },
+ {
+  "idx": 9,
+  "dominio_efetivo": "pirelli.com",
+  "empresa": "Pirelli",
+  "segmento": "Pneus",
+  "principal_produto": "Pneus (auto, moto, bike)",
+  "fabrica_brasil": "Campinas/SP, Feira de Santana/BA, Gravatai/RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto e pneu de borracha; nao fabrica produtos de aco",
+  "fonte": "https://pirelli.com"
+ },
+ {
+  "idx": 10,
+  "dominio_efetivo": "lear.com",
+  "empresa": "Lear Corporation",
+  "segmento": "Autopecas",
+  "principal_produto": "Bancos automotivos e sistemas eletricos",
+  "fabrica_brasil": "Sao Jose dos Pinhais/PR, Betim/MG, Cacapava/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas de aco para bancos automotivos",
+  "fonte": "https://lear.com"
+ },
+ {
+  "idx": 11,
+  "dominio_efetivo": "renault.com",
+  "empresa": "Renault",
+  "segmento": "Montadora",
+  "principal_produto": "Automoveis e utilitarios (Kwid, Duster, Master)",
+  "fabrica_brasil": "Sao Jose dos Pinhais/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para carrocerias de veiculos",
+  "fonte": "https://renault.com.br"
+ },
+ {
+  "idx": 12,
+  "dominio_efetivo": "hydro.com",
+  "empresa": "Norsk Hydro",
+  "segmento": "Metalurgia (aluminio)",
+  "principal_produto": "Aluminio e alumina",
+  "fabrica_brasil": "Barcarena/PA, Paragominas/PA, Sao Paulo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz aluminio, nao aco carbono",
+  "fonte": "https://hydro.com"
+ },
+ {
+  "idx": 13,
+  "dominio_efetivo": "soufer.com.br",
+  "empresa": "Soufer",
+  "segmento": "Metalurgica",
+  "principal_produto": "Tubos, perfis e perfilados de aco",
+  "fabrica_brasil": "Sao Joao da Boa Vista/SP, Cambui/MG, Araquari/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica tubos e perfis de aco carbono",
+  "fonte": "https://soufer.com.br"
+ },
+ {
+  "idx": 14,
+  "dominio_efetivo": "scania.com",
+  "empresa": "Scania",
+  "segmento": "Montadora",
+  "principal_produto": "Caminhoes, onibus (chassis) e motores",
+  "fabrica_brasil": "Sao Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica chassis e estruturas de aco para caminhoes e onibus",
+  "fonte": "https://scania.com/br"
+ },
+ {
+  "idx": 15,
+  "dominio_efetivo": "honda.com.br",
+  "empresa": "Honda do Brasil",
+  "segmento": "Montadora",
+  "principal_produto": "Motocicletas e automoveis (City, HR-V)",
+  "fabrica_brasil": "Manaus/AM, Sumare/SP, Itirapina/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para carrocerias e quadros de motos",
+  "fonte": "busca web (honda.com.br)"
+ },
+ {
+  "idx": 16,
+  "dominio_efetivo": "zf.com",
+  "empresa": "ZF Friedrichshafen",
+  "segmento": "Autopecas",
+  "principal_produto": "Transmissoes, eixos e direcao",
+  "fabrica_brasil": "Sorocaba/SP, Sao Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Forja e usina componentes de aco para transmissoes e eixos",
+  "fonte": "https://zf.com"
+ },
+ {
+  "idx": 17,
+  "dominio_efetivo": "alstom.com",
+  "empresa": "Alstom",
+  "segmento": "Ferroviario",
+  "principal_produto": "Trens e metros (material rodante)",
+  "fabrica_brasil": "Taubate/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas, truques e carrocerias de aco para trens",
+  "fonte": "busca web (alstom.com/alstom-brazil)"
+ },
+ {
+  "idx": 18,
+  "dominio_efetivo": "cummins.com",
+  "empresa": "Cummins",
+  "segmento": "Equipamentos / Motores",
+  "principal_produto": "Motores diesel e geradores",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usina blocos, cabecotes e componentes forjados de aco",
+  "fonte": "busca web (cummins.com)"
+ },
+ {
+  "idx": 19,
+  "dominio_efetivo": "amaggi.com.br",
+  "empresa": "Amaggi",
+  "segmento": "Agronegocio",
+  "principal_produto": "Soja, milho, algodao e commodities agricolas",
+  "fabrica_brasil": "Cuiaba/MT, Lucas do Rio Verde/MT (matriz Cuiaba/MT)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz e comercializa graos; nao fabrica produtos de aco",
+  "fonte": "https://amaggi.com.br"
+ }
+]

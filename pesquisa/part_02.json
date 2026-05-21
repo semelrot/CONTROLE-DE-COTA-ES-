@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 40,
+    "dominio_efetivo": "bosch.com",
+    "empresa": "Bosch",
+    "segmento": "Autopecas / Bens diversos",
+    "principal_produto": "Sistemas de injecao, componentes diesel, eletrica e ferramentas eletricas",
+    "fabrica_brasil": "Campinas/SP, Curitiba/PR, Sorocaba/SP, Pomerode/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usina, forja e estampa pecas de aco para injecao, freios e ferramentas",
+    "fonte": "bosch.com.br"
+  },
+  {
+    "idx": 41,
+    "dominio_efetivo": "mwm.com.br",
+    "empresa": "MWM Motores Diesel",
+    "segmento": "Equipamentos / Motores",
+    "principal_produto": "Motores diesel e grupos geradores",
+    "fabrica_brasil": "Santo Amaro, Sao Paulo/SP; Canoas/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usa forjados e chapa de aco em componentes de motores",
+    "fonte": "busca web (Wikipedia / mwm.com.br)"
+  },
+  {
+    "idx": 42,
+    "dominio_efetivo": "deere.com",
+    "empresa": "John Deere",
+    "segmento": "Maquina agricola",
+    "principal_produto": "Tratores e colheitadeiras",
+    "fabrica_brasil": "Horizontina/RS, Montenegro/RS, Catalao/GO",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e solda chapas/perfis de aco em chassis e estruturas",
+    "fonte": "deere.com.br / busca web"
+  },
+  {
+    "idx": 43,
+    "dominio_efetivo": "faurecia.com",
+    "empresa": "Faurecia",
+    "segmento": "Autopecas",
+    "principal_produto": "Sistemas de escapamento, assentos e interiores",
+    "fabrica_brasil": "Limeira/SP, Pindamonhangaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma tubos e chapas de aco em sistemas de escapamento e estruturas de assentos",
+    "fonte": "busca web (InvestSP)"
+  },
+  {
+    "idx": 44,
+    "dominio_efetivo": "construcap.com.br",
+    "empresa": "Construcap",
+    "segmento": "Construtora",
+    "principal_produto": "Engenharia e construcao pesada (servicos)",
+    "fabrica_brasil": "Sede em Sao Paulo/SP (sem fabricacao; presta servicos)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de servicos de construcao, nao fabrica produtos proprios",
+    "fonte": "construcap.com.br"
+  },
+  {
+    "idx": 45,
+    "dominio_efetivo": "magius.com.br",
+    "empresa": "Magius Metalurgica",
+    "segmento": "Metalurgica",
+    "principal_produto": "Estampados, conjuntos soldados e pecas de chapa de aco",
+    "fabrica_brasil": "Sao Jose dos Pinhais/PR",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Transforma chapa de aco em pecas estampadas e soldadas",
+    "fonte": "magius.com.br"
+  },
+  {
+    "idx": 46,
+    "dominio_efetivo": "flex.com",
+    "empresa": "Flex",
+    "segmento": "Eletroeletronica (EMS)",
+    "principal_produto": "Manufatura eletronica contratada (EMS)",
+    "fabrica_brasil": "Sorocaba/SP, Manaus/AM",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Foco em montagem eletronica; aco nao e materia-prima principal",
+    "fonte": "flex.com"
+  },
+  {
+    "idx": 47,
+    "dominio_efetivo": "valeo.com",
+    "empresa": "Valeo",
+    "segmento": "Autopecas",
+    "principal_produto": "Embreagens, sistemas termicos, limpadores e eletrica",
+    "fabrica_brasil": "Campinas/SP, Itatiba/SP, Sao Bernardo do Campo/SP, Gravatai/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa chapas de aco em embreagens e componentes",
+    "fonte": "busca web (valeo.com)"
+  },
+  {
+    "idx": 48,
+    "dominio_efetivo": "yamaha-motor.com.br",
+    "empresa": "Yamaha Motor do Brasil",
+    "segmento": "Montadora",
+    "principal_produto": "Motocicletas",
+    "fabrica_brasil": "Manaus/AM (fabrica); Guarulhos/SP (administrativo)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma e solda aco em chassis, tanques e estruturas das motos",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 49,
+    "dominio_efetivo": "embraer.com",
+    "empresa": "Embraer",
+    "segmento": "Aeroespacial",
+    "principal_produto": "Aeronaves (jatos comerciais e executivos)",
+    "fabrica_brasil": "Sao Jose dos Campos/SP, Gaviao Peixoto/SP, Botucatu/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Estrutura usa aluminio, titanio e compositos; aco apenas ligas de alta resistencia",
+    "fonte": "busca web (Wikipedia)"
+  },
+  {
+    "idx": 50,
+    "dominio_efetivo": "dana.com",
+    "empresa": "Dana Incorporated",
+    "segmento": "Autopecas",
+    "principal_produto": "Eixos, cardans e transmissoes",
+    "fabrica_brasil": "Gravatai/RS, Sorocaba/SP, Diadema/SP, Campinas/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Forja e usina aco em eixos, cardans e cruzetas",
+    "fonte": "busca web (dana.com.br)"
+  },
+  {
+    "idx": 51,
+    "dominio_efetivo": "ype.ind.br",
+    "empresa": "Ype",
+    "segmento": "Higiene / Limpeza (Quimica)",
+    "principal_produto": "Detergentes, saboes e produtos de limpeza",
+    "fabrica_brasil": "Amparo/SP, Salto/SP, Simoes Filho/BA, Anapolis/GO, Itapissuma/PE",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos quimicos em embalagem plastica; nao fabrica com aco",
+    "fonte": "ype.ind.br / busca web"
+  },
+  {
+    "idx": 52,
+    "dominio_efetivo": "tramontina.com",
+    "empresa": "Tramontina",
+    "segmento": "Metalurgica",
+    "principal_produto": "Utensilios, ferramentas e utilidades domesticas",
+    "fabrica_brasil": "Carlos Barbosa/RS, Garibaldi/RS, Farroupilha/RS, Recife/PE",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Forja e estampa aco carbono em ferramentas, panelas e utensilios",
+    "fonte": "busca web (global.tramontina.com)"
+  },
+  {
+    "idx": 53,
+    "dominio_efetivo": "tenneco.com",
+    "empresa": "Tenneco",
+    "segmento": "Autopecas",
+    "principal_produto": "Amortecedores (Monroe) e sistemas de escapamento",
+    "fabrica_brasil": "Mogi Mirim/SP, Cotia/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma tubos e chapas de aco em amortecedores e escapamentos",
+    "fonte": "busca web (Automotive Business)"
+  },
+  {
+    "idx": 54,
+    "dominio_efetivo": "ntn.com.br",
+    "empresa": "NTN Rolamentos do Brasil",
+    "segmento": "Autopecas",
+    "principal_produto": "Rolamentos, polias e juntas homocineticas",
+    "fabrica_brasil": "Fazenda Rio Grande/PR; Guarulhos/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Usa aco de rolamento SAE 52100 (alto carbono), aco especial mais que comum",
+    "fonte": "ntn.com.br / busca web"
+  },
+  {
+    "idx": 55,
+    "dominio_efetivo": "caoa.com.br",
+    "empresa": "CAOA",
+    "segmento": "Montadora",
+    "principal_produto": "Automoveis e caminhoes (CAOA Chery)",
+    "fabrica_brasil": "Anapolis/GO; Jacarei/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e solda chapas de aco em carrocerias de veiculos",
+    "fonte": "caoa.com.br / busca web"
+  },
+  {
+    "idx": 56,
+    "dominio_efetivo": "schindler.com",
+    "empresa": "Schindler",
+    "segmento": "Equipamentos",
+    "principal_produto": "Elevadores e escadas rolantes",
+    "fabrica_brasil": "Londrina/PR; Sao Paulo/SP (pecas)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas, cabines e portas em chapa de aco",
+    "fonte": "busca web (schindler.com.br)"
+  },
+  {
+    "idx": 57,
+    "dominio_efetivo": "ibar.com.br",
+    "empresa": "IBAR (Industrias Brasileiras de Artigos Refratarios)",
+    "segmento": "Refratarios / Materiais",
+    "principal_produto": "Materiais refratarios (tijolos, concretos, massas)",
+    "fabrica_brasil": "Poa/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica refratarios ceramicos; nao usa aco como materia-prima",
+    "fonte": "ibar.com.br"
+  },
+  {
+    "idx": 58,
+    "dominio_efetivo": "alfaengenharia.ind.br",
+    "empresa": "Alfa Engenharia",
+    "segmento": "Caldeiraria / Montagem industrial",
+    "principal_produto": "Estruturas metalicas e caldeiraria",
+    "fabrica_brasil": "Itauna/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas metalicas e caldeiraria com chapas, tubos e perfis de aco",
+    "fonte": "alfaengenharia.ind.br"
+  },
+  {
+    "idx": 59,
+    "dominio_efetivo": "valmet.com",
+    "empresa": "Valmet",
+    "segmento": "Equipamentos",
+    "principal_produto": "Equipamentos para celulose, papel e caldeiras",
+    "fabrica_brasil": "Araucaria/PR, Sorocaba/SP, Joinville/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Caldeiraria pesada conforma chapas e tubos de aco em maquinas e caldeiras",
+    "fonte": "busca web (valmet.com/pt)"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 80,
+    "dominio_efetivo": "imetame.com.br",
+    "empresa": "Imetame",
+    "segmento": "Metalmecanica/Caldeiraria (oleo e gas, energia)",
+    "principal_produto": "Equipamentos e estruturas metalicas, caldeiraria para oleo e gas",
+    "fabrica_brasil": "Aracruz/ES",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas e equipamentos em aco via caldeiraria e solda",
+    "fonte": "https://imetame.com.br"
+  },
+  {
+    "idx": 81,
+    "dominio_efetivo": "aam.com",
+    "empresa": "American Axle",
+    "segmento": "Autopecas",
+    "principal_produto": "Eixos e sistemas de driveline (axles, semi-eixos)",
+    "fabrica_brasil": "Araucaria/PR",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Forja e usina aco para eixos e componentes de driveline",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 82,
+    "dominio_efetivo": "www.denso.com",
+    "empresa": "Denso",
+    "segmento": "Autopecas",
+    "principal_produto": "Sistemas de ar-condicionado, modulos de arrefecimento, alternadores",
+    "fabrica_brasil": "Santa Barbara d'Oeste/SP e Curitiba/PR",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Arrefecimento em aluminio/cobre e eletronica, nao aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 83,
+    "dominio_efetivo": "nissan.com.br",
+    "empresa": "Nissan do Brasil",
+    "segmento": "Montadora",
+    "principal_produto": "Automoveis (Kicks, Versa, Frontier)",
+    "fabrica_brasil": "Resende/RJ",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa chapas de aco na estamparia para carrocerias",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 84,
+    "dominio_efetivo": "grupopetropolis.com.br",
+    "empresa": "Grupo Petropolis",
+    "segmento": "Bebidas",
+    "principal_produto": "Cervejas (Itaipava, Crystal) e bebidas",
+    "fabrica_brasil": "Petropolis/RJ, Boituva/SP, Rondonopolis/MT e outras",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz bebidas, nao fabrica produtos em aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 85,
+    "dominio_efetivo": "metso.com",
+    "empresa": "Metso",
+    "segmento": "Maquinas e equipamentos (mineracao)",
+    "principal_produto": "Britadores, peneiras e bombas para mineracao",
+    "fabrica_brasil": "Sorocaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica britadores e equipamentos pesados em aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 86,
+    "dominio_efetivo": "lrempreendimentos.com.br",
+    "empresa": "LR Empreendimentos",
+    "segmento": "Nao identificado (site em manutencao)",
+    "principal_produto": "Nao identificado",
+    "fabrica_brasil": "Nao identificado",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Aparenta empreendimentos/imobiliario, sem fabricacao propria",
+    "fonte": "https://lrempreendimentos.com.br"
+  },
+  {
+    "idx": 87,
+    "dominio_efetivo": "ebara.com.br",
+    "empresa": "Ebara",
+    "segmento": "Maquinas e equipamentos (bombas)",
+    "principal_produto": "Bombas (submersiveis e pressurizacao) e sistemas de bombeamento",
+    "fabrica_brasil": "Bauru/SP e Vargem Grande do Sul/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Possui fundicao e fabrica corpos/componentes de bombas em aco/fofo",
+    "fonte": "https://ebara.com.br"
+  },
+  {
+    "idx": 88,
+    "dominio_efetivo": "comau.com",
+    "empresa": "Comau",
+    "segmento": "Maquinas e equipamentos (automacao/robotica)",
+    "principal_produto": "Celulas de soldagem, robos e sistemas body-in-white",
+    "fabrica_brasil": "Betim/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica celulas e estruturas de aco para linhas de manufatura",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 89,
+    "dominio_efetivo": "marfrig.com.br",
+    "empresa": "Marfrig",
+    "segmento": "Alimentos (frigorifico)",
+    "principal_produto": "Carne bovina e processados",
+    "fabrica_brasil": "Multiplas plantas no Brasil (ex.: Promissao/SP)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Processa alimentos, nao fabrica produtos em aco carbono",
+    "fonte": "https://marfrig.com.br"
+  },
+  {
+    "idx": 90,
+    "dominio_efetivo": "suzano.com.br",
+    "empresa": "Suzano",
+    "segmento": "Papel e Celulose",
+    "principal_produto": "Celulose e papeis",
+    "fabrica_brasil": "Plantas na BA, ES, MA, MS e SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz celulose e papel, nao fabrica produtos em aco carbono",
+    "fonte": "https://suzano.com.br"
+  },
+  {
+    "idx": 91,
+    "dominio_efetivo": "magna.com",
+    "empresa": "Magna International",
+    "segmento": "Autopecas",
+    "principal_produto": "Estruturas e estampados de carroceria e chassis (Cosma)",
+    "fabrica_brasil": "Jundiai/SP, Camacari/BA, Santo Antonio da Patrulha/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e solda chapas de aco para carroceria e chassis",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 92,
+    "dominio_efetivo": "maxionwheels.com",
+    "empresa": "Maxion Wheels",
+    "segmento": "Autopecas",
+    "principal_produto": "Rodas (aco e aluminio) para veiculos",
+    "fabrica_brasil": "Limeira/SP, Cruzeiro/SP e Santo Andre/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma e solda chapas de aco para fabricar rodas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 93,
+    "dominio_efetivo": "gea.com",
+    "empresa": "GEA Group",
+    "segmento": "Maquinas e equipamentos (processo/alimentos)",
+    "principal_produto": "Equipamentos de processo, separadoras, tanques",
+    "fabrica_brasil": "Jaguariuna/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica equipamentos e tanques em aco (carbono e inox)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 94,
+    "dominio_efetivo": "romi.com",
+    "empresa": "Industrias Romi",
+    "segmento": "Maquinas e equipamentos (maquinas-ferramenta)",
+    "principal_produto": "Tornos CNC, centros de usinagem, injetoras e fundidos",
+    "fabrica_brasil": "Santa Barbara d'Oeste/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica maquinas e fundidos usando aco e ferro fundido",
+    "fonte": "https://romi.com"
+  },
+  {
+    "idx": 95,
+    "dominio_efetivo": "netzsch.com",
+    "empresa": "Netzsch",
+    "segmento": "Maquinas e equipamentos (bombas/moinhos)",
+    "principal_produto": "Bombas de fusos/cavidade progressiva e moinhos de moagem",
+    "fabrica_brasil": "Pomerode/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica bombas e moinhos usinando aco e ferro fundido",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 96,
+    "dominio_efetivo": "ltk.com.br",
+    "empresa": "Fundicao LTK",
+    "segmento": "Autopecas (fundicao)",
+    "principal_produto": "Autopecas em ferro fundido para suspensao de caminhoes/onibus",
+    "fabrica_brasil": "Limeira/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fundicao de ferro fundido nodular/cinzento, nao aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 97,
+    "dominio_efetivo": "www.vcimentos.com.br",
+    "empresa": "Votorantim Cimentos",
+    "segmento": "Cimento e materiais de construcao",
+    "principal_produto": "Cimento, concreto e agregados",
+    "fabrica_brasil": "34 fabricas no Brasil (ex.: Votorantim/SP, Rio Branco do Sul/PR)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz cimento e concreto, nao fabrica produtos em aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 98,
+    "dominio_efetivo": "emerson.com",
+    "empresa": "Emerson",
+    "segmento": "Maquinas e equipamentos (automacao)",
+    "principal_produto": "Valvulas de controle, reguladores e instrumentacao",
+    "fabrica_brasil": "Sorocaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica valvulas com corpos em aco (carbono e inox)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 99,
+    "dominio_efetivo": "tessin.com.br",
+    "empresa": "Tessin",
+    "segmento": "Metalurgia (componentes eletricos)",
+    "principal_produto": "Laminas magneticas e nucleos de aco para transformadores/motores",
+    "fabrica_brasil": "Suzano/SP e Timoteo/MG",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Corta e estampa bobinas de aco (sobretudo aco eletrico/silicio)",
+    "fonte": "https://tessin.com.br"
+  }
+]

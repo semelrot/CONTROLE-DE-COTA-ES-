@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 60,
+    "dominio_efetivo": "pkcgroup.com",
+    "empresa": "PKC Group",
+    "segmento": "Autopecas (sistemas eletricos)",
+    "principal_produto": "Sistemas de distribuicao eletrica e chicotes para veiculos comerciais",
+    "fabrica_brasil": "Nao identificado (possui operacao no Brasil)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica chicotes/cabos e eletronica, sem estampagem de aco",
+    "fonte": "https://pkcgroup.com"
+  },
+  {
+    "idx": 61,
+    "dominio_efetivo": "marilia-sa.com.br",
+    "empresa": "Industria Marilia de Auto Pecas",
+    "segmento": "Autopecas (eletromecanica)",
+    "principal_produto": "Pecas eletricas e eletromecanicas automotivas (motores de partida, etc.)",
+    "fabrica_brasil": "Guarulhos/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Pecas eletromecanicas costumam ter carcacas/suportes estampados de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 62,
+    "dominio_efetivo": "siemens.com",
+    "empresa": "Siemens",
+    "segmento": "Eletroeletronica/Energia",
+    "principal_produto": "Motores, paineis eletricos, equipamentos de energia e automacao",
+    "fabrica_brasil": "Jundiai/SP; Manaus/AM; Canoas/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Carcacas de motores e gabinetes/paineis usam chapa de aco",
+    "fonte": "https://siemens.com"
+  },
+  {
+    "idx": 63,
+    "dominio_efetivo": "mdiasbranco.com.br",
+    "empresa": "M. Dias Branco",
+    "segmento": "Alimentos",
+    "principal_produto": "Massas, biscoitos, farinhas e snacks",
+    "fabrica_brasil": "Eusebio/CE; Fortaleza/CE; entre outras",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica alimentos, nao transforma aco em produto",
+    "fonte": "https://mdiasbranco.com.br"
+  },
+  {
+    "idx": 64,
+    "dominio_efetivo": "cbsi.com.br",
+    "empresa": "CBSI",
+    "segmento": "Servicos industriais",
+    "principal_produto": "Manutencao industrial, montagem eletromecanica e obras civis",
+    "fabrica_brasil": "Sao Paulo/SP; Congonhas/MG; Volta Redonda/RJ",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Prestadora de servicos, nao fabrica produto proprio de aco",
+    "fonte": "https://cbsi.com.br"
+  },
+  {
+    "idx": 65,
+    "dominio_efetivo": "acotubo.com.br",
+    "empresa": "Aco Tubo",
+    "segmento": "Distribuicao de aco",
+    "principal_produto": "Distribuicao de tubos, barras e conexoes de aco",
+    "fabrica_brasil": "Guarulhos/SP (sede); diversas filiais",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Distribuidor de aco, nao consome como insumo de fabricacao",
+    "fonte": "https://acotubo.com.br"
+  },
+  {
+    "idx": 66,
+    "dominio_efetivo": "caio.com.br",
+    "empresa": "Caio Induscar",
+    "segmento": "Carroceria/Implementos rodoviarios",
+    "principal_produto": "Carrocerias de onibus",
+    "fabrica_brasil": "Botucatu/SP; Barra Bonita/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estrutura e chapas das carrocerias de onibus sao de aco",
+    "fonte": "https://caio.com.br"
+  },
+  {
+    "idx": 67,
+    "dominio_efetivo": "frimesa.com.br",
+    "empresa": "Frimesa",
+    "segmento": "Alimentos",
+    "principal_produto": "Laticinios, carnes suinas e frios",
+    "fabrica_brasil": "Medianeira/PR; Marechal Candido Rondon/PR",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Processa alimentos; nao transforma aco em produto",
+    "fonte": "https://frimesa.com.br"
+  },
+  {
+    "idx": 68,
+    "dominio_efetivo": "mausergroup.com",
+    "empresa": "Mauser",
+    "segmento": "Embalagens industriais",
+    "principal_produto": "Tambores de aco, bombonas plasticas e IBCs",
+    "fabrica_brasil": "Matao/SP; Barra do Pirai/RJ",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica tambores de aco a partir de chapas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 69,
+    "dominio_efetivo": "motherson.com",
+    "empresa": "Motherson",
+    "segmento": "Autopecas",
+    "principal_produto": "Chicotes eletricos, espelhos/vision systems e modulos plasticos",
+    "fabrica_brasil": "Nao identificado (possui operacao no Brasil)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Foco em chicotes, polimeros e eletronicos, nao aco",
+    "fonte": "https://motherson.com"
+  },
+  {
+    "idx": 70,
+    "dominio_efetivo": "mangels.com.br",
+    "empresa": "Mangels",
+    "segmento": "Metalurgica",
+    "principal_produto": "Cilindros de GLP, reservatorios de ar e processamento de aco",
+    "fabrica_brasil": "Sao Bernardo do Campo/SP; Divinopolis/MG; Manaus/AM",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma/solda chapas de aco em cilindros e reservatorios",
+    "fonte": "https://mangels.com.br"
+  },
+  {
+    "idx": 71,
+    "dominio_efetivo": "agrale.com.br",
+    "empresa": "Agrale",
+    "segmento": "Montadora",
+    "principal_produto": "Caminhoes, chassis de onibus, tratores e utilitarios",
+    "fabrica_brasil": "Caxias do Sul/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Chassis e estruturas de veiculos sao de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 72,
+    "dominio_efetivo": "arteb.com.br",
+    "empresa": "Arteb",
+    "segmento": "Autopecas (iluminacao)",
+    "principal_produto": "Farois, lanternas e sistemas de iluminacao automotiva",
+    "fabrica_brasil": "Sao Bernardo do Campo/SP; Camacari/BA",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos majoritariamente plastico, vidro e eletronica",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 73,
+    "dominio_efetivo": "imerys.com",
+    "empresa": "Imerys",
+    "segmento": "Mineracao/Minerais industriais",
+    "principal_produto": "Caulim, carbonato de calcio e perlita",
+    "fabrica_brasil": "Barcarena/PA; Mogi das Cruzes/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Extrai e processa minerais, nao fabrica produto de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 74,
+    "dominio_efetivo": "agcocorp.com",
+    "empresa": "AGCO",
+    "segmento": "Maquinas agricolas",
+    "principal_produto": "Tratores e colheitadeiras (Massey Ferguson, Valtra)",
+    "fabrica_brasil": "Canoas/RS; Santa Rosa/RS; Mogi das Cruzes/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estrutura e chapas de tratores/colheitadeiras sao de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 75,
+    "dominio_efetivo": "brasilaocubo.com",
+    "empresa": "Brasil ao Cubo",
+    "segmento": "Construcao (modular off-site)",
+    "principal_produto": "Edificacoes modulares pre-fabricadas em estrutura de aco",
+    "fabrica_brasil": "Tubarao/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica modulos com estrutura/steel frame de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 76,
+    "dominio_efetivo": "stara.com.br",
+    "empresa": "Stara",
+    "segmento": "Maquinas agricolas",
+    "principal_produto": "Plantadeiras, pulverizadores e distribuidores de fertilizantes",
+    "fabrica_brasil": "Nao-Me-Toque/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma e solda chapas/perfis de aco nos implementos",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 77,
+    "dominio_efetivo": "metagal.com.br",
+    "empresa": "Metagal",
+    "segmento": "Autopecas",
+    "principal_produto": "Espelhos retrovisores e sistemas de retrovisao",
+    "fabrica_brasil": "Santa Rita do Sapucai/MG; Diadema/SP; Manaus/AM",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Retrovisores sao majoritariamente plastico e vidro",
+    "fonte": "https://metagal.com.br"
+  },
+  {
+    "idx": 78,
+    "dominio_efetivo": "www.heringer.com.br",
+    "empresa": "Fertilizantes Heringer",
+    "segmento": "Fertilizantes",
+    "principal_produto": "Fertilizantes (misturas NPK)",
+    "fabrica_brasil": "Paranagua/PR; Rio Verde/GO (unidades de mistura)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Mistura/produz fertilizantes, nao transforma aco",
+    "fonte": "https://www.heringer.com.br"
+  },
+  {
+    "idx": 79,
+    "dominio_efetivo": "forvia.com",
+    "empresa": "Forvia (Faurecia)",
+    "segmento": "Autopecas",
+    "principal_produto": "Assentos automotivos, sistemas de escapamento e interiores",
+    "fabrica_brasil": "Limeira/SP; Pindamonhangaba/SP; Sorocaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Escapamentos e estruturas de bancos usam aco",
+    "fonte": "busca web"
+  }
+]

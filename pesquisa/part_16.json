@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 320,
+  "dominio_efetivo": "danny.com.br",
+  "empresa": "Danny",
+  "segmento": "EPI / Seguranca do trabalho",
+  "principal_produto": "Equipamentos de protecao individual: luvas e oculos de seguranca",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica EPIs (luvas, oculos, cintos) em textil/plastico/borracha, nao aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 321,
+  "dominio_efetivo": "mausa.com.br",
+  "empresa": "Mausa",
+  "segmento": "Maquinas / Equipamentos industriais",
+  "principal_produto": "Centrifugas, filtros, secadores e equipamentos de movimentacao (pontes rolantes)",
+  "fabrica_brasil": "Piracicaba-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos industriais e estruturas/pontes rolantes usam chapas e perfis de aco carbono.",
+  "fonte": "https://mausa.com.br"
+ },
+ {
+  "idx": 322,
+  "dominio_efetivo": "www.gkn.com",
+  "empresa": "GKN",
+  "segmento": "Autopecas",
+  "principal_produto": "Juntas homocineticas e semieixos (driveline) e metalurgia do po",
+  "fabrica_brasil": "Porto Alegre-RS e Charqueadas-RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Juntas homocineticas e forjados de precisao sao produzidos em aco carbono/liga.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 323,
+  "dominio_efetivo": "simoldes.com",
+  "empresa": "Simoldes",
+  "segmento": "Autopecas / Ferramentaria (moldes)",
+  "principal_produto": "Moldes de injecao para plastico e pecas plasticas automotivas",
+  "fabrica_brasil": "Curitiba-PR e Sao Jose dos Pinhais-PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Moldes feitos em aco-ferramenta; pode usar aco carbono em estruturas, mas foco e aco-liga.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 324,
+  "dominio_efetivo": "belov.com.br",
+  "empresa": "Belov Engenharia",
+  "segmento": "Engenharia naval / Offshore",
+  "principal_produto": "Engenharia portuaria, naval e subaquatica; estaleiro e construcao de embarcacoes",
+  "fabrica_brasil": "Salvador-BA e Simoes Filho-BA (estaleiro)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Construcao naval e estruturas metalicas pesadas com solda usam chapas de aco carbono.",
+  "fonte": "https://belov.com.br"
+ },
+ {
+  "idx": 325,
+  "dominio_efetivo": "rigitec.com",
+  "empresa": "Rigitec",
+  "segmento": "Autopecas",
+  "principal_produto": "Tubos de freio, embreagem, injecao e circuitos hidraulicos para veiculos",
+  "fabrica_brasil": "Capivari-SP e Cachoeirinha-RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica tubos metalicos de aco (inclusive tubos de aco sem costura) para sistemas veiculares.",
+  "fonte": "http://rigitec.com.br"
+ },
+ {
+  "idx": 326,
+  "dominio_efetivo": "controlid.com.br",
+  "empresa": "Control iD",
+  "segmento": "Eletroeletronica / Controle de acesso",
+  "principal_produto": "Relogios de ponto, controle de acesso, catracas e fechaduras eletronicas",
+  "fabrica_brasil": "Sao Paulo-SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Produto e eletronico, mas estrutura de catracas pode usar aco carbono (ou inox).",
+  "fonte": "https://controlid.com.br"
+ },
+ {
+  "idx": 327,
+  "dominio_efetivo": "leaodiesel.com.br",
+  "empresa": "Leao Diesel",
+  "segmento": "Distribuidor de autopecas",
+  "principal_produto": "Distribuicao de pecas e servicos para motores diesel",
+  "fabrica_brasil": "Londrina-PR (matriz, ~18 unidades)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/varejo de pecas diesel, nao fabrica produtos em aco carbono.",
+  "fonte": "https://leaodiesel.com.br"
+ },
+ {
+  "idx": 328,
+  "dominio_efetivo": "jsl.com.br",
+  "empresa": "JSL Logistica",
+  "segmento": "Logistica / Transporte",
+  "principal_produto": "Transporte de cargas e solucoes logisticas integradas",
+  "fabrica_brasil": "Nao identificado (operadora de servicos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de logistica e transporte, nao manufatura nada com aco carbono.",
+  "fonte": "https://jsl.com.br"
+ },
+ {
+  "idx": 329,
+  "dominio_efetivo": "supplytechsp.com.br",
+  "empresa": "SupplyTech",
+  "segmento": "Eletrica / Automacao industrial",
+  "principal_produto": "Quadros e paineis eletricos, automacao e instrumentacao",
+  "fabrica_brasil": "Sao Paulo-SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Monta quadros/paineis cujos gabinetes costumam ser de chapa de aco carbono.",
+  "fonte": "https://supplytechsp.com.br"
+ },
+ {
+  "idx": 330,
+  "dominio_efetivo": "montcalm.com.br",
+  "empresa": "Montcalm",
+  "segmento": "Metalurgica / Montagens industriais",
+  "principal_produto": "Montagens industriais, caldeiraria, spools de tubulacao e estruturas metalicas",
+  "fabrica_brasil": "Sao Paulo-SP e Mairinque-SP (Spool Brasil)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiraria leve, spools de tubulacao e estruturas metalicas usam aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 331,
+  "dominio_efetivo": "prysmiangroup.com",
+  "empresa": "Prysmian Group",
+  "segmento": "Eletrica / Cabos",
+  "principal_produto": "Cabos eletricos e de telecom (energia, transmissao, fibra optica)",
+  "fabrica_brasil": "Sorocaba-SP, Vila Velha-ES, Joinville-SC e outras",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Condutores sao cobre/aluminio, mas usa arame/fita de aco em armacao de cabos armados.",
+  "fonte": "https://www.prysmian.com"
+ },
+ {
+  "idx": 332,
+  "dominio_efetivo": "whbautomotive.com.br",
+  "empresa": "WHB Automotive",
+  "segmento": "Autopecas / Metalurgica",
+  "principal_produto": "Pecas automotivas: fundidos de ferro/aluminio, forjados e usinados",
+  "fabrica_brasil": "Curitiba-PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Possui forjaria de aco (forjados de aco) alem de fundicao de ferro e aluminio.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 333,
+  "dominio_efetivo": "tma.com.br",
+  "empresa": "TMA",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Plataformas hidraulicas, guinchos, carrocerias metalicas e muncks",
+  "fabrica_brasil": "Franco da Rocha-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Plataformas, guinchos e carrocerias metalicas para carga pesada usam aco carbono.",
+  "fonte": "https://tma.com.br"
+ },
+ {
+  "idx": 334,
+  "dominio_efetivo": "poleoduto.com.br",
+  "empresa": "Poleoduto",
+  "segmento": "Eletrica / Eletrocalhas",
+  "principal_produto": "Leitos para cabos, eletrocalhas e perfilados",
+  "fabrica_brasil": "Aruja-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Leitos e eletrocalhas sao construidos em chapa de aco carbono dobrada.",
+  "fonte": "https://poleoduto.com.br"
+ },
+ {
+  "idx": 335,
+  "dominio_efetivo": "www.usacucar.com.br",
+  "empresa": "Usacucar (Usina Santa Terezinha)",
+  "segmento": "Alimentos / Sucroenergetico",
+  "principal_produto": "Acucar, etanol e bioeletricidade",
+  "fabrica_brasil": "Maringa-PR (7 unidades em PR e MS)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Producao agroindustrial de acucar/etanol, nao manufatura produtos em aco carbono.",
+  "fonte": "https://www.usacucar.com.br"
+ },
+ {
+  "idx": 336,
+  "dominio_efetivo": "inbetta.com",
+  "empresa": "Inbetta",
+  "segmento": "Utilidades domesticas",
+  "principal_produto": "Produtos de limpeza, organizacao e higiene (Bettanin, Ordene, Sanremo, Atlas)",
+  "fabrica_brasil": "Esteio-RS e Paulista-PE",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Foco em plastico/textil, mas linha de organizacao (varais/prateleiras) usa tubo/arame de aco.",
+  "fonte": "https://inbetta.com"
+ },
+ {
+  "idx": 337,
+  "dominio_efetivo": "teksid.com",
+  "empresa": "Teksid",
+  "segmento": "Metalurgica / Fundicao",
+  "principal_produto": "Fundidos automotivos: blocos e cabecotes de motor em ferro e aluminio",
+  "fabrica_brasil": "Betim-MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Trabalha ferro fundido, aluminio e magnesio; ferro fundido nao e aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 338,
+  "dominio_efetivo": "treves-group.com",
+  "empresa": "Treves Group",
+  "segmento": "Autopecas",
+  "principal_produto": "Tratamento acustico e interiores automotivos: carpetes, isolamento, forros",
+  "fabrica_brasil": "Quatro Barras-PR e Cacapava-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos acusticos e de interior sao texteis/plasticos/feltros, nao aco carbono.",
+  "fonte": "busca web"
+ }
+]

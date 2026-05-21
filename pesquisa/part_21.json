@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 420,
+    "dominio_efetivo": "dispan.com.br",
+    "empresa": "Dispan",
+    "segmento": "Metalurgica",
+    "principal_produto": "Eletrocalhas, perfilados, leitos para cabos e aramados",
+    "fabrica_brasil": "Nova Odessa/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Eletrocalhas e perfilados sao conformados a partir de chapa/bobina de aco carbono.",
+    "fonte": "https://dispan.com.br"
+  },
+  {
+    "idx": 421,
+    "dominio_efetivo": "amyris.com",
+    "empresa": "Amyris",
+    "segmento": "Quimica",
+    "principal_produto": "Moleculas via fermentacao (farneseno, esqualano)",
+    "fabrica_brasil": "Planta de fermentacao no Brasil (cidade nao identificada)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Biotecnologia/quimica renovavel; nao fabrica produtos de aco carbono.",
+    "fonte": "https://amyris.com"
+  },
+  {
+    "idx": 422,
+    "dominio_efetivo": "nortox.com.br",
+    "empresa": "Nortox",
+    "segmento": "Quimica (defensivos agricolas)",
+    "principal_produto": "Defensivos agricolas, fertilizantes e sementes",
+    "fabrica_brasil": "Arapongas/PR",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Industria de agroquimicos; nao fabrica produtos de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 423,
+    "dominio_efetivo": "tuberfil.com.br",
+    "empresa": "Tuberfil",
+    "segmento": "Metalurgica",
+    "principal_produto": "Tubos de aco e pecas tubulares (estruturais, mecanicos)",
+    "fabrica_brasil": "Indaiatuba/SP, Salto/SP e Estiva/MG",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica tubos de aco carbono a partir de bobinas/chapas.",
+    "fonte": "https://tuberfil.com.br"
+  },
+  {
+    "idx": 424,
+    "dominio_efetivo": "especifer.com.br",
+    "empresa": "Especifer",
+    "segmento": "Ferramentaria (ferramentas especiais automotivas)",
+    "principal_produto": "Ferramentas e dispositivos especiais para usinagem",
+    "fabrica_brasil": "Indaiatuba/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Usa aco rapido (HSS) e metal duro, nao aco carbono comum.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 425,
+    "dominio_efetivo": "stollemachinery.com",
+    "empresa": "Stolle Machinery",
+    "segmento": "Maquinas e equipamentos",
+    "principal_produto": "Maquinas para fabricacao de latas e tampas",
+    "fabrica_brasil": "Indaiatuba/SP (e unidade em Manaus/AM)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de maquinario industrial; estruturas/pecas usinadas em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 426,
+    "dominio_efetivo": "tirolez.com.br",
+    "empresa": "Tirolez",
+    "segmento": "Alimentos (laticinios)",
+    "principal_produto": "Queijos e derivados lacteos",
+    "fabrica_brasil": "Tiros/MG (matriz; demais unidades em MG/SP)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Industria de laticinios; nao fabrica produtos de aco carbono.",
+    "fonte": "https://tirolez.com.br"
+  },
+  {
+    "idx": 427,
+    "dominio_efetivo": "jea.com.br",
+    "empresa": "JEA (Grupo JEA)",
+    "segmento": "Metalurgica",
+    "principal_produto": "Estruturas metalicas, fixadores, abracadeiras e caldeiraria",
+    "fabrica_brasil": "Maua/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estruturas metalicas, fixadores e caldeiraria sao fabricados em aco carbono.",
+    "fonte": "https://www.grupojea.com.br"
+  },
+  {
+    "idx": 428,
+    "dominio_efetivo": "seagems.com.br",
+    "empresa": "Seagems (ex-Sapura)",
+    "segmento": "Energia/Oleo e gas (servicos submarinos)",
+    "principal_produto": "Engenharia submarina e lancamento de dutos (PLSV)",
+    "fabrica_brasil": "Rio de Janeiro/RJ e Rio das Ostras/RJ",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Prestadora de servicos offshore; nao fabrica produtos de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 429,
+    "dominio_efetivo": "tekno.com.br",
+    "empresa": "Tekno",
+    "segmento": "Metalurgica (coil coating)",
+    "principal_produto": "Bobinas e chapas de aco pre-pintadas (coil coating)",
+    "fabrica_brasil": "Guaratingueta/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Processa e reveste bobinas/chapas de aco carbono para linha branca, construcao e automotivo.",
+    "fonte": "https://www.teknokroma.com.br"
+  },
+  {
+    "idx": 430,
+    "dominio_efetivo": "wetzel.com.br",
+    "empresa": "Wetzel",
+    "segmento": "Metalurgica (fundicao)",
+    "principal_produto": "Componentes automotivos fundidos em ferro e aluminio",
+    "fabrica_brasil": "Joinville/SC",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fundicao de ferro e aluminio; ferro fundido nao e aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 431,
+    "dominio_efetivo": "goodyear.com",
+    "empresa": "Goodyear",
+    "segmento": "Pneus",
+    "principal_produto": "Pneus para automoveis, caminhoes e onibus",
+    "fabrica_brasil": "Americana/SP e Santa Barbara d'Oeste/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica pneus (borracha); nao fabrica produtos de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 432,
+    "dominio_efetivo": "raizen.com",
+    "empresa": "Raizen",
+    "segmento": "Energia/Sucroenergetico",
+    "principal_produto": "Etanol, acucar, bioenergia e distribuicao de combustiveis",
+    "fabrica_brasil": "Diversas usinas em SP e outros estados",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz combustiveis/acucar/energia; nao fabrica produtos de aco carbono.",
+    "fonte": "https://raizen.com"
+  },
+  {
+    "idx": 433,
+    "dominio_efetivo": "cg3telecom.com.br",
+    "empresa": "CG3 Telecom",
+    "segmento": "Telecomunicacoes (ferragens/pre-formados)",
+    "principal_produto": "Pre-formados e ferragens para ancoragem de cabos opticos",
+    "fabrica_brasil": "Capela do Alto/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fabrica pre-formados de arame de aco (galvanizado), alem de aluminio e plastico.",
+    "fonte": "https://cg3telecom.com.br"
+  },
+  {
+    "idx": 434,
+    "dominio_efetivo": "bayer.com",
+    "empresa": "Bayer",
+    "segmento": "Quimica (farma/agro)",
+    "principal_produto": "Defensivos agricolas, sementes e farmaceuticos",
+    "fabrica_brasil": "Belford Roxo/RJ, Camacari/BA, Socorro/SP e outras",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Industria quimica/farmaceutica e de sementes; nao fabrica produtos de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 435,
+    "dominio_efetivo": "inpasa.com.br",
+    "empresa": "Inpasa",
+    "segmento": "Sucroenergetico (etanol de graos)",
+    "principal_produto": "Etanol de milho, oleos vegetais e nutricao animal",
+    "fabrica_brasil": "Sidrolandia/MS e Balsas/MA",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Biorrefinaria de etanol; nao fabrica produtos de aco carbono.",
+    "fonte": "https://inpasa.com.br"
+  },
+  {
+    "idx": 436,
+    "dominio_efetivo": "kavak.com",
+    "empresa": "Kavak",
+    "segmento": "Servicos (marketplace de carros usados)",
+    "principal_produto": "Compra e venda de carros usados/seminovos",
+    "fabrica_brasil": "Barueri/SP (sede; sem fabricacao)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Marketplace de veiculos usados; nao fabrica nada.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 437,
+    "dominio_efetivo": "braslux.com.br",
+    "empresa": "Braslux",
+    "segmento": "Iluminacao automotiva",
+    "principal_produto": "Lanternas e farois LED (pecas tecnicas injetadas)",
+    "fabrica_brasil": "Caxias do Sul/RS",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica iluminacao veicular em pecas plasticas injetadas; nao usa aco carbono.",
+    "fonte": "https://braslux.com.br"
+  },
+  {
+    "idx": 438,
+    "dominio_efetivo": "omnitradebrasil.com",
+    "empresa": "Omnitrade Brasil",
+    "segmento": "Construcao (impermeabilizacao)",
+    "principal_produto": "Membranas TPO/EPDM para impermeabilizacao de coberturas",
+    "fabrica_brasil": "Sao Paulo/SP (distribuicao/instalacao)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fornece/instala membranas termoplasticas; nao fabrica produtos de aco carbono.",
+    "fonte": "https://omnitradebrasil.com"
+  },
+  {
+    "idx": 439,
+    "dominio_efetivo": "yara.com",
+    "empresa": "Yara",
+    "segmento": "Quimica (fertilizantes)",
+    "principal_produto": "Fertilizantes nitrogenados e granulados",
+    "fabrica_brasil": "Rio Grande/RS, Cubatao/SP, Ponta Grossa/PR e Paulinia/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Industria de fertilizantes; nao fabrica produtos de aco carbono.",
+    "fonte": "busca web"
+  }
+]

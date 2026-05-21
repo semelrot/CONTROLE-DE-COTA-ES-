@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 440,
+  "dominio_efetivo": "hdspr.com.br",
+  "empresa": "HDS Sistemas de Energia",
+  "segmento": "Energia (equipamentos eletricos)",
+  "principal_produto": "Paineis eletricos, nobreaks, transformadores e baterias",
+  "fabrica_brasil": "Pinhais, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Possui manufatura propria de chaparias e barramentos para os paineis e gabinetes em aco carbono.",
+  "fonte": "https://hdspr.com.br"
+ },
+ {
+  "idx": 441,
+  "dominio_efetivo": "greif.com",
+  "empresa": "Greif",
+  "segmento": "Embalagens industriais",
+  "principal_produto": "Tambores de aco, jerrycans e embalagens industriais",
+  "fabrica_brasil": "Aratu/Simoes Filho-BA, Esteio-RS, Sao Paulo-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa e solda tambores de aco em suas plantas no Brasil, consumindo chapas de aco carbono.",
+  "fonte": "https://www.greif.com/locations/aratu-brazil-steel-drums/"
+ },
+ {
+  "idx": 442,
+  "dominio_efetivo": "multieixo.com",
+  "empresa": "Multieixo (Distribuidor Randon)",
+  "segmento": "Distribuicao (implementos/autopecas)",
+  "principal_produto": "Revenda de implementos rodoviarios, pecas e servicos Randon",
+  "fabrica_brasil": "Sumare, SP; Guarulhos, SP (concessionarias)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionaria/distribuidora Randon; nao fabrica, apenas revende implementos e pecas.",
+  "fonte": "https://multieixo.com"
+ },
+ {
+  "idx": 443,
+  "dominio_efetivo": "cobrecom.com.br",
+  "empresa": "Cobrecom",
+  "segmento": "Eletrica (fios e cabos)",
+  "principal_produto": "Fios e cabos eletricos de cobre",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Condutores fabricados a partir de cobre eletrolitico; nao usa aco carbono como materia-prima.",
+  "fonte": "https://cobrecom.com.br"
+ },
+ {
+  "idx": 444,
+  "dominio_efetivo": "terraverdeagro.com.br",
+  "empresa": "Terra Verde Agro",
+  "segmento": "Distribuicao (maquinas agricolas)",
+  "principal_produto": "Revenda de tratores e maquinas John Deere",
+  "fabrica_brasil": "Nao identificado (concessionaria John Deere)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionaria/revendedora John Deere; nao fabrica produtos, apenas comercializa e presta servico.",
+  "fonte": "https://terraverdeagro.com.br"
+ },
+ {
+  "idx": 445,
+  "dominio_efetivo": "himev.com.br",
+  "empresa": "Himev Ecotritus",
+  "segmento": "Maquinas agricolas/florestais",
+  "principal_produto": "Trituradores florestais para tratores",
+  "fabrica_brasil": "Campo Alegre, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica trituradores com estrutura e rotores de aco especial; consome chapas e perfis de aco carbono.",
+  "fonte": "https://himev.com.br"
+ },
+ {
+  "idx": 446,
+  "dominio_efetivo": "indemil.com.br",
+  "empresa": "Indemil Industria e Comercio",
+  "segmento": "Quimica/Ingredientes",
+  "principal_produto": "Ingredientes industriais para alimentos, pet e nutricao animal",
+  "fabrica_brasil": "Paranavai, PR; Guaira, PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica ingredientes/insumos quimicos; aco aparece so em tanques/estrutura, nao no produto.",
+  "fonte": "https://indemil.com.br"
+ },
+ {
+  "idx": 447,
+  "dominio_efetivo": "emalto.com.br",
+  "empresa": "Grupo Emalto",
+  "segmento": "Metalurgica",
+  "principal_produto": "Industrializacao de acos, usinagem e estruturas metalicas",
+  "fabrica_brasil": "Timoteo, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Industrializa, usina e fabrica estruturas metalicas em aco para siderurgia, energia e infraestrutura.",
+  "fonte": "https://emalto.com.br"
+ },
+ {
+  "idx": 448,
+  "dominio_efetivo": "kia.com.br",
+  "empresa": "Kia Brasil",
+  "segmento": "Montadora (automoveis)",
+  "principal_produto": "Automoveis, SUVs e utilitario leve Bongo (importados)",
+  "fabrica_brasil": "Sem fabrica no Brasil (importa da Coreia)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Importa os veiculos para o Brasil; nao possui planta de fabricacao no pais atualmente.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 449,
+  "dominio_efetivo": "dyna.com.br",
+  "empresa": "Dyna",
+  "segmento": "Autopecas",
+  "principal_produto": "Palhetas/limpadores de para-brisa automotivos",
+  "fabrica_brasil": "Sao Paulo, SP; Jacutinga, MG",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Estrutura/lamina das palhetas usa tira de aco (mola); conformacao tipica em aco carbono.",
+  "fonte": "https://dyna.com.br"
+ },
+ {
+  "idx": 450,
+  "dominio_efetivo": "ibiporaimplementos.com.br",
+  "empresa": "Furgao Ibipora / Ibipora Implementos",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Semirreboques e furgoes refrigerados/frigorificos",
+  "fabrica_brasil": "Londrina, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica chassis e estruturas de semirreboques/furgoes em chapas e perfis de aco carbono.",
+  "fonte": "https://www.ibiporaimplementos.com.br/"
+ },
+ {
+  "idx": 451,
+  "dominio_efetivo": "prysmian.com",
+  "empresa": "Prysmian",
+  "segmento": "Eletrica (cabos)",
+  "principal_produto": "Cabos de energia e telecom (cobre/aluminio/fibra)",
+  "fabrica_brasil": "Possui fabricas no Brasil (varias unidades)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Condutores baseados em cobre e aluminio; aco so como armacao pontual, nao materia-prima principal.",
+  "fonte": "https://prysmian.com"
+ },
+ {
+  "idx": 452,
+  "dominio_efetivo": "sercomtel.com.br",
+  "empresa": "Construnox Ind e Com de Equipamento",
+  "segmento": "Construcao/Equipamentos",
+  "principal_produto": "Equipamentos para construcao (dado de base; site e da Sercomtel)",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Razao social indica fabricacao de equipamentos; nome 'nox' e setor sugerem metalmecanica, nao confirmado.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 453,
+  "dominio_efetivo": "orionsa.com.br",
+  "empresa": "Orion S.A",
+  "segmento": "Borracha",
+  "principal_produto": "Isolantes, compostos e laminados de borracha",
+  "fabrica_brasil": "Sao Jose dos Campos, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Transforma borracha em isolantes e revestimentos; nao usa aco carbono na fabricacao.",
+  "fonte": "https://orionsa.com.br"
+ },
+ {
+  "idx": 454,
+  "dominio_efetivo": "carbinox.com.br",
+  "empresa": "Carbinox",
+  "segmento": "Distribuicao (metais/acos)",
+  "principal_produto": "Trading de tubos, flanges e conexoes em aco carbono e inox",
+  "fabrica_brasil": "Aruja, SP; Itajai, SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora/trading de tubos e conexoes; comercializa aco mas nao fabrica produtos.",
+  "fonte": "https://carbinox.com.br"
+ },
+ {
+  "idx": 455,
+  "dominio_efetivo": "novamerica.com.br",
+  "empresa": "Nova America",
+  "segmento": "Sucroenergetico/Agro",
+  "principal_produto": "Gestao agricola (cana-de-acucar)",
+  "fabrica_brasil": "Taruma, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de gestao agricola/sucroenergetica; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://novamerica.com.br"
+ },
+ {
+  "idx": 456,
+  "dominio_efetivo": "tucumann.com.br",
+  "empresa": "Tucumann Engenharia",
+  "segmento": "Construcao/Engenharia",
+  "principal_produto": "Obras de engenharia: rodovias, ferrovias e energia eolica",
+  "fabrica_brasil": "Curitiba, PR (sede)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora de obras de infraestrutura; presta servico de engenharia, nao fabrica em aco.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 457,
+  "dominio_efetivo": "lmmobilidade.com.br",
+  "empresa": "LM Frotas / LM Mobilidade",
+  "segmento": "Servicos (mobilidade/frotas)",
+  "principal_produto": "Locacao e gestao de frotas, carro por assinatura, seminovos",
+  "fabrica_brasil": "Nao identificado (servico, cobertura nacional)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de servicos de mobilidade e frotas; nao fabrica nada, apenas aluga/gerencia veiculos.",
+  "fonte": "https://lmmobilidade.com.br"
+ },
+ {
+  "idx": 458,
+  "dominio_efetivo": "twttrocadoresdecalor.com.br",
+  "empresa": "TWT Trocadores de Calor",
+  "segmento": "Equipamentos (engenharia termica)",
+  "principal_produto": "Trocadores casco-tubo, vasos de pressao e equipamentos termicos",
+  "fabrica_brasil": "Aracariguama, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica trocadores casco-tubo e vasos de pressao, tipicamente em chapas e tubos de aco carbono.",
+  "fonte": "https://twttrocadoresdecalor.com.br"
+ },
+ {
+  "idx": 459,
+  "dominio_efetivo": "nutrimental.com.br",
+  "empresa": "Nutrimental",
+  "segmento": "Alimentos",
+  "principal_produto": "Produtos alimenticios industrializados",
+  "fabrica_brasil": "Sao Jose dos Pinhais, PR; Arceburgo, MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica alimentos; aco aparece so em equipamentos/linha (geralmente inox), nao no produto.",
+  "fonte": "https://nutrimental.com.br"
+ }
+]

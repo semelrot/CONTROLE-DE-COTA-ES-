@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 180,
+  "dominio_efetivo": "elringklinger.com",
+  "empresa": "ElringKlinger",
+  "segmento": "Autopecas",
+  "principal_produto": "Juntas e vedacoes metalicas para motores/transmissoes",
+  "fabrica_brasil": "Piracicaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa e conforma chapas de aco para juntas metalicas e componentes",
+  "fonte": "https://elringklinger.de/en/"
+ },
+ {
+  "idx": 181,
+  "dominio_efetivo": "comtrafo.com.br",
+  "empresa": "Comtrafo",
+  "segmento": "Energia",
+  "principal_produto": "Transformadores de distribuicao e forca",
+  "fabrica_brasil": "Cornelio Procopio/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica tanques e radiadores de aco carbono para transformadores",
+  "fonte": "https://comtrafo.com.br"
+ },
+ {
+  "idx": 182,
+  "dominio_efetivo": "joysonsafety.com",
+  "empresa": "Joyson Safety Systems",
+  "segmento": "Autopecas",
+  "principal_produto": "Airbags, cintos de seguranca e volantes",
+  "fabrica_brasil": "Jundiai/SP; Balneario Picarras/SC",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Produto base e textil/pirotecnico, mas retratores e armacao de volante usam aco",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 183,
+  "dominio_efetivo": "nilko.com.br",
+  "empresa": "Nilko",
+  "segmento": "Metalurgica",
+  "principal_produto": "Armarios, lockers e cabines metalicas",
+  "fabrica_brasil": "PR, SC, MG e BA (multiplas unidades)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Conforma e estampa chapas de aco para armarios, lockers e cabines",
+  "fonte": "https://nilko.com.br"
+ },
+ {
+  "idx": 184,
+  "dominio_efetivo": "grupobarigui.com.br",
+  "empresa": "Grupo Barigui",
+  "segmento": "Varejo automotivo",
+  "principal_produto": "Concessionaria multimarca (venda de veiculos e servicos)",
+  "fabrica_brasil": "Sem fabricacao (concessionaria/varejo) - base em Londrina/PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E concessionaria/varejo automotivo, nao fabrica produtos",
+  "fonte": "https://grupobarigui.com.br"
+ },
+ {
+  "idx": 185,
+  "dominio_efetivo": "siemensgamesa.com",
+  "empresa": "Siemens Gamesa",
+  "segmento": "Energia",
+  "principal_produto": "Aerogeradores (turbinas eolicas)",
+  "fabrica_brasil": "Camacari/BA",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica torres, hubs e nacelas em aco para turbinas eolicas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 186,
+  "dominio_efetivo": "horsch.com",
+  "empresa": "Horsch",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Plantadeiras e maquinas de plantio/manejo de solo",
+  "fabrica_brasil": "Curitiba/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas e chassis de aco para plantadeiras e implementos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 187,
+  "dominio_efetivo": "facchini.com.br",
+  "empresa": "Facchini",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Carrocerias, semirreboques e cacambas",
+  "fabrica_brasil": "Votuporanga/SP; Sao Jose do Rio Preto/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Conforma chapas e perfis de aco para carrocerias e semirreboques",
+  "fonte": "https://facchini.com.br"
+ },
+ {
+  "idx": 188,
+  "dominio_efetivo": "cbmm.com",
+  "empresa": "CBMM",
+  "segmento": "Mineracao",
+  "principal_produto": "Niobio e ligas/produtos de niobio",
+  "fabrica_brasil": "Araxa/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Minera e produz niobio (insumo para aco), nao consome aco para fabricar",
+  "fonte": "https://cbmm.com"
+ },
+ {
+  "idx": 190,
+  "dominio_efetivo": "skf.com",
+  "empresa": "SKF",
+  "segmento": "Autopecas",
+  "principal_produto": "Rolamentos, vedacoes e unidades de mancal",
+  "fabrica_brasil": "Cajamar/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Consome barras/tubos de aco (aco-rolamento) usinados para rolamentos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 191,
+  "dominio_efetivo": "zurlo.com.br",
+  "empresa": "Zurlo",
+  "segmento": "Autopecas",
+  "principal_produto": "Eixos e suspensoes para reboques/implementos",
+  "fabrica_brasil": "Caxias do Sul/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica eixos e suspensoes em aco para implementos rodoviarios",
+  "fonte": "https://zurlo.com.br"
+ },
+ {
+  "idx": 192,
+  "dominio_efetivo": "fertipar.com",
+  "empresa": "Fertipar",
+  "segmento": "Fertilizantes",
+  "principal_produto": "Fertilizantes (mistura/formulacao NPK)",
+  "fabrica_brasil": "Curitiba e Paranagua/PR; Candeias/BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mistura e formula fertilizantes, nao fabrica produtos de aco",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 193,
+  "dominio_efetivo": "mideacarrier.com.br",
+  "empresa": "Midea Carrier",
+  "segmento": "Eletrodomesticos",
+  "principal_produto": "Ar-condicionado e equipamentos de climatizacao",
+  "fabrica_brasil": "Canoas/RS; Manaus/AM",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usa chapas de aco para gabinetes e chassis de ar-condicionado",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 194,
+  "dominio_efetivo": "gerdau.com.br",
+  "empresa": "Gerdau",
+  "segmento": "Siderurgia",
+  "principal_produto": "Aco (vergalhoes, perfis, fio-maquina, chapas)",
+  "fabrica_brasil": "Ouro Branco/MG, Charqueadas/RS, Pindamonhangaba/SP e outras",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de aco (siderurgica), nao consumidora para fabricar produtos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 195,
+  "dominio_efetivo": "liebherr.com",
+  "empresa": "Liebherr",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Guindastes, escavadeiras e maquinas de movimentacao de terra",
+  "fabrica_brasil": "Guaratingueta/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas e componentes de aco para guindastes e escavadeiras",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 196,
+  "dominio_efetivo": "furacao.com.br",
+  "empresa": "Furacao FW Distribuidora",
+  "segmento": "Distribuicao (autopecas)",
+  "principal_produto": "Distribuicao de autopecas e componentes",
+  "fabrica_brasil": "Sem fabricacao (distribuidora/atacado)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E distribuidora de autopecas, nao fabrica produtos de aco",
+  "fonte": "https://furacao.com.br"
+ },
+ {
+  "idx": 197,
+  "dominio_efetivo": "brose.com",
+  "empresa": "Brose",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de porta, levantadores de vidro e estruturas de assento",
+  "fabrica_brasil": "Sao Jose dos Pinhais/PR; Jarinu/SP; Goiana/PE",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas/perfis de aco para estruturas de assento e modulos de porta",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 198,
+  "dominio_efetivo": "karina.com.br",
+  "empresa": "Karina",
+  "segmento": "Quimica/Plasticos",
+  "principal_produto": "Compostos de PVC, masterbatch e aditivos plasticos",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica compostos plasticos (PVC), nao usa aco carbono",
+  "fonte": "https://karina.com.br"
+ },
+ {
+  "idx": 199,
+  "dominio_efetivo": "dex.co",
+  "empresa": "Dexco",
+  "segmento": "Construcao",
+  "principal_produto": "Paineis de madeira, loucas e metais sanitarios, pisos e revestimentos",
+  "fabrica_brasil": "Sete unidades em SP e uma no RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica madeira, ceramica, louca e metais sanitarios (latao), nao aco carbono",
+  "fonte": "busca web"
+ }
+]

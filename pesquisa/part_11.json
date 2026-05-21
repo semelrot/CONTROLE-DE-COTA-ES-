@@ -1,0 +1,200 @@
+[
+ {
+  "idx": 220,
+  "dominio_efetivo": "intelbras.com.br",
+  "empresa": "Intelbras",
+  "segmento": "Eletroeletronica",
+  "principal_produto": "Cameras de seguranca, roteadores, fechaduras digitais e telefonia",
+  "fabrica_brasil": "Sao Jose/SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica produtos eletronicos (PCB/plastico); nao usa aco carbono estrutural",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 221,
+  "dominio_efetivo": "tkelevator.com",
+  "empresa": "TK Elevator",
+  "segmento": "Equipamentos",
+  "principal_produto": "Elevadores",
+  "fabrica_brasil": "Guaiba/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica elevadores com cabines e estruturas de chapa de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 224,
+  "dominio_efetivo": "smarkets.com.br",
+  "empresa": "Smarkets",
+  "segmento": "Servicos",
+  "principal_produto": "Servicos de gestao de compras, suprimentos e logistica",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de servicos de procurement/supply chain; nao fabrica",
+  "fonte": "https://smarkets.com.br"
+ },
+ {
+  "idx": 225,
+  "dominio_efetivo": "www.brametal.com.br",
+  "empresa": "Brametal",
+  "segmento": "Energia",
+  "principal_produto": "Torres e postes metalicos para transmissao de energia",
+  "fabrica_brasil": "Linhares/ES; Criciuma/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas treliçadas e postes de aco galvanizado (aco carbono)",
+  "fonte": "https://www.brametal.com.br"
+ },
+ {
+  "idx": 226,
+  "dominio_efetivo": "metalfujii.com.br",
+  "empresa": "Metalurgica Fujii",
+  "segmento": "Metalurgica",
+  "principal_produto": "Usinagem de pecas e montagem de subconjuntos",
+  "fabrica_brasil": "Indaiatuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usina pecas em acos laminados e forjados para automotivo/agricola",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 227,
+  "dominio_efetivo": "sulzer.com",
+  "empresa": "Sulzer",
+  "segmento": "Equipamentos",
+  "principal_produto": "Bombas centrifugas",
+  "fabrica_brasil": "Jundiai/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica corpos de bomba e eixos em aco carbono/fofo",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 228,
+  "dominio_efetivo": "irapuru.com.br",
+  "empresa": "Irapuru Operador Logistico",
+  "segmento": "Logistica",
+  "principal_produto": "Transporte rodoviario de cargas e armazenagem",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operador logistico de transporte/armazenagem; nao fabrica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 229,
+  "dominio_efetivo": "indufix.com.br",
+  "empresa": "Indufix",
+  "segmento": "Metalurgica",
+  "principal_produto": "Parafusos, porcas, arruelas e rebites (fixadores)",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica fixadores em aco carbono e baixo carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 230,
+  "dominio_efetivo": "tropico.com.br",
+  "empresa": "Tropico Equipamentos Eletricos",
+  "segmento": "Metalurgica",
+  "principal_produto": "Postes de aco e luminarias para iluminacao publica",
+  "fabrica_brasil": "Indaiatuba/SP; Salto/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica postes conicos/poligonais conformados em chapa de aco carbono",
+  "fonte": "https://tropico.com.br"
+ },
+ {
+  "idx": 231,
+  "dominio_efetivo": "sig.biz",
+  "empresa": "SIG Combibloc",
+  "segmento": "Embalagens",
+  "principal_produto": "Embalagens cartonadas asseticas (longa vida)",
+  "fabrica_brasil": "Campo Largo/PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Embalagens de cartao/aluminio/plastico; produto nao usa aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 232,
+  "dominio_efetivo": "tuzzi.com.br",
+  "empresa": "Tuzzi",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Sistemas de engate para tratores e pecas forjadas/usinadas",
+  "fabrica_brasil": "Sao Joaquim da Barra/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Forja e usina pecas de aco para engates agricolas (nao e textil)",
+  "fonte": "https://tuzzi.com.br"
+ },
+ {
+  "idx": 233,
+  "dominio_efetivo": "kepler.com.br",
+  "empresa": "Kepler Weber",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Silos e sistemas de armazenagem e movimentacao de graos",
+  "fabrica_brasil": "Panambi/RS; Campo Grande/MS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Consome ~50 mil t de aco/ano em chapas para silos e transportadores",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 234,
+  "dominio_efetivo": "magnopecas.com.br",
+  "empresa": "Magno Pecas",
+  "segmento": "Autopecas",
+  "principal_produto": "Usinagem de precisao e conjuntos soldados",
+  "fabrica_brasil": "Diadema/SP; Mogi das Cruzes/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Corta, dobra, solda e usina acos laminados e forjados",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 235,
+  "dominio_efetivo": "metaltork.com.br",
+  "empresa": "Metaltork",
+  "segmento": "Metalurgica",
+  "principal_produto": "Parafusos e fixadores para aplicacao critica (eolica, O&G)",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica fixadores em aco carbono (SAE 1020/1045) e aco liga",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 236,
+  "dominio_efetivo": "selgron.com.br",
+  "empresa": "Selgron",
+  "segmento": "Maquinas",
+  "principal_produto": "Classificadoras de graos, selecionadoras opticas e empacotadoras",
+  "fabrica_brasil": "Blumenau/SC",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Estruturas/gabinetes de maquinas tipicamente em aco carbono",
+  "fonte": "https://selgron.com.br"
+ },
+ {
+  "idx": 237,
+  "dominio_efetivo": "hyster-yale.com",
+  "empresa": "Hyster-Yale",
+  "segmento": "Equipamentos",
+  "principal_produto": "Empilhadeiras",
+  "fabrica_brasil": "Itu/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Chassi, torres e contrapesos de empilhadeira em aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 238,
+  "dominio_efetivo": "onesubsea.com",
+  "empresa": "OneSubsea (SLB)",
+  "segmento": "Energia",
+  "principal_produto": "Arvores de natal molhadas e manifolds subsea para O&G",
+  "fabrica_brasil": "Taubate/SP; Curitiba/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica equipamentos subsea em aco forjado e ligas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 239,
+  "dominio_efetivo": "festo.com",
+  "empresa": "Festo",
+  "segmento": "Equipamentos",
+  "principal_produto": "Componentes pneumaticos e de automacao (valvulas, atuadores)",
+  "fabrica_brasil": "Sao Paulo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Componentes majoritariamente em aluminio e plastico de engenharia",
+  "fonte": "busca web"
+ }
+]

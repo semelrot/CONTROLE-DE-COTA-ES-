@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 280,
+  "dominio_efetivo": "autoliv.com",
+  "empresa": "Autoliv",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de seguranca automotiva: cintos, airbags e volantes",
+  "fabrica_brasil": "Taubate-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Mecanismos de cintos e armacao de volantes usam pecas estampadas de aco carbono.",
+  "fonte": "https://autoliv.com"
+ },
+ {
+  "idx": 281,
+  "dominio_efetivo": "autoneum.com",
+  "empresa": "Autoneum",
+  "segmento": "Autopecas",
+  "principal_produto": "Isolamento acustico e termico para veiculos",
+  "fabrica_brasil": "Sao Paulo-SP (Santo Andre)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos de isolamento sao texteis/plasticos/feltros, nao aco carbono.",
+  "fonte": "https://autoneum.com"
+ },
+ {
+  "idx": 282,
+  "dominio_efetivo": "unidas.com.br",
+  "empresa": "Unidas",
+  "segmento": "Servicos",
+  "principal_produto": "Locacao de veiculos",
+  "fabrica_brasil": "Nao se aplica (empresa de servicos, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de locacao de veiculos, nao fabrica produtos.",
+  "fonte": "https://unidas.com.br"
+ },
+ {
+  "idx": 283,
+  "dominio_efetivo": "driv.com",
+  "empresa": "DRiV (Tenneco)",
+  "segmento": "Autopecas",
+  "principal_produto": "Amortecedores Monroe",
+  "fabrica_brasil": "Mogi Mirim-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Amortecedores sao feitos de tubos e hastes de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 284,
+  "dominio_efetivo": "sodecia.com",
+  "empresa": "Sodecia (Ind Mecanica Brasileira)",
+  "segmento": "Autopecas",
+  "principal_produto": "Estampados e estruturas automotivas (Body-in-White)",
+  "fabrica_brasil": "Sete Lagoas-MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Especialista em estamparia e soldagem de chapas de aco para montadoras.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 285,
+  "dominio_efetivo": "enesa.com.br",
+  "empresa": "Enesa",
+  "segmento": "Engenharia",
+  "principal_produto": "Servicos de engenharia, montagem e manutencao industrial",
+  "fabrica_brasil": "Nao se aplica (empresa de servicos de engenharia)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Presta servicos de engenharia/montagem/manutencao, nao fabrica produtos.",
+  "fonte": "https://enesa.com.br"
+ },
+ {
+  "idx": 286,
+  "dominio_efetivo": "lumicenter.com",
+  "empresa": "Lumicenter",
+  "segmento": "Iluminacao",
+  "principal_produto": "Luminarias LED",
+  "fabrica_brasil": "Sao Jose dos Pinhais-PR; Pato Branco-PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Luminarias fabricadas a partir de chapa de aco conformada.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 287,
+  "dominio_efetivo": "reintech.com.br",
+  "empresa": "Reintech",
+  "segmento": "Equipamentos",
+  "principal_produto": "Equipamentos e estruturas para salas limpas (cleanrooms)",
+  "fabrica_brasil": "Jacarei-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos enfatizam aco inox (portas/estruturas inox), nao aco carbono.",
+  "fonte": "https://reintech.com.br"
+ },
+ {
+  "idx": 288,
+  "dominio_efetivo": "ambev.com.br",
+  "empresa": "Ambev",
+  "segmento": "Bebidas",
+  "principal_produto": "Cervejas e refrigerantes",
+  "fabrica_brasil": "Diversas (ex.: Jaguariuna-SP, Guarulhos-SP)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica bebidas; embalagens sao aluminio/vidro/PET, nao aco carbono.",
+  "fonte": "https://ambev.com.br"
+ },
+ {
+  "idx": 289,
+  "dominio_efetivo": "hteck.com.br",
+  "empresa": "Hteck",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas metalicas soldadas, tubulares e usinadas seriadas",
+  "fabrica_brasil": "Santa Barbara d'Oeste-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Faz corte a laser, dobra de chapa, solda e usinagem de pecas de aco.",
+  "fonte": "https://hteck.com.br"
+ },
+ {
+  "idx": 290,
+  "dominio_efetivo": "ctrltech.com.br",
+  "empresa": "Ctrltech",
+  "segmento": "Energia",
+  "principal_produto": "Equipamentos de conversao de energia: retificadores, UPS, paineis, racks",
+  "fabrica_brasil": "Osasco-SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Gabinetes de paineis e racks costumam usar chapa de aco carbono.",
+  "fonte": "https://ctrltech.com.br"
+ },
+ {
+  "idx": 291,
+  "dominio_efetivo": "imic.com.br",
+  "empresa": "IMIC",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Equipamentos para beneficiamento mineral",
+  "fabrica_brasil": "Sarzedo-MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica maquinas de britagem/classificacao com estruturas e chapas de aco.",
+  "fonte": "https://imic.com.br"
+ },
+ {
+  "idx": 292,
+  "dominio_efetivo": "mag-alianca.com.br",
+  "empresa": "MAG Alianca",
+  "segmento": "Servicos (Seguros)",
+  "principal_produto": "Seguros de vida e previdencia (Grupo Mongeral Aegon)",
+  "fabrica_brasil": "Nao se aplica (servicos financeiros)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de seguros e previdencia, nao fabrica produtos.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 293,
+  "dominio_efetivo": "esab.com",
+  "empresa": "ESAB",
+  "segmento": "Equipamentos",
+  "principal_produto": "Consumiveis e equipamentos de soldagem e corte (eletrodos, arames)",
+  "fabrica_brasil": "Contagem-MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica arames e eletrodos a partir de fio-maquina de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 294,
+  "dominio_efetivo": "aperam.com",
+  "empresa": "Aperam",
+  "segmento": "Siderurgia",
+  "principal_produto": "Aco inoxidavel, eletrico e ligas (produtor de aco)",
+  "fabrica_brasil": "Timoteo-MG (Aperam South America)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de aco (inox/eletrico), fornecedora e nao consumidora de aco carbono.",
+  "fonte": "https://aperam.com"
+ },
+ {
+  "idx": 295,
+  "dominio_efetivo": "kiongroup.com",
+  "empresa": "KION Group",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Empilhadeiras Linde e Still",
+  "fabrica_brasil": "Indaiatuba-SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Empilhadeiras tem chassi, mastro e contrapeso estrutural em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 296,
+  "dominio_efetivo": "prolind.com.br",
+  "empresa": "Prolind Aluminio",
+  "segmento": "Metalurgia (Aluminio)",
+  "principal_produto": "Tarugos, perfis extrudados e componentes de aluminio",
+  "fabrica_brasil": "Sao Jose dos Campos-SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Foco em aluminio (extrusao/refusao), nao aco carbono.",
+  "fonte": "https://prolind.com.br"
+ },
+ {
+  "idx": 297,
+  "dominio_efetivo": "engeman.net",
+  "empresa": "Engeman",
+  "segmento": "Software (TI)",
+  "principal_produto": "Software de gestao de manutencao (CMMS)",
+  "fabrica_brasil": "Nao se aplica (empresa de software)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Desenvolve software CMMS, nao fabrica produtos fisicos.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 298,
+  "dominio_efetivo": "grupoagis.com",
+  "empresa": "Grupo Agis",
+  "segmento": "Construcao/Infraestrutura",
+  "principal_produto": "Construcao, sistemas eletromecanicos e mineracao (infraestrutura)",
+  "fabrica_brasil": "Sao Paulo-SP (sede)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Grupo de construcao/infra e mineracao; presta servicos, nao fabrica produtos.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 299,
+  "dominio_efetivo": "jbs.com.br",
+  "empresa": "JBS",
+  "segmento": "Alimentos",
+  "principal_produto": "Carnes e alimentos proteicos (frigorifico)",
+  "fabrica_brasil": "Diversas (matriz Sao Paulo-SP; +130 plantas no Brasil)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Frigorifico/alimentos; nao fabrica produtos de aco carbono.",
+  "fonte": "https://jbs.com.br"
+ }
+]

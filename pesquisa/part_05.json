@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 100,
+    "dominio_efetivo": "lincolnelectric.com",
+    "empresa": "Lincoln Electric",
+    "segmento": "Equipamentos/Consumiveis de soldagem",
+    "principal_produto": "Arames, eletrodos e maquinas de solda",
+    "fabrica_brasil": "Guarulhos/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica arames e eletrodos a partir de fio-maquina de aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 101,
+    "dominio_efetivo": "www.gruposimec.com.br",
+    "empresa": "Grupo Simec (A.Silva)",
+    "segmento": "Siderurgia/Metalurgica",
+    "principal_produto": "Vergalhoes, barras, fio-maquina, perfis e telas soldadas de aco",
+    "fabrica_brasil": "Sao Paulo/SP e Espirito Santo",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Produz vergalhoes, barras, perfis e fio-maquina em aco carbono",
+    "fonte": "https://www.gruposimec.com.br"
+  },
+  {
+    "idx": 102,
+    "dominio_efetivo": "clariant.com",
+    "empresa": "Clariant",
+    "segmento": "Quimica (especialidades)",
+    "principal_produto": "Quimicos especiais, aditivos e catalisadores",
+    "fabrica_brasil": "Suzano/SP e Jacarei/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica produtos quimicos; nao transforma aco carbono em produto",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 103,
+    "dominio_efetivo": "grupoccr.com.br",
+    "empresa": "Grupo CCR (Motiva)",
+    "segmento": "Servicos (concessoes/mobilidade)",
+    "principal_produto": "Operacao de rodovias, aeroportos e mobilidade urbana",
+    "fabrica_brasil": "Sem fabrica (operadora de concessoes)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Operadora de infraestrutura/concessoes, nao fabrica produtos",
+    "fonte": "https://www.motiva.com.br"
+  },
+  {
+    "idx": 104,
+    "dominio_efetivo": "truckvan.com.br",
+    "empresa": "Truckvan",
+    "segmento": "Implementos rodoviarios/Carrocerias",
+    "principal_produto": "Furgoes, implementos rodoviarios e unidades moveis",
+    "fabrica_brasil": "Guarulhos/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica chassis e estruturas em aco alta resistencia (700 MPa)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 105,
+    "dominio_efetivo": "scorpios.com.br",
+    "empresa": "Scorpios Ind. Metalurgica",
+    "segmento": "Autopecas/Metalurgica",
+    "principal_produto": "Estampados, soldados e conjuntos montados para automotivo",
+    "fabrica_brasil": "Sao Caetano do Sul/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e solda chapas de aco para componentes automotivos",
+    "fonte": "https://scorpios.com.br"
+  },
+  {
+    "idx": 106,
+    "dominio_efetivo": "irco.com",
+    "empresa": "Ingersoll Rand",
+    "segmento": "Equipamentos industriais",
+    "principal_produto": "Compressores de ar, sopradores e bombas a vacuo",
+    "fabrica_brasil": "Campinas/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica compressores e equipamentos com estrutura/componentes de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 107,
+    "dominio_efetivo": "stihl.com.br",
+    "empresa": "Stihl",
+    "segmento": "Equipamentos/Ferramentas motorizadas",
+    "principal_produto": "Motosserras, rocadeiras e equipamentos a combustao",
+    "fabrica_brasil": "Sao Leopoldo/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica correntes, sabres e pecas em aco carbono especial",
+    "fonte": "https://stihl.com.br"
+  },
+  {
+    "idx": 108,
+    "dominio_efetivo": "www.smrc-automotive.com",
+    "empresa": "Motherson Group (SMRC)",
+    "segmento": "Autopecas (interiores)",
+    "principal_produto": "Sistemas modulares de interiores automotivos",
+    "fabrica_brasil": "Guarulhos/SP e Jaguariuna/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Interiores sao majoritariamente plastico, mas usam estruturas/suportes de aco",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 109,
+    "dominio_efetivo": "tiberinagroup.com",
+    "empresa": "Tiberina Group",
+    "segmento": "Autopecas/Estamparia",
+    "principal_produto": "Estampados e subconjuntos metalicos para veiculos",
+    "fabrica_brasil": "Juatuba/MG e Goiana/PE",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa e solda chapas de aco para pecas estruturais automotivas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 110,
+    "dominio_efetivo": "groupe-psa.com",
+    "empresa": "Groupe PSA (Stellantis)",
+    "segmento": "Montadora",
+    "principal_produto": "Automoveis Peugeot e Citroen",
+    "fabrica_brasil": "Porto Real/RJ",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estampa carrocarias e usa chapas de aco na fabricacao de veiculos",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 111,
+    "dominio_efetivo": "spaal.com.br",
+    "empresa": "Spaal",
+    "segmento": "Autopecas",
+    "principal_produto": "Juntas, retentores e parafusos para motores",
+    "fabrica_brasil": "Taboao da Serra/SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Juntas metalicas e parafusos usam aco; mas tambem retentores de borracha",
+    "fonte": "https://spaal.com.br"
+  },
+  {
+    "idx": 112,
+    "dominio_efetivo": "eaton.com",
+    "empresa": "Eaton",
+    "segmento": "Autopecas/Powertrain",
+    "principal_produto": "Transmissoes, eixos, engrenagens e sincronizadores",
+    "fabrica_brasil": "Valinhos/SP e Mogi Mirim/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usina e forja aco para engrenagens, eixos e caixas de cambio",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 113,
+    "dominio_efetivo": "tuper.com.br",
+    "empresa": "Tuper",
+    "segmento": "Metalurgica/Siderurgia",
+    "principal_produto": "Tubos de aco, perfis, telhas e estampados automotivos",
+    "fabrica_brasil": "Sao Bento do Sul/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Produz tubos, perfis e estampados a partir de chapas/bobinas de aco carbono",
+    "fonte": "https://tuper.com.br"
+  },
+  {
+    "idx": 114,
+    "dominio_efetivo": "busscar.com.br",
+    "empresa": "Busscar",
+    "segmento": "Carroceria (onibus)",
+    "principal_produto": "Carrocerias de onibus rodoviarios",
+    "fabrica_brasil": "Joinville/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estrutura de carroceria de onibus fabricada em perfis/tubos de aco",
+    "fonte": "https://busscar.com.br"
+  },
+  {
+    "idx": 115,
+    "dominio_efetivo": "buhlergroup.com",
+    "empresa": "Buhler",
+    "segmento": "Maquinas (processamento de alimentos/graos)",
+    "principal_produto": "Maquinas de moagem, secagem e processamento de graos",
+    "fabrica_brasil": "Joinville/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica maquinas e estruturas com chapas de aco carbono (mais inox)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 116,
+    "dominio_efetivo": "palfinger.com",
+    "empresa": "Palfinger",
+    "segmento": "Maquinas/Equipamentos de icamento",
+    "principal_produto": "Guindastes articulados e equipamentos de movimentacao de carga",
+    "fabrica_brasil": "Caxias do Sul/RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Lancas e estruturas de guindastes fabricadas em aco de alta resistencia",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 117,
+    "dominio_efetivo": "alpino.com.br",
+    "empresa": "Alpino Ind. Metalurgica",
+    "segmento": "Autopecas/Metalurgica",
+    "principal_produto": "Conjuntos tubulares e tubos curvados para automotivo e linha branca",
+    "fabrica_brasil": "Jundiai/SP e Itupeva/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Conforma e solda tubos de aco carbono para fogoes e automotivo",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 118,
+    "dominio_efetivo": "martinbrower.com.br",
+    "empresa": "Martin Brower - Brasil",
+    "segmento": "Servicos (logistica/distribuicao)",
+    "principal_produto": "Logistica e supply chain para food service (restaurantes)",
+    "fabrica_brasil": "Sem fabrica (operador logistico)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de logistica e distribuicao; nao fabrica produtos",
+    "fonte": "https://martinbrower.com.br"
+  },
+  {
+    "idx": 119,
+    "dominio_efetivo": "intercement.com",
+    "empresa": "InterCement",
+    "segmento": "Cimento",
+    "principal_produto": "Cimento (marcas Caue, Goias e Zebu)",
+    "fabrica_brasil": "Pedro Leopoldo/MG e outras (9 estados)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produz cimento; aco aparece so na infraestrutura, nao no produto",
+    "fonte": "busca web"
+  }
+]

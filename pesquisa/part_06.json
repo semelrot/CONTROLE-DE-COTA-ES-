@@ -1,0 +1,211 @@
+[
+  {
+    "idx": 120,
+    "dominio_efetivo": "repume.com.br",
+    "empresa": "Repume",
+    "segmento": "Iluminacao e estruturas metalicas",
+    "principal_produto": "Luminarias LED, postes, bracos, mastros e estruturas metalicas",
+    "fabrica_brasil": "Taboao da Serra, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica postes, bracos e mastros metalicos tipicamente em tubos/chapas de aco carbono.",
+    "fonte": "https://repume.com.br"
+  },
+  {
+    "idx": 121,
+    "dominio_efetivo": "michelin.com",
+    "empresa": "Michelin",
+    "segmento": "Pneus / borracha",
+    "principal_produto": "Pneus para autos, caminhoes, onibus e maquinas",
+    "fabrica_brasil": "Itatiaia, Campo Grande e Resende (RJ); Manaus (AM)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produto e pneu de borracha; o arame de aco e apenas reforco interno, nao a base fabricada.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 122,
+    "dominio_efetivo": "bunge.com",
+    "empresa": "Bunge",
+    "segmento": "Agronegocio / Alimentos",
+    "principal_produto": "Oleo de soja, farelo, graos e biodiesel",
+    "fabrica_brasil": "Rondonopolis e Nova Mutum (MT); Rio Grande (RS); Ponta Grossa (PR)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Processa graos e produz alimentos/oleos; nao fabrica produtos em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 123,
+    "dominio_efetivo": "zensa.com.br",
+    "empresa": "ZEN S.A.",
+    "segmento": "Autopecas",
+    "principal_produto": "Impulsores de partida, polias e tensionadores",
+    "fabrica_brasil": "Brusque, SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica perfis conformados a frio e usa chapas e barras de aco carbono nos componentes.",
+    "fonte": "https://zensa.com.br"
+  },
+  {
+    "idx": 124,
+    "dominio_efetivo": "skautomotive.com.br",
+    "empresa": "SK Mobility",
+    "segmento": "Distribuicao de autopecas",
+    "principal_produto": "Distribuicao de autopecas (linha leve, pesada, motos)",
+    "fabrica_brasil": "Sao Paulo, SP (sede; distribuidora)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "E distribuidora de autopecas de terceiros, nao fabrica nada em aco.",
+    "fonte": "https://skautomotive.com.br"
+  },
+  {
+    "idx": 125,
+    "dominio_efetivo": "flashengenharia.com.br",
+    "empresa": "Flash Engenharia",
+    "segmento": "Adaptacao veicular / sinalizacao",
+    "principal_produto": "Sinalizacao acustica/visual e adaptacao de viaturas",
+    "fabrica_brasil": "Sorocaba e Salto, SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Presta servico de adaptacao veicular e sinalizacao, sem fabricacao em aco carbono.",
+    "fonte": "https://flashengenharia.com.br"
+  },
+  {
+    "idx": 126,
+    "dominio_efetivo": "tecparts.com.br",
+    "empresa": "Tecparts",
+    "segmento": "Autopecas / Metal-mecanico",
+    "principal_produto": "Componentes usinados, forjados e fundidos (pinos, buchas)",
+    "fabrica_brasil": "Piracicaba, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usina pecas a partir de barras e tubos de aco para montadoras e tratores.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 127,
+    "dominio_efetivo": "wilsonsons.com.br",
+    "empresa": "Wilson Sons",
+    "segmento": "Servicos portuarios / Estaleiro",
+    "principal_produto": "Construcao e reparo de rebocadores e embarcacoes de apoio",
+    "fabrica_brasil": "Guaruja, SP (estaleiro)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estaleiro constroi cascos de rebocadores em chapas de aco carbono soldadas.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 128,
+    "dominio_efetivo": "engecampo.com.br",
+    "empresa": "Engecampo",
+    "segmento": "Engenharia industrial (EPC)",
+    "principal_produto": "Projetos EPC, montagem eletromecanica e obras industriais",
+    "fabrica_brasil": "Porto Alegre, RS (sede; prestadora de servico)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Presta servico de engenharia/montagem EPC; nao fabrica produto proprio em aco.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 129,
+    "dominio_efetivo": "schadek.com.br",
+    "empresa": "Schadek",
+    "segmento": "Autopecas",
+    "principal_produto": "Bombas de oleo, de agua e de combustivel",
+    "fabrica_brasil": "Porto Feliz, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica bombas com engrenagens e eixos usinados em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 130,
+    "dominio_efetivo": "krones.com",
+    "empresa": "Krones",
+    "segmento": "Maquinas / Equipamentos",
+    "principal_produto": "Linhas de engarrafamento, enchimento e embalagem",
+    "fabrica_brasil": "Diadema, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Maquinas e linhas usam estruturas e bases de aco carbono (alem de inox).",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 131,
+    "dominio_efetivo": "tecfil.com.br",
+    "empresa": "Tecfil",
+    "segmento": "Autopecas",
+    "principal_produto": "Filtros de oleo, ar, combustivel e cabine",
+    "fabrica_brasil": "Guarulhos, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Carcacas de filtros spin-on sao estampadas em chapa de aco carbono.",
+    "fonte": "https://tecfil.com.br"
+  },
+  {
+    "idx": 132,
+    "dominio_efetivo": "universalautomotive.com.br",
+    "empresa": "Universal Automotive",
+    "segmento": "Autopecas",
+    "principal_produto": "Pecas de reposicao: fechaduras, palhetas, tampas, amortecedores",
+    "fabrica_brasil": "Osasco, SP",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fabrica parte das pecas (fechaduras/tampas) que costumam ter estampados de aco; parte e importada.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 134,
+    "dominio_efetivo": "camaco.com",
+    "empresa": "Amvian (Camaco)",
+    "segmento": "Autopecas",
+    "principal_produto": "Estruturas e mecanismos metalicos de bancos automotivos",
+    "fabrica_brasil": "Atibaia, SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas de bancos estampadas e em arame de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 135,
+    "dominio_efetivo": "cobrarolamentos.com.br",
+    "empresa": "Cobra Rolamentos",
+    "segmento": "Distribuicao de autopecas",
+    "principal_produto": "Distribuicao de rolamentos e autopecas",
+    "fabrica_brasil": "Sao Paulo, SP (matriz; distribuidora)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "E distribuidora/revendedora de rolamentos, nao fabrica em aco.",
+    "fonte": "https://cobrarolamentos.com.br"
+  },
+  {
+    "idx": 136,
+    "dominio_efetivo": "maersk.com",
+    "empresa": "Maersk",
+    "segmento": "Logistica / Transporte maritimo",
+    "principal_produto": "Transporte de conteineres e logistica integrada",
+    "fabrica_brasil": "Sem fabrica no Brasil (matriz no exterior)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de transporte e logistica; nao fabrica produtos.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 137,
+    "dominio_efetivo": "dayco.com",
+    "empresa": "Dayco",
+    "segmento": "Autopecas",
+    "principal_produto": "Correias e tensionadores automotivos",
+    "fabrica_brasil": "Indaiatuba, SP e Contagem, MG",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produto principal e correia de borracha EPDM, nao base de aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 138,
+    "dominio_efetivo": "rdstation.com",
+    "empresa": "RD Station",
+    "segmento": "Tecnologia / Software",
+    "principal_produto": "Plataformas de marketing, CRM e atendimento (SaaS)",
+    "fabrica_brasil": "Florianopolis, SC (sede; software)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de software, nao fabrica nenhum produto fisico.",
+    "fonte": "https://rdstation.com"
+  },
+  {
+    "idx": 139,
+    "dominio_efetivo": "dunloppneus.com.br",
+    "empresa": "Dunlop Pneus",
+    "segmento": "Pneus / borracha",
+    "principal_produto": "Pneus para autos, SUVs, picapes, caminhoes e onibus",
+    "fabrica_brasil": "Fazenda Rio Grande, PR",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produto e pneu de borracha; arame de aco e apenas reforco, nao a base fabricada.",
+    "fonte": "busca web"
+  }
+]

@@ -1,0 +1,152 @@
+{
+ "plascargroup.com": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "site da Plascar fora do ar: plascar.com.br e plascargroup.com retornam HTTP 404"
+ },
+ "castrolanda.coop.br": {
+  "dominio_corrigido": "castrolanda.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.castrolanda.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Castrolanda)"
+ },
+ "integrada.coop.br": {
+  "dominio_corrigido": "www.integrada.coop.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.integrada.coop.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Integrada Cooperativa)"
+ },
+ "produquimica.com.br": {
+  "dominio_corrigido": "compassminerals.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://compassminerals.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Compass Minerals (ex-Produquimica))"
+ },
+ "plasticomnium.com": {
+  "dominio_corrigido": "opmobility.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.opmobility.com/en/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Plastic Omnium / OPmobility)"
+ },
+ "grupoantolin.com": {
+  "dominio_corrigido": "www.antolin.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.antolin.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Grupo Antolin)"
+ },
+ "servatis.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "empresa Servatis decretou falencia em 2018; sem site ativo"
+ },
+ "buritirama.com": {
+  "dominio_corrigido": "www.buritirama.com",
+  "http": 522,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.buritirama.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Buritirama Mineracao)"
+ },
+ "jaraguaequipamentos.com": {
+  "dominio_corrigido": "jaraguaequipamentos.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://jaraguaequipamentos.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Jaragua Equipamentos)"
+ },
+ "hondalock.com.br": {
+  "dominio_corrigido": "www.hondalock.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.hondalock.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Honda Lock do Brasil)"
+ },
+ "barga-brasil.com.br": {
+  "dominio_corrigido": "bgabrasil.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://bgabrasil.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Barga Brasil)"
+ },
+ "bservicos.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "empresa nao identificada; dominio sem DNS e sem site localizado"
+ },
+ "colpal.com": {
+  "dominio_corrigido": "colgate.com.br",
+  "http": 403,
+  "responde": "sim (bloqueio bot)",
+  "final_url": "https://www.colgate.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Colgate-Palmolive)"
+ },
+ "ferrolene.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "Ferrolene (centro de servicos de aco) existe mas sem website proprio (apenas LinkedIn/diretorios)"
+ },
+ "br.gestamp.com": {
+  "dominio_corrigido": "gestamp.com",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://gestamp.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Gestamp)"
+ },
+ "grupotoniello.com.br": {
+  "dominio_corrigido": "grupotoniello.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://grupotoniello.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Grupo Toniello)"
+ },
+ "ramahtecnologia.com.br": {
+  "dominio_corrigido": "www.ramahtecnologia.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.ramahtecnologia.com.br/en",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Ramah Tecnologia)"
+ },
+ "flsmidth.com": {
+  "dominio_corrigido": "fls.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://fls.com/pt",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "FLSmidth rebrandou para FLS; site oficial agora e fls.com (conteudo real confirmado)"
+ }
+}

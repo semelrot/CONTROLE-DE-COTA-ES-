@@ -1,0 +1,6 @@
+# Planilhas com dados pessoais (nome/e-mail/telefone) - nao versionar
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc

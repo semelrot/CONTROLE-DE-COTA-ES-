@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 160,
+    "dominio_efetivo": "elgin.com.br",
+    "empresa": "Elgin",
+    "segmento": "Eletroeletronicos/Refrigeracao",
+    "principal_produto": "Equipamentos de refrigeracao comercial e eletroportateis",
+    "fabrica_brasil": "Mogi das Cruzes-SP, Manaus-AM, Hortolandia-SP (Refrio)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Gabinetes e unidades condensadoras de refrigeracao usam chapa de aco carbono estampada/soldada.",
+    "fonte": "https://elgin.com.br"
+  },
+  {
+    "idx": 161,
+    "dominio_efetivo": "estel.com.br",
+    "empresa": "Estel",
+    "segmento": "Servicos industriais/Caldeiraria",
+    "principal_produto": "Montagem, manutencao industrial e fabricacao de estruturas metalicas",
+    "fabrica_brasil": "Aracruz-ES",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Empresa de servicos que fabrica estruturas e componentes metalicos sob encomenda, tipicamente aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 162,
+    "dominio_efetivo": "wickbold.com.br",
+    "empresa": "Wickbold",
+    "segmento": "Alimentos",
+    "principal_produto": "Paes de forma e produtos de panificacao",
+    "fabrica_brasil": "Sao Paulo-SP (regiao); Vinhedo-SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica alimentos (paes); nao produz bens em aco carbono.",
+    "fonte": "https://wickbold.com.br"
+  },
+  {
+    "idx": 163,
+    "dominio_efetivo": "bruning.com.br",
+    "empresa": "Bruning Tecnometal",
+    "segmento": "Autopecas/Metalmecanica",
+    "principal_produto": "Pecas estampadas, usinadas e soldadas para montadoras",
+    "fabrica_brasil": "Panambi-RS",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estamparia, usinagem e solda de pecas metalicas para montadoras, base aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 164,
+    "dominio_efetivo": "meritor.com",
+    "empresa": "Meritor (Cummins Meritor)",
+    "segmento": "Autopecas (veiculos comerciais)",
+    "principal_produto": "Eixos, cardans e componentes de transmissao",
+    "fabrica_brasil": "Osasco-SP; Resende-RJ",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Eixos, carcacas, cardans e forjados produzidos a partir de aco carbono/forjado.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 165,
+    "dominio_efetivo": "mbp.com.br",
+    "empresa": "Grupo MBP",
+    "segmento": "Metalurgia/Aco plano",
+    "principal_produto": "Chapas de aco, perfis, tubos e telhas/paineis",
+    "fabrica_brasil": "Valenca-RJ; Barra do Pirai-RJ; Ribeirao-PE",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Corte, perfilagem e fabricacao de tubos e perfis a partir de aco plano (carbono).",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 166,
+    "dominio_efetivo": "johndeere.com",
+    "empresa": "John Deere",
+    "segmento": "Maquinas agricolas",
+    "principal_produto": "Tratores, colheitadeiras e plantadeiras",
+    "fabrica_brasil": "Horizontina-RS; Montenegro-RS; Catalao-GO",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Maquinas agricolas pesadas com chassis e estruturas estampadas/soldadas em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 167,
+    "dominio_efetivo": "joalmi.com.br",
+    "empresa": "JOALMI",
+    "segmento": "Metalurgica/Estamparia",
+    "principal_produto": "Pecas estampadas, conjuntos soldados e ferramentaria",
+    "fabrica_brasil": "Guarulhos-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Corte, dobra e estampagem profunda de materiais ferrosos; estampados/soldados em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 168,
+    "dominio_efetivo": "positron.com.br",
+    "empresa": "PST (Positron)",
+    "segmento": "Eletronica automotiva",
+    "principal_produto": "Alarmes, som automotivo e rastreamento veicular",
+    "fabrica_brasil": "Campinas-SP; Manaus-AM",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica eletronica automotiva; nao produz bens em aco carbono.",
+    "fonte": "https://positron.com.br"
+  },
+  {
+    "idx": 169,
+    "dominio_efetivo": "komatsu.com.br",
+    "empresa": "Komatsu",
+    "segmento": "Maquinas de construcao/mineracao",
+    "principal_produto": "Escavadeiras, tratores de esteira e motoniveladoras",
+    "fabrica_brasil": "Suzano-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Maquinas pesadas com estruturas soldadas e usinadas em aco carbono (robos de solda/fundicao).",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 170,
+    "dominio_efetivo": "mahle.com",
+    "empresa": "MAHLE (Metal Leve)",
+    "segmento": "Autopecas",
+    "principal_produto": "Pistoes, aneis, bronzinas e filtros",
+    "fabrica_brasil": "Mogi Guacu-SP; Indaiatuba-SP; Sao Bernardo-SP; Itajuba-MG; Queimados-RJ",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Aneis de pistao e carcacas de filtros usam aco carbono/ligado.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 171,
+    "dominio_efetivo": "vulkan.com",
+    "empresa": "VULKAN do Brasil",
+    "segmento": "Equipamentos industriais",
+    "principal_produto": "Acoplamentos, freios industriais e grampos de ancoragem",
+    "fabrica_brasil": "Itatiba-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Freios industriais, grampos e componentes mecanicos fabricados em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 172,
+    "dominio_efetivo": "cummins.com.br",
+    "empresa": "Cummins Brasil",
+    "segmento": "Equipamentos/Motores",
+    "principal_produto": "Motores diesel, geradores e turbos",
+    "fabrica_brasil": "Guarulhos-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Motores e geradores usam forjados e chapas de aco carbono em diversos componentes.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 173,
+    "dominio_efetivo": "akzonobel.com",
+    "empresa": "AkzoNobel",
+    "segmento": "Quimica (tintas)",
+    "principal_produto": "Tintas e revestimentos",
+    "fabrica_brasil": "Sao Bernardo do Campo-SP; Santo Andre-SP; Maua-SP; Sao Roque-SP; Recife-PE",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica tintas e revestimentos; nao produz bens em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 174,
+    "dominio_efetivo": "fbsconstrutora.com.br",
+    "empresa": "FBS Construtora",
+    "segmento": "Construcao/Engenharia",
+    "principal_produto": "Obras de infraestrutura (rodovias, saneamento, energia) em regime EPC",
+    "fabrica_brasil": "Sao Paulo-SP (sede)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Construtora de infraestrutura; presta servico de engenharia, nao fabrica bens em aco.",
+    "fonte": "https://fbsconstrutora.com.br"
+  },
+  {
+    "idx": 175,
+    "dominio_efetivo": "kostalbrasil.com.br",
+    "empresa": "Kostal",
+    "segmento": "Autopecas (eletrica/eletronica)",
+    "principal_produto": "Componentes eletricos e eletronicos automotivos",
+    "fabrica_brasil": "Sao Bernardo do Campo-SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica eletrica/eletronica automotiva; nao produz bens em aco carbono.",
+    "fonte": "https://kostalbrasil.com.br"
+  },
+  {
+    "idx": 176,
+    "dominio_efetivo": "bomjesus.com",
+    "empresa": "Grupo Bom Jesus",
+    "segmento": "Agronegocio",
+    "principal_produto": "Producao de graos (soja, milho, algodao), sementes e pecuaria",
+    "fabrica_brasil": "Rondonopolis-MT (sede); BA; PI",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de agronegocio; nao fabrica bens em aco carbono.",
+    "fonte": "https://bomjesus.com"
+  },
+  {
+    "idx": 177,
+    "dominio_efetivo": "benteler.com",
+    "empresa": "BENTELER",
+    "segmento": "Autopecas (metalmecanica)",
+    "principal_produto": "Tubos, estampados, chassis e estruturas automotivas",
+    "fabrica_brasil": "Campinas-SP; Goiana-PE; Joinville-SC; Porto Real-RJ; Sao Caetano do Sul-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica tubos soldados/sem costura, estampados e chassis em aco carbono.",
+    "fonte": "https://benteler.com"
+  },
+  {
+    "idx": 178,
+    "dominio_efetivo": "villarta.com.br",
+    "empresa": "Villarta",
+    "segmento": "Maquinas/Equipamentos (elevadores)",
+    "principal_produto": "Elevadores e escadas rolantes",
+    "fabrica_brasil": "Taubate-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Cabines, painéis e estruturas de elevadores fabricados em aco carbono.",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 179,
+    "dominio_efetivo": "khs.com",
+    "empresa": "KHS",
+    "segmento": "Maquinas/Equipamentos",
+    "principal_produto": "Maquinas e linhas de envase e embalagem para bebidas",
+    "fabrica_brasil": "Sao Paulo-SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Maquinas e linhas com estruturas e chassis fabricados em aco carbono (alem de inox).",
+    "fonte": "busca web"
+  }
+]

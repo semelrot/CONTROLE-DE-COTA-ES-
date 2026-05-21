@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 140,
+    "dominio_efetivo": "ge.com",
+    "empresa": "General Electric",
+    "segmento": "Energia/Equipamentos industriais",
+    "principal_produto": "Turbinas, geradores, aerogeradores (nacelles) e equipamentos de energia",
+    "fabrica_brasil": "Campinas/SP e Taubate/SP (torres eolicas via JV TEN em Jacobina/BA)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica torres eolicas, carcacas e estruturas de turbinas/geradores em aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 141,
+    "dominio_efetivo": "nadir.com.br",
+    "empresa": "Nadir Figueiredo",
+    "segmento": "Vidro (utilidades domesticas)",
+    "principal_produto": "Utilidades e embalagens de vidro (copos, potes, travessas; marcas Marinex/Duralex)",
+    "fabrica_brasil": "Suzano/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produto e integralmente vidro; nao fabrica pecas de aco carbono",
+    "fonte": "https://nadir.com.br"
+  },
+  {
+    "idx": 142,
+    "dominio_efetivo": "medabil.com.br",
+    "empresa": "Medabil",
+    "segmento": "Construcao (estruturas metalicas/steel frame)",
+    "principal_produto": "Estruturas metalicas e galpoes em aco (steel frame/construcao metalica)",
+    "fabrica_brasil": "Nova Bassano/RS (sede Porto Alegre/RS)",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica estruturas metalicas a partir de perfis/chapas de aco carbono",
+    "fonte": "https://site2.medabil.com.br"
+  },
+  {
+    "idx": 143,
+    "dominio_efetivo": "jcb.com",
+    "empresa": "JCB",
+    "segmento": "Maquinas de construcao",
+    "principal_produto": "Retroescavadeiras, escavadeiras e manipuladores telescopicos",
+    "fabrica_brasil": "Sorocaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica chassis, lancas e estruturas de maquinas em aco carbono (corte/solda/usinagem)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 144,
+    "dominio_efetivo": "petrobras.com.br",
+    "empresa": "Petrobras",
+    "segmento": "Oleo e Gas/Energia",
+    "principal_produto": "Producao e refino de petroleo, gas, combustiveis e fertilizantes",
+    "fabrica_brasil": "Refinarias em diversas UF (RJ, SP, BA, etc.)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtora/refinadora de hidrocarbonetos; nao fabrica produtos de aco carbono",
+    "fonte": "https://petrobras.com.br"
+  },
+  {
+    "idx": 145,
+    "dominio_efetivo": "whbbrasil.com.br",
+    "empresa": "WHB Brasil",
+    "segmento": "Autopecas",
+    "principal_produto": "Virabrequins, bielas, cubos de roda e componentes forjados/usinados de motor",
+    "fabrica_brasil": "Curitiba/PR",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Possui linha de forjaria que conforma aco carbono em bielas, virabrequins e cubos",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 146,
+    "dominio_efetivo": "harrispye.com",
+    "empresa": "Harris Pye",
+    "segmento": "Energia/Caldeiraria (engenharia e servicos)",
+    "principal_produto": "Caldeiras, HRSG, trocadores de calor e tubulacoes (engenharia/manutencao)",
+    "fabrica_brasil": "Nao identificado (atuacao Brasil via filial; sem fabrica confirmada)",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Caldeiraria de vasos/trocadores usa aco carbono, mas perfil e mais servico/montagem",
+    "fonte": "https://harrispye.com"
+  },
+  {
+    "idx": 147,
+    "dominio_efetivo": "dpaschoal.com.br",
+    "empresa": "DPaschoal",
+    "segmento": "Servicos automotivos/Varejo",
+    "principal_produto": "Rede de autocenter (pneus, troca de oleo, manutencao) e distribuicao de pecas",
+    "fabrica_brasil": "Sede em Campinas/SP (rede de lojas; sem fabricacao)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de servicos/varejo sem fabricacao, nao consome aco carbono para produzir",
+    "fonte": "https://dpaschoal.com.br"
+  },
+  {
+    "idx": 148,
+    "dominio_efetivo": "atlascopco.com",
+    "empresa": "Atlas Copco",
+    "segmento": "Equipamentos industriais (compressores)",
+    "principal_produto": "Compressores de ar, sistemas de vacuo, ferramentas e equipamentos de mineracao",
+    "fabrica_brasil": "Fabrica e operacoes em Sorocaba/SP e Barueri/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Monta compressores com tanques, carcacas e estruturas em aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 149,
+    "dominio_efetivo": "miba.com",
+    "empresa": "Miba",
+    "segmento": "Autopecas",
+    "principal_produto": "Bronzinas/mancais (bimetalicos), pecas sinterizadas e revestimentos",
+    "fabrica_brasil": "Indaiatuba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Bronzinas bimetal sao produzidas sobre tira/base de aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 150,
+    "dominio_efetivo": "hutchinson.com",
+    "empresa": "Hutchinson",
+    "segmento": "Autopecas (anti-vibracao/vedacoes)",
+    "principal_produto": "Sistemas anti-vibracao, vedacoes e mangueiras de borracha/polimeros",
+    "fabrica_brasil": "Monte Alto/SP, Casa Branca/SP e Extrema/MG",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos sao majoritariamente borracha/elastomeros e polimeros, nao aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 151,
+    "dominio_efetivo": "byd.com",
+    "empresa": "BYD",
+    "segmento": "Montadora (veiculos eletricos)",
+    "principal_produto": "Automoveis eletricos e hibridos (Dolphin Mini, King, Song Pro)",
+    "fabrica_brasil": "Camacari/BA",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Producao com estamparia e soldagem de carrocerias/chassis em aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 152,
+    "dominio_efetivo": "hci.ind.br",
+    "empresa": "HCI Hidraulica Conexoes Industriais",
+    "segmento": "Metalurgica/Caldeiraria (tubulacao industrial)",
+    "principal_produto": "Flanges, conexoes, tubos, valvulas e caldeiraria (nipples, skids, spools)",
+    "fabrica_brasil": "Guarulhos/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Caldeiraria fabrica nipples, skids e spools com tubos/chapas de aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 153,
+    "dominio_efetivo": "schulz.com.br",
+    "empresa": "Schulz",
+    "segmento": "Equipamentos industriais/Autopecas",
+    "principal_produto": "Compressores de ar e componentes automotivos (estampados e fundidos)",
+    "fabrica_brasil": "Joinville/SC",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabrica tanques de compressor e pecas estampadas em aco carbono",
+    "fonte": "https://schulz.com.br"
+  },
+  {
+    "idx": 154,
+    "dominio_efetivo": "aptiv.com",
+    "empresa": "Aptiv",
+    "segmento": "Autopecas (eletrica/eletronica)",
+    "principal_produto": "Chicotes eletricos, conectores, cabos e sistemas eletronicos/ADAS",
+    "fabrica_brasil": "Operacoes no Brasil (ex.: Espirito Santo do Pinhal/SP)",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos sao de cobre/plastico/eletronica, nao baseados em aco carbono",
+    "fonte": "https://aptiv.com"
+  },
+  {
+    "idx": 155,
+    "dominio_efetivo": "pahc.com",
+    "empresa": "Phibro Animal Health",
+    "segmento": "Saude e nutricao animal/Quimica",
+    "principal_produto": "Aditivos para racao, medicamentos veterinarios e nutricao mineral animal",
+    "fabrica_brasil": "Nao identificado",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica insumos quimicos/nutricionais para animais, nao pecas de aco carbono",
+    "fonte": "https://pahc.com"
+  },
+  {
+    "idx": 156,
+    "dominio_efetivo": "hubner.com.br",
+    "empresa": "Grupo Hubner",
+    "segmento": "Autopecas (fundicao/usinagem)",
+    "principal_produto": "Pecas fundidas de ferro/aluminio e usinadas para industria automotiva",
+    "fabrica_brasil": "Araucaria/PR, Ponta Grossa/PR, Jaguariaiva/PR e Blumenau/SC",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Foco em fundicao de ferro e aluminio; ferro fundido nao e aco carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 157,
+    "dominio_efetivo": "pfizer.com",
+    "empresa": "Pfizer",
+    "segmento": "Farmaceutica",
+    "principal_produto": "Medicamentos, vacinas e produtos biofarmaceuticos",
+    "fabrica_brasil": "Itapevi/SP",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabrica medicamentos/vacinas; nao produz itens a partir de aco carbono",
+    "fonte": "https://pfizer.com"
+  },
+  {
+    "idx": 158,
+    "dominio_efetivo": "www.schaeffler.com",
+    "empresa": "Schaeffler",
+    "segmento": "Autopecas",
+    "principal_produto": "Rolamentos de precisao e componentes de transmissao/motor",
+    "fabrica_brasil": "Sorocaba/SP",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Consome barras/tubos de aco (aco-liga) para usinar rolamentos e componentes",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 159,
+    "dominio_efetivo": "opmobility.com",
+    "empresa": "OPmobility (Plastic Omnium)",
+    "segmento": "Autopecas (sistemas plasticos)",
+    "principal_produto": "Para-choques, modulos externos e sistemas de combustivel plasticos",
+    "fabrica_brasil": "Taubate/SP, Porto Real/RJ e Piraquara/PR",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos sao majoritariamente plastico/polimeros, nao aco carbono",
+    "fonte": "busca web"
+  }
+]

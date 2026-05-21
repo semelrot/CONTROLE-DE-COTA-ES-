@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 240,
+  "dominio_efetivo": "pastre.com.br",
+  "empresa": "Pastre",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Reboques e semirreboques para transporte de carga (basculantes, pranchas)",
+  "fabrica_brasil": "Quatro Barras, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos rodoviarios sao fabricados com chapas e perfis de aco carbono soldados.",
+  "fonte": "https://pastre.com.br"
+ },
+ {
+  "idx": 241,
+  "dominio_efetivo": "voith.com",
+  "empresa": "Voith",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Turbinas/geradores hidraulicos, maquinas de papel e transmissoes industriais",
+  "fabrica_brasil": "Sao Paulo, SP (bairro Jaragua)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica componentes pesados como tampas de turbina de ate 60t em aco.",
+  "fonte": "https://voith.com"
+ },
+ {
+  "idx": 242,
+  "dominio_efetivo": "saint-gobain.com",
+  "empresa": "Saint-Gobain",
+  "segmento": "Construcao / materiais",
+  "principal_produto": "Vidro, abrasivos, materiais de construcao e tubos de ferro fundido ductil",
+  "fabrica_brasil": "Multiplas plantas (ex.: Barra Mansa, RJ)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos sao vidro, abrasivos e tubos de ferro fundido ductil, nao aco carbono.",
+  "fonte": "https://saint-gobain.com.br"
+ },
+ {
+  "idx": 243,
+  "dominio_efetivo": "www.aethra.com.br",
+  "empresa": "Aethra",
+  "segmento": "Autopecas",
+  "principal_produto": "Cabines, estampados, tanques de combustivel, para-choques e perfis (aco e aluminio)",
+  "fabrica_brasil": "Contagem, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produz estampados e conjuntos automotivos em aco; usa chapa de aco carbono.",
+  "fonte": "https://www.aethra.com.br"
+ },
+ {
+  "idx": 244,
+  "dominio_efetivo": "grimaldi.com.br",
+  "empresa": "Grimaldi",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Guindastes, poliguindastes, roll-on-roll-off e equipamentos de carga",
+  "fabrica_brasil": "Santo Antonio de Posse, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Guindastes e implementos sao estruturas de aco carbono soldado.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 245,
+  "dominio_efetivo": "www.cooxupe.com.br",
+  "empresa": "Cooxupe",
+  "segmento": "Agronegocio (cooperativa)",
+  "principal_produto": "Comercializacao, beneficiamento e torrefacao de cafe",
+  "fabrica_brasil": "Guaxupe, MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Cooperativa de cafe; nao fabrica produtos com aco carbono.",
+  "fonte": "https://www.cooxupe.com.br"
+ },
+ {
+  "idx": 246,
+  "dominio_efetivo": "bovenau.com.br",
+  "empresa": "Bovenau",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Equipamentos hidraulicos: macacos, guinchos, prensas, cilindros e bombas",
+  "fabrica_brasil": "Rio do Sul, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cilindros, prensas e macacos hidraulicos usam corpos e hastes de aco carbono.",
+  "fonte": "https://bovenau.com.br"
+ },
+ {
+  "idx": 247,
+  "dominio_efetivo": "samarco.com",
+  "empresa": "Samarco",
+  "segmento": "Mineracao",
+  "principal_produto": "Pelotas de minerio de ferro (materia-prima para siderurgia)",
+  "fabrica_brasil": "Mariana, MG e Anchieta, ES",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora; produz pelotas de minerio, nao fabrica com aco carbono.",
+  "fonte": "https://samarco.com"
+ },
+ {
+  "idx": 248,
+  "dominio_efetivo": "zanchetta.com.br",
+  "empresa": "Zanchetta",
+  "segmento": "Alimentos",
+  "principal_produto": "Processamento de carnes (frango e bovino) - marcas Alliz e Mondelli",
+  "fabrica_brasil": "Nao identificado",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Processadora de carnes; nao fabrica produtos de aco carbono.",
+  "fonte": "https://zanchetta.com.br"
+ },
+ {
+  "idx": 249,
+  "dominio_efetivo": "jacto.com.br",
+  "empresa": "Jacto",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Pulverizadores, colhedoras de cafe, adubadoras e agricultura de precisao",
+  "fabrica_brasil": "Pompeia, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica maquinas agricolas com estruturas e chapas de aco carbono; tem fundicao propria.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 250,
+  "dominio_efetivo": "steammaster.com.br",
+  "empresa": "Steammaster",
+  "segmento": "Maquinas e equipamentos",
+  "principal_produto": "Caldeiras e geradores de vapor (oleo, gas, biomassa, lenha)",
+  "fabrica_brasil": "Varginha, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiras ASME e caldeiraria pesada usam chapas grossas de aco carbono.",
+  "fonte": "https://steammaster.com.br"
+ },
+ {
+  "idx": 252,
+  "dominio_efetivo": "nexaresources.com",
+  "empresa": "Nexa Resources",
+  "segmento": "Mineracao / metalurgia",
+  "principal_produto": "Zinco metalico e concentrados (cobre, chumbo, prata) - nao ferrosos",
+  "fabrica_brasil": "Vazante, Tres Marias e Juiz de Fora, MG; Aripuana, MT",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora/metalurgia de nao ferrosos; produz zinco, nao fabrica com aco carbono.",
+  "fonte": "https://nexaresources.com"
+ },
+ {
+  "idx": 253,
+  "dominio_efetivo": "feralvarez.com.br",
+  "empresa": "Fer Alvarez",
+  "segmento": "Distribuicao de aco / servicos",
+  "principal_produto": "Distribuicao de acos especiais e gestao de residuos/sucata",
+  "fabrica_brasil": "Sao Paulo (interior, DDD 19)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora e prestadora de servicos de aco; nao fabrica produtos.",
+  "fonte": "http://www.feralvarez.com.br"
+ },
+ {
+  "idx": 254,
+  "dominio_efetivo": "sabesp.com.br",
+  "empresa": "Sabesp",
+  "segmento": "Saneamento",
+  "principal_produto": "Servicos de agua e esgoto (concessionaria estadual de SP)",
+  "fabrica_brasil": "Sao Paulo, SP (concessionaria, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionaria de saneamento; presta servico, nao fabrica com aco carbono.",
+  "fonte": "https://sabesp.com.br"
+ },
+ {
+  "idx": 255,
+  "dominio_efetivo": "ttb.com.br",
+  "empresa": "TTB Produtos Metalicos",
+  "segmento": "Metalurgica",
+  "principal_produto": "Elementos de fixacao: aneis de retencao, estampados, arruelas, pinos, conjuntos soldados",
+  "fabrica_brasil": "Diadema, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica fixadores e estampados metalicos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 256,
+  "dominio_efetivo": "aegea.com.br",
+  "empresa": "Aegea Saneamento",
+  "segmento": "Saneamento",
+  "principal_produto": "Servicos de agua e esgoto (concessoes em varias regioes do Brasil)",
+  "fabrica_brasil": "Atuacao nacional (concessionaria, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionaria de saneamento; presta servico, nao fabrica com aco carbono.",
+  "fonte": "https://aegea.com.br"
+ },
+ {
+  "idx": 257,
+  "dominio_efetivo": "nakata.com.br",
+  "empresa": "Nakata",
+  "segmento": "Autopecas",
+  "principal_produto": "Amortecedores e componentes de suspensao e direcao",
+  "fabrica_brasil": "Extrema, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica amortecedores e pecas de suspensao usando aco carbono (ex.: SAE 1045).",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 258,
+  "dominio_efetivo": "gruporoncador.com.br",
+  "empresa": "Grupo Roncador",
+  "segmento": "Agronegocio",
+  "principal_produto": "Agricultura, pecuaria de corte e mineracao",
+  "fabrica_brasil": "Mato Grosso e Sao Paulo (operacoes rurais)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Agronegocio (lavoura, gado, mineracao); nao fabrica produtos de aco carbono.",
+  "fonte": "https://gruporoncador.com.br"
+ },
+ {
+  "idx": 259,
+  "dominio_efetivo": "oilstates.com",
+  "empresa": "Oil States",
+  "segmento": "Energia (oleo e gas)",
+  "principal_produto": "Conectores subsea, rigid jumpers, sistemas de risers e plataformas",
+  "fabrica_brasil": "Macae, RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica conectores e jumpers rigidos subsea em aco carbono na base de Macae.",
+  "fonte": "busca web"
+ }
+]

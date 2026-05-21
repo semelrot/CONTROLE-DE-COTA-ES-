@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 260,
+  "dominio_efetivo": "amapa.ind.br",
+  "empresa": "Amapa (Grupo Amapa Modular)",
+  "segmento": "Metalurgica",
+  "principal_produto": "Equipamentos de aco para varejo: gondolas, prateleiras, check-outs e expositores",
+  "fabrica_brasil": "Divinopolis/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa e conforma chapas e tubos de aco para gondolas e equipamentos de loja",
+  "fonte": "https://amapa.ind.br"
+ },
+ {
+  "idx": 261,
+  "dominio_efetivo": "bimetal.eng.br",
+  "empresa": "Bimetal Industria Metalurgica",
+  "segmento": "Metalurgica",
+  "principal_produto": "Estruturas metalicas para telecom, energia e construcoes (torres)",
+  "fabrica_brasil": "Cuiaba/MT",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa milhares de t/mes de perfis e chapas de aco galvanizado para estruturas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 262,
+  "dominio_efetivo": "musashi.com.br",
+  "empresa": "Musashi do Brasil",
+  "segmento": "Autopecas",
+  "principal_produto": "Engrenagens, virabrequins e componentes forjados de transmissao",
+  "fabrica_brasil": "Igarassu/PE; Manaus/AM",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Forja e usina barras de aco para engrenagens e componentes de transmissao",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 263,
+  "dominio_efetivo": "ctc.com.br",
+  "empresa": "CTC Centro de Tecnologia Canavieira",
+  "segmento": "Pesquisa/Biotec agricola",
+  "principal_produto": "Pesquisa e melhoramento genetico de cana-de-acucar (variedades/sementes)",
+  "fabrica_brasil": "Sem fabricacao (P&D/biotec) - base em Piracicaba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E instituto de pesquisa/biotecnologia agricola, nao fabrica produtos de aco",
+  "fonte": "https://ctc.com.br"
+ },
+ {
+  "idx": 264,
+  "dominio_efetivo": "www.prometeon.com",
+  "empresa": "Prometeon Tyre Group",
+  "segmento": "Pneus",
+  "principal_produto": "Pneus para caminhoes, onibus e aplicacoes agro/OTR",
+  "fabrica_brasil": "Gravatai/RS; Santo Andre/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica pneus (borracha); usa fio de aco como reforco, nao como insumo estrutural",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 265,
+  "dominio_efetivo": "kaldermec.com.br",
+  "empresa": "Kaldermec",
+  "segmento": "Metalurgica",
+  "principal_produto": "Caldeiraria: fabricacao e montagem de equipamentos e estruturas metalicas",
+  "fabrica_brasil": "Jacarei/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiraria que corta, conforma e solda chapas e perfis de aco para equipamentos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 266,
+  "dominio_efetivo": "conaut.com.br",
+  "empresa": "Conaut Controles Automaticos",
+  "segmento": "Equipamentos/Instrumentacao",
+  "principal_produto": "Medidores de vazao, rotametros e instrumentos de medicao",
+  "fabrica_brasil": "Embu das Artes/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica medidores cujos corpos/flanges sao de aco carbono usinado e soldado",
+  "fonte": "https://conaut.com.br"
+ },
+ {
+  "idx": 267,
+  "dominio_efetivo": "bracell.com",
+  "empresa": "Bracell",
+  "segmento": "Papel e Celulose",
+  "principal_produto": "Celulose soluvel e especial (a partir de eucalipto)",
+  "fabrica_brasil": "Lencois Paulista/SP; Camacari/BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz celulose, nao fabrica produtos a partir de aco carbono",
+  "fonte": "https://bracell.com"
+ },
+ {
+  "idx": 268,
+  "dominio_efetivo": "colormaq.com.br",
+  "empresa": "Colormaq",
+  "segmento": "Eletrodomesticos",
+  "principal_produto": "Lavadoras de roupa, cozinhas e armarios de aco, eletroportateis",
+  "fabrica_brasil": "Sao Joao da Boa Vista/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas de aco para lavadoras, cozinhas e armarios de aco",
+  "fonte": "https://colormaq.com.br"
+ },
+ {
+  "idx": 269,
+  "dominio_efetivo": "armac.com.br",
+  "empresa": "Armac",
+  "segmento": "Locacao de equipamentos",
+  "principal_produto": "Locacao de maquinas pesadas, caminhoes e empilhadeiras",
+  "fabrica_brasil": "Sem fabricacao (locacao/servicos) - base em Vargem Grande Paulista/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E locadora de maquinas e equipamentos, nao fabrica produtos de aco",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 270,
+  "dominio_efetivo": "canaverde.com.br",
+  "empresa": "Cana Verde (Grupo Balbo)",
+  "segmento": "Sucroenergetico",
+  "principal_produto": "Acucar (organico/cristal), etanol e energia",
+  "fabrica_brasil": "Sertaozinho/SP; Uberaba/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina de acucar e etanol; processa cana, nao fabrica produtos de aco",
+  "fonte": "http://www.canaverde.com.br"
+ },
+ {
+  "idx": 271,
+  "dominio_efetivo": "tenaris.com",
+  "empresa": "Tenaris (Confab)",
+  "segmento": "Siderurgia",
+  "principal_produto": "Tubos de aco com costura e OCTG para industria de energia",
+  "fabrica_brasil": "Pindamonhangaba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de tubos de aco (siderurgia), nao consumidora para fabricar outros produtos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 272,
+  "dominio_efetivo": "averydennison.com",
+  "empresa": "Avery Dennison",
+  "segmento": "Embalagens/Etiquetas",
+  "principal_produto": "Etiquetas, rotulos e materiais autoadesivos (incl. RFID)",
+  "fabrica_brasil": "Vinhedo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica etiquetas e materiais autoadesivos (papel/filme), nao usa aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 273,
+  "dominio_efetivo": "arcelormittal.com",
+  "empresa": "ArcelorMittal",
+  "segmento": "Siderurgia",
+  "principal_produto": "Aco (planos e longos: bobinas, chapas, vergalhoes, fio-maquina)",
+  "fabrica_brasil": "Tubarao/ES; Joao Monlevade/MG; Juiz de Fora/MG e outras",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de aco (siderurgica), nao consumidora para fabricar produtos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 274,
+  "dominio_efetivo": "cmp.ind.br",
+  "empresa": "CMP Companhia Metalgraphica Paulista",
+  "segmento": "Embalagens",
+  "principal_produto": "Embalagens de aco (latas) para alimentos e produtos quimicos",
+  "fabrica_brasil": "Cajamar/SP; Anapolis/GO; Criciuma/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa e conforma folha de aco (folha-de-flandres) para latas metalicas",
+  "fonte": "https://cmp.ind.br"
+ },
+ {
+  "idx": 275,
+  "dominio_efetivo": "visteon.com",
+  "empresa": "Visteon",
+  "segmento": "Autopecas",
+  "principal_produto": "Eletronica automotiva: paineis de instrumentos, displays e cockpit digital",
+  "fabrica_brasil": "Guarulhos/SP; Manaus/AM; Camacari/BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto base e eletronica e paineis (plastico/displays), nao fabricacao em aco",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 276,
+  "dominio_efetivo": "usiminas.com",
+  "empresa": "Usiminas",
+  "segmento": "Siderurgia",
+  "principal_produto": "Acos planos (chapas grossas, bobinas a quente/frio, galvanizados)",
+  "fabrica_brasil": "Ipatinga/MG; Cubatao/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E produtora de aco plano (siderurgica), nao consome aco como insumo de fabricacao",
+  "fonte": "https://usiminas.com"
+ },
+ {
+  "idx": 277,
+  "dominio_efetivo": "grupocesari.com.br",
+  "empresa": "Grupo Cesari",
+  "segmento": "Logistica",
+  "principal_produto": "Logistica integrada (transporte rodoviario/maritimo, armazenagem)",
+  "fabrica_brasil": "Sem fabricacao (logistica/servicos) - base em Cubatao/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E operador logistico e de servicos, nao fabrica produtos de aco",
+  "fonte": "https://grupocesari.com.br"
+ },
+ {
+  "idx": 278,
+  "dominio_efetivo": "bemis.com",
+  "empresa": "Bemis (Amcor)",
+  "segmento": "Embalagens",
+  "principal_produto": "Embalagens flexiveis e rigidas (plastico/filme) para alimentos e saude",
+  "fabrica_brasil": "Sao Paulo/SP e outras unidades Amcor no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica embalagens flexiveis/plasticas, nao usa aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 279,
+  "dominio_efetivo": "mauser.com.br",
+  "empresa": "Mauser do Brasil",
+  "segmento": "Embalagens industriais",
+  "principal_produto": "Tambores de aco, IBCs e embalagens industriais",
+  "fabrica_brasil": "Matao/SP; Barra do Pirai/RJ; Belford Roxo/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Conforma e solda chapas de aco para tambores e gaiolas de IBC",
+  "fonte": "busca web"
+ }
+]

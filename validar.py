@@ -142,34 +142,45 @@ def check(rec):
     return out
 
 def main():
-    import openpyxl
+    import openpyxl, os
+    # args: n (quantidade), start (offset global, default 0)
     n = int(sys.argv[1]) if len(sys.argv) > 1 else 1000
+    start = int(sys.argv[2]) if len(sys.argv) > 2 else 0
     wb = openpyxl.load_workbook(XLSX, read_only=True, data_only=True)
     ws = wb[SRC_SHEET]
     recs = []
     for r in ws.iter_rows(min_row=2, values_only=True):
         recs.append((r[0], r[1], r[2]))  # Dominio, Qtd_Contatos, Empresa
-    recs = recs[:n]
-    print(f"Validando {len(recs)} dominios...", flush=True)
-    results = [None] * len(recs)
+    sub = recs[start:start + n]
+    print(f"Validando dominios {start}..{start+len(sub)} ({len(sub)} itens)...", flush=True)
+
+    # carrega resultados acumulados (lista global por indice) e estende se preciso
+    master = []
+    if os.path.exists("resultados.json"):
+        with open("resultados.json", encoding="utf-8") as fh:
+            master = json.load(fh)
+    if len(master) < start + len(sub):
+        master += [None] * (start + len(sub) - len(master))
+
     t0 = time.time()
     with cf.ThreadPoolExecutor(max_workers=40) as ex:
-        futs = {ex.submit(check, rec): i for i, rec in enumerate(recs)}
+        futs = {ex.submit(check, rec): start + i for i, rec in enumerate(sub)}
         done = 0
         for f in cf.as_completed(futs):
-            i = futs[f]
-            results[i] = f.result()
+            gi = futs[f]
+            master[gi] = f.result()
             done += 1
             if done % 100 == 0:
-                print(f"  {done}/{len(recs)}  ({time.time()-t0:.0f}s)", flush=True)
+                print(f"  {done}/{len(sub)}  ({time.time()-t0:.0f}s)", flush=True)
     with open("resultados.json", "w") as fh:
-        json.dump(results, fh, ensure_ascii=False, indent=1)
+        json.dump(master, fh, ensure_ascii=False, indent=1)
     from collections import Counter
-    print(f"\nConcluido em {time.time()-t0:.0f}s")
-    print("funciona:", Counter(r["funciona"] for r in results))
-    print("dns:", Counter(r["dns"] for r in results))
-    nao = [r for r in results if r["funciona"] == "NAO"]
-    print(f"\n--- {len(nao)} ainda QUEBRADOS (precisam busca web) ---")
+    novos = [master[i] for i in range(start, start + len(sub))]
+    print(f"\nConcluido em {time.time()-t0:.0f}s | total acumulado: {sum(1 for x in master if x)}")
+    print("funciona (deste lote):", Counter(r["funciona"] for r in novos))
+    print("dns (deste lote):", Counter(r["dns"] for r in novos))
+    nao = [r for r in novos if r["funciona"] == "NAO"]
+    print(f"\n--- {len(nao)} ainda QUEBRADOS neste lote (precisam busca web) ---")
     for r in nao:
         print(f"  [{r['host']}] empresa='{r['empresa']}' dns={r['dns']} resp={r['responde']}")
 

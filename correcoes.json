@@ -148,5 +148,173 @@
   "funciona": "SIM (corrigido)",
   "metodo": "busca web",
   "obs": "FLSmidth rebrandou para FLS; site oficial agora e fls.com (conteudo real confirmado)"
+ },
+ "br.ajinomoto.com": {
+  "dominio_corrigido": "www.ajinomoto.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.ajinomoto.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Ajinomoto)"
+ },
+ "br.sika.com": {
+  "dominio_corrigido": "bra.sika.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://bra.sika.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Sika)"
+ },
+ "br.atlascopco.com": {
+  "dominio_corrigido": "www.atlascopco.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.atlascopco.com/pt-br",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Atlas Copco)"
+ },
+ "br.brookfield.com": {
+  "dominio_corrigido": "www.brookfield.com",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.brookfield.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Brookfield)"
+ },
+ "itwdelfast.co.uk": {
+  "dominio_corrigido": "www.itwdelfast.com",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.itwdelfast.com/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (ITW Delfast)"
+ },
+ "formaeforma.com.br": {
+  "dominio_corrigido": "www.formaforte.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.formaforte.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Forma Forte Ind. Metalurgica)"
+ },
+ "hondalock-sp.com.br": {
+  "dominio_corrigido": "www.hondalock.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.hondalock.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Honda Lock SP)"
+ },
+ "protendit.com.br": {
+  "dominio_corrigido": "www.protendit.com.br",
+  "http": 503,
+  "responde": "bloqueio/instavel",
+  "final_url": "https://www.protendit.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (Protendit)"
+ },
+ "eurolaf.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio eurolaf.com.br nao resolve (NXDOMAIN); empresa ativa mas sem site no ar"
+ },
+ "brc-brasil.com": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio brc-brasil.com registrado mas sem registro A (site fora do ar)"
+ },
+ "mptrafos.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio mptrafos.com.br registrado mas sem registro A (site fora do ar)"
+ },
+ "ldatanques.com.br": {
+  "dominio_corrigido": "ldaequipamentos.com.br",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://ldaequipamentos.com.br/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "original nao funcionou; corrigido via busca web (LDA Equipamentos)"
+ },
+ "mafiza.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio mafiza.com.br nao resolve (NXDOMAIN)"
+ },
+ "chrilu.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio chrilu.com.br nao resolve (NXDOMAIN); cache de busca desatualizado"
+ },
+ "redrasfer.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); empresa inapta/falida"
+ },
+ "arthurklink.com.br": {
+  "dominio_corrigido": "www.arthur-klink.de",
+  "http": 200,
+  "responde": "sim",
+  "final_url": "https://www.arthur-klink.de/en/",
+  "funciona": "SIM (corrigido)",
+  "metodo": "busca web",
+  "obs": "subsidiaria BR (arthurklink.com.br) sem site no ar; usado site global da matriz Arthur Klink GmbH (Alemanha)"
+ },
+ "kallasnet.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio resolve mas retorna HTTP 404; empresa ambigua (varios 'Kallas')"
+ },
+ "fsdusinagem.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio fsdusinagem.com.br registrado mas sem registro A (site fora do ar)"
+ },
+ "vmaxsuprimentos.ind.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); empresa so tem e-mail/Instagram, sem site"
+ },
+ "vsiderurgia.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio vsiderurgia.com.br nao resolve (NXDOMAIN)"
+ },
+ "tononbioenergia.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio nao resolve (NXDOMAIN); empresa teve falencia decretada"
+ },
+ "romametais.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio resolve mas retorna HTTP 404; empresa ambigua (varios 'Roma Metais')"
+ },
+ "stampspumas.com.br": {
+  "dominio_corrigido": null,
+  "funciona": "NAO",
+  "metodo": "busca web",
+  "obs": "dominio correto (Stamp Spumas) resolve mas servidor retorna HTTP 500; site instavel"
  }
 }

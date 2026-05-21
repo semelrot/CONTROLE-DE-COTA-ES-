@@ -62,6 +62,8 @@ def main():
     ws.freeze_panes = "A2"
 
     for idx, r in enumerate(results):
+        if r is None:
+            continue
         lote = idx // BATCH + 1
         row = [lote, r["dominio"], r["qtd"], r["empresa"], r["dns"],
                r["http"], r["responde"], r["funciona"], r["dominio_corrigido"],
@@ -78,11 +80,11 @@ def main():
 
     wb.save(OUT)
     from collections import Counter
+    validos = [r for r in results if r is not None]
     print(f"Salvo: {OUT}")
-    print("Total linhas:", len(results))
-    print("funciona:", Counter(r["funciona"] for r in results))
-    lotes = max(r and (i // BATCH + 1) for i, r in enumerate(results))
-    print("Lotes:", lotes)
+    print("Total linhas:", len(validos))
+    print("funciona:", Counter(r["funciona"] for r in validos))
+    print("Lotes:", (len(results) - 1) // BATCH + 1)
 
 if __name__ == "__main__":
     main()

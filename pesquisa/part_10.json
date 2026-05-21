@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 200,
+  "dominio_efetivo": "superior-ind.com",
+  "empresa": "Superior Industries",
+  "segmento": "Autopecas",
+  "principal_produto": "Rodas de aluminio fundido para automoveis (OEM)",
+  "fabrica_brasil": "Sem fabrica no Brasil (matriz no exterior; plantas EUA/Mexico/Polonia)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica rodas de aluminio fundido, nao usa aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 201,
+  "dominio_efetivo": "w3.ind.br",
+  "empresa": "W3 Industria",
+  "segmento": "Metalurgica",
+  "principal_produto": "Moveis de aco e sistemas de armazenagem (gondolas, racks, mezaninos)",
+  "fabrica_brasil": "Ponta Grossa/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica moveis e estruturas de armazenagem em aco a partir de chapas/perfis e tubos",
+  "fonte": "https://w3.ind.br"
+ },
+ {
+  "idx": 202,
+  "dominio_efetivo": "jphe.com.br",
+  "empresa": "JPHE Caldeiraria e Projetos",
+  "segmento": "Metalurgica",
+  "principal_produto": "Panelas de fundicao, caldeiraria e estruturas soldadas sob projeto",
+  "fabrica_brasil": "Sao Paulo/SP (regiao DDD 19)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiraria pesada e panelas de fundicao em aco carbono soldado",
+  "fonte": "https://jphe.com.br"
+ },
+ {
+  "idx": 203,
+  "dominio_efetivo": "valvugas.com.br",
+  "empresa": "Valvugas",
+  "segmento": "Metalurgica",
+  "principal_produto": "Valvulas globo industriais e filtros para refrigeracao em acos laminados",
+  "fabrica_brasil": "Osasco/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produz valvulas e filtros em acos laminados (aco carbono conformado/usinado)",
+  "fonte": "https://valvugas.com.br"
+ },
+ {
+  "idx": 204,
+  "dominio_efetivo": "sabo.com.br",
+  "empresa": "Sabo",
+  "segmento": "Autopecas",
+  "principal_produto": "Retentores, juntas e sistemas de vedacao automotivos",
+  "fabrica_brasil": "Sao Paulo/SP; Mogi Mirim/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Base e borracha; usa insertos/armaduras metalicas de aco em retentores e juntas",
+  "fonte": "https://sabo.com.br"
+ },
+ {
+  "idx": 205,
+  "dominio_efetivo": "mubea.com",
+  "empresa": "Mubea",
+  "segmento": "Autopecas",
+  "principal_produto": "Molas de suspensao/valvula, estabilizadores e componentes tubulares",
+  "fabrica_brasil": "Taubate/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Conforma aco-mola e tubos de aco para molas, barras estabilizadoras e eixos tubulares",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 206,
+  "dominio_efetivo": "otis.com",
+  "empresa": "Otis",
+  "segmento": "Maquinas e Equipamentos",
+  "principal_produto": "Elevadores e escadas rolantes",
+  "fabrica_brasil": "Sao Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica cabines, estruturas, guias e contrapesos em chapas/perfis de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 207,
+  "dominio_efetivo": "usj.com.br",
+  "empresa": "USJ Acucar e Alcool (Usina Sao Joao)",
+  "segmento": "Sucroenergetico",
+  "principal_produto": "Acucar, etanol e cachaca",
+  "fabrica_brasil": "Araras/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz acucar/etanol; nao fabrica produtos de aco carbono",
+  "fonte": "https://usj.com.br"
+ },
+ {
+  "idx": 208,
+  "dominio_efetivo": "effem.com",
+  "empresa": "Mars (Effem)",
+  "segmento": "Alimentos",
+  "principal_produto": "Alimentos para pets e confeitos/snacks",
+  "fabrica_brasil": "Mogi Mirim/SP; Ponta Grossa/PR; Recife/PE",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Industria de alimentos; nao fabrica produtos de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 209,
+  "dominio_efetivo": "mte-thomson.com.br",
+  "empresa": "MTE-Thomson",
+  "segmento": "Autopecas",
+  "principal_produto": "Valvulas termostaticas, sensores e ceramica automotiva",
+  "fabrica_brasil": "Sao Bernardo do Campo/SP; Jaguariuna/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Componentes em latao, bimetal, ceramica e eletronica; nao aco carbono",
+  "fonte": "http://www.mte-thomson.com.br/"
+ },
+ {
+  "idx": 210,
+  "dominio_efetivo": "cbmsa.com.br",
+  "empresa": "CBM (Construtora Barbosa Mello)",
+  "segmento": "Construcao",
+  "principal_produto": "Construcao pesada/infraestrutura (logistica, energia, mineracao, edificacoes)",
+  "fabrica_brasil": "Nao identificado (empresa de construcao, sem fabricacao)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora de infraestrutura; nao fabrica produtos de aco carbono",
+  "fonte": "http://www.cbmsa.com.br/"
+ },
+ {
+  "idx": 211,
+  "dominio_efetivo": "sartoriservicos.com.br",
+  "empresa": "Sartori",
+  "segmento": "Metalurgica",
+  "principal_produto": "Estruturas metalicas, caldeiraria e montagem eletromecanica",
+  "fabrica_brasil": "Joao Monlevade/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas e caldeiraria em aco carbono (chapas/perfis soldados)",
+  "fonte": "https://sartorigroup.com.br/"
+ },
+ {
+  "idx": 212,
+  "dominio_efetivo": "knorr-bremse.com",
+  "empresa": "Knorr-Bremse",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de freio para veiculos comerciais e ferroviarios",
+  "fabrica_brasil": "Itupeva/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Freios mesclam ferro fundido/aluminio; suportes e pecas usinadas de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 213,
+  "dominio_efetivo": "pellegrino.com.br",
+  "empresa": "Pellegrino",
+  "segmento": "Autopecas (distribuicao)",
+  "principal_produto": "Distribuicao de autopecas e motopecas (nao fabricante)",
+  "fabrica_brasil": "Sao Paulo/SP (matriz; 29 filiais)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora desde 1941, nao fabrica pecas; sem consumo de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 214,
+  "dominio_efetivo": "dynapac.com",
+  "empresa": "Dynapac",
+  "segmento": "Maquinas e Equipamentos",
+  "principal_produto": "Rolos compactadores e equipamentos de pavimentacao",
+  "fabrica_brasil": "Sorocaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica rolos/chassis e cilindros em chapas e perfis de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 215,
+  "dominio_efetivo": "airliquide.com",
+  "empresa": "Air Liquide",
+  "segmento": "Quimica",
+  "principal_produto": "Gases industriais (O2, N2, Ar, H2, CO2)",
+  "fabrica_brasil": "Paulinia/SP (unidade de separacao de ar) entre outras",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz gases industriais; nao fabrica produtos de aco carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 216,
+  "dominio_efetivo": "mascarello.com.br",
+  "empresa": "Mascarello",
+  "segmento": "Implementos rodoviarios/Carroceria",
+  "principal_produto": "Carrocerias de onibus (rodoviario, urbano, micro)",
+  "fabrica_brasil": "Cascavel/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura de carrocerias em perfis e chapas de aco carbono",
+  "fonte": "https://mascarello.com.br"
+ },
+ {
+  "idx": 217,
+  "dominio_efetivo": "jmfitafer.com.br",
+  "empresa": "JotaeMe Fitafer",
+  "segmento": "Metalurgica",
+  "principal_produto": "Relaminacao de aco, pecas estampadas (fine blank), usinadas e soldadas",
+  "fabrica_brasil": "Franco da Rocha/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa acos baixo/alto carbono em laminados planos para estampados e usinados",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 218,
+  "dominio_efetivo": "brf-br.com",
+  "empresa": "BRF",
+  "segmento": "Alimentos",
+  "principal_produto": "Aves e alimentos processados (Sadia, Perdigao)",
+  "fabrica_brasil": "Diversas plantas no Brasil (ex.: Tatui/SP)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Industria de alimentos; nao fabrica produtos de aco carbono",
+  "fonte": "https://mbrf.com/"
+ },
+ {
+  "idx": 219,
+  "dominio_efetivo": "fcagroup.com",
+  "empresa": "FCA Group (Stellantis)",
+  "segmento": "Montadora",
+  "principal_produto": "Automoveis e picapes (Fiat, Jeep, Ram)",
+  "fabrica_brasil": "Betim/MG; Goiana/PE; Porto Real/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampa chapas e bobinas de aco carbono para carrocerias e estruturas",
+  "fonte": "busca web"
+ }
+]

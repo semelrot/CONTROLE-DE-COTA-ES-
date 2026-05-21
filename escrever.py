@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Le resultados.json (+ correcoes.json opcional da busca web) e escreve a aba
 consolidada 'Validacao' no xlsx, com coluna de Lote. Preserva as abas originais."""
-import json, os
+import json, os, glob
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment
 
@@ -11,7 +11,9 @@ BATCH = 100
 
 HDR = ["Lote", "Dominio_base", "Qtd_Contatos", "Empresa_base", "DNS_ativo",
        "HTTP_status", "Site_responde", "Funciona", "Dominio_corrigido",
-       "URL_final", "Metodo_correcao", "Observacao_validacao"]
+       "URL_final", "Metodo_correcao", "Observacao_validacao",
+       "Segmento", "Principal_produto", "Fabrica_Brasil",
+       "Usa_aco_carbono", "Justificativa_aco", "Fonte_pesquisa"]
 
 def load(path, default=None):
     if os.path.exists(path):
@@ -19,9 +21,24 @@ def load(path, default=None):
             return json.load(f)
     return default
 
+def load_pesquisa():
+    """Junta todos os pesquisa/part_*.json num dict idx -> registro."""
+    out = {}
+    for fp in sorted(glob.glob("pesquisa/part_*.json")):
+        try:
+            data = json.load(open(fp, encoding="utf-8"))
+        except Exception as e:
+            print(f"  aviso: {fp} invalido ({e})")
+            continue
+        for e in data:
+            if e.get("idx") is not None:
+                out[e["idx"]] = e
+    return out
+
 def main():
     results = load("resultados.json")
     correcoes = load("correcoes.json", {})  # {host: {dominio_corrigido, funciona, metodo, obs, http, responde, final_url}}
+    pesquisa = load_pesquisa()  # idx -> {segmento, principal_produto, fabrica_brasil, usa_aco_carbono, ...}
 
     # aplica correcoes da busca web sobre os resultados
     for r in results:
@@ -53,6 +70,7 @@ def main():
     fill_ok = PatternFill("solid", fgColor="C6EFCE")
     fill_fix = PatternFill("solid", fgColor="FFEB9C")
     fill_bad = PatternFill("solid", fgColor="FFC7CE")
+    aco_fill = {"sim": fill_ok, "provavel": fill_fix, "nao": fill_bad}
 
     ws.append(HDR)
     for c in range(1, len(HDR) + 1):
@@ -65,16 +83,23 @@ def main():
         if r is None:
             continue
         lote = idx // BATCH + 1
+        p = pesquisa.get(idx, {})
+        aco = (p.get("usa_aco_carbono") or "").strip().lower()
         row = [lote, r["dominio"], r["qtd"], r["empresa"], r["dns"],
                r["http"], r["responde"], r["funciona"], r["dominio_corrigido"],
-               r["final_url"], r["metodo_correcao"], r["obs"]]
+               r["final_url"], r["metodo_correcao"], r["obs"],
+               p.get("segmento"), p.get("principal_produto"), p.get("fabrica_brasil"),
+               p.get("usa_aco_carbono"), p.get("justificativa_aco"), p.get("fonte")]
         ws.append(row)
         rownum = ws.max_row
         f = r["funciona"]
         fill = fill_ok if f == "SIM" else fill_fix if f.startswith("SIM (") else fill_bad
         ws.cell(row=rownum, column=8).fill = fill
+        if aco in aco_fill:
+            ws.cell(row=rownum, column=16).fill = aco_fill[aco]
 
-    widths = [6, 30, 12, 32, 11, 11, 18, 16, 30, 38, 16, 50]
+    widths = [6, 30, 12, 32, 11, 11, 18, 16, 30, 38, 16, 50,
+              20, 34, 26, 16, 46, 26]
     for i, w in enumerate(widths, 1):
         ws.column_dimensions[openpyxl.utils.get_column_letter(i)].width = w
 
@@ -85,6 +110,9 @@ def main():
     print("Total linhas:", len(validos))
     print("funciona:", Counter(r["funciona"] for r in validos))
     print("Lotes:", (len(results) - 1) // BATCH + 1)
+    if pesquisa:
+        print(f"Empresas pesquisadas: {len(pesquisa)}")
+        print("usa_aco_carbono:", Counter((p.get("usa_aco_carbono") or "?") for p in pesquisa.values()))
 
 if __name__ == "__main__":
     main()

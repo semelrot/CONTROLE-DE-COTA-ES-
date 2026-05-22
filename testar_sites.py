@@ -1,7 +1,7 @@
 import asyncio
+import re
 import httpx
 import pandas as pd
-from pathlib import Path
 
 INPUT_CSV = "dominios.csv"      # CSV com coluna "Dominio"
 OUTPUT_CSV = "resultado.csv"
@@ -25,9 +25,32 @@ async def testar(client, sem, dominio):
                 ultimo_status = type(e).__name__
         return dominio, "FALHA", ultimo_status, ""
 
+def _norm(dominio):
+    # tira "http(s)://" e caminho, mantendo so o host (o "www." e tratado em testar)
+    d = re.sub(r"^https?://", "", dominio.strip(), flags=re.I).strip("/")
+    return d.split("/")[0]
+
+def carregar_dominios(caminho):
+    # Excel pt-BR costuma exportar com ";" e cp1252; detecta separador e encoding.
+    df = None
+    for enc in ("utf-8-sig", "cp1252", "latin-1"):
+        try:
+            df = pd.read_csv(caminho, sep=None, engine="python", encoding=enc)
+            break
+        except UnicodeDecodeError:
+            continue
+    if df is None:
+        raise SystemExit(f"Nao consegui ler {caminho} (tente salvar como 'CSV UTF-8').")
+    col = next((c for c in df.columns
+                if str(c).strip().lower() in ("dominio", "domínio", "site", "url")),
+               df.columns[0])
+    if str(col).strip().lower() not in ("dominio", "domínio"):
+        print(f"Aviso: coluna 'Dominio' nao encontrada; usando '{col}'.")
+    valores = df[col].dropna().astype(str).map(_norm)
+    return [d for d in valores if d]
+
 async def main():
-    df = pd.read_csv(INPUT_CSV)
-    dominios = df["Dominio"].dropna().astype(str).str.strip().tolist()
+    dominios = carregar_dominios(INPUT_CSV)
     sem = asyncio.Semaphore(CONCURRENCY)
     limits = httpx.Limits(max_connections=CONCURRENCY, max_keepalive_connections=20)
     headers = {"User-Agent": "Mozilla/5.0 (compatible; SiteCheck/1.0)"}

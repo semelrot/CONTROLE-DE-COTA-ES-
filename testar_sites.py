@@ -1,4 +1,5 @@
 import asyncio
+import csv
 import re
 import httpx
 import pandas as pd
@@ -31,23 +32,35 @@ def _norm(dominio):
     return d.split("/")[0]
 
 def carregar_dominios(caminho):
-    # Excel pt-BR costuma exportar com ";" e cp1252; detecta separador e encoding.
-    df = None
+    # Excel pt-BR exporta com ";" e cp1252, e as vezes com campos extras sem aspas.
+    # Usa o modulo csv (tolera linhas com nº de colunas variavel) e le a coluna do dominio.
+    texto = None
     for enc in ("utf-8-sig", "cp1252", "latin-1"):
         try:
-            df = pd.read_csv(caminho, sep=None, engine="python", encoding=enc)
+            with open(caminho, encoding=enc, newline="") as fh:
+                texto = fh.read()
             break
         except UnicodeDecodeError:
             continue
-    if df is None:
+    if texto is None:
         raise SystemExit(f"Nao consegui ler {caminho} (tente salvar como 'CSV UTF-8').")
-    col = next((c for c in df.columns
-                if str(c).strip().lower() in ("dominio", "domínio", "site", "url")),
-               df.columns[0])
-    if str(col).strip().lower() not in ("dominio", "domínio"):
-        print(f"Aviso: coluna 'Dominio' nao encontrada; usando '{col}'.")
-    valores = df[col].dropna().astype(str).map(_norm)
-    return [d for d in valores if d]
+    linhas = texto.splitlines()
+    if not linhas:
+        return []
+    sep = max([";", ",", "\t"], key=linhas[0].count)
+    leitor = csv.reader(linhas, delimiter=sep)
+    cabecalho = next(leitor, [])
+    idx = next((i for i, nome in enumerate(cabecalho)
+                if nome.strip().lower() in ("dominio", "domínio", "site", "url")), 0)
+    if idx == 0 and cabecalho and cabecalho[0].strip().lower() not in ("dominio", "domínio"):
+        print(f"Aviso: coluna 'Dominio' nao encontrada; usando '{cabecalho[0]}'.")
+    dominios = []
+    for linha in leitor:
+        if len(linha) > idx:
+            d = _norm(linha[idx])
+            if d:
+                dominios.append(d)
+    return dominios
 
 async def main():
     dominios = carregar_dominios(INPUT_CSV)

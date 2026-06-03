@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 520,
+  "dominio_efetivo": "ares.ind.br",
+  "empresa": "Ares Aeroespacial e Defesa",
+  "segmento": "Defesa",
+  "principal_produto": "Torres e estacoes de armas remotamente controladas, sistemas navais e opto-eletronicos",
+  "fabrica_brasil": "Duque de Caxias, RJ",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Torres e estruturas usam aco carbono/blindagem, mas ha forte conteudo eletro-optico e corpos em aluminio.",
+  "fonte": "https://ares.ind.br"
+ },
+ {
+  "idx": 521,
+  "dominio_efetivo": "portonave.com.br",
+  "empresa": "Portonave S/A - Terminais Portuarios de Navegantes",
+  "segmento": "Logistica",
+  "principal_produto": "Operacao de terminal portuario de conteineres e armazenagem frigorificada",
+  "fabrica_brasil": "Navegantes, SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E operador portuario; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://portonave.com.br"
+ },
+ {
+  "idx": 522,
+  "dominio_efetivo": "marispan.com.br",
+  "empresa": "Marispan Implementos Agricolas",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Carregadores frontais e distribuidores de solidos para tratores",
+  "fabrica_brasil": "Batatais, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carregadores frontais e implementos sao estruturas conformadas/soldadas em aco carbono.",
+  "fonte": "https://marispan.com.br"
+ },
+ {
+  "idx": 523,
+  "dominio_efetivo": "metalway.com.br",
+  "empresa": "Metalway Industrial",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas estampadas, usinadas e conformadas a frio sob medida",
+  "fabrica_brasil": "Guarulhos, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia e conformacao a frio de componentes metalicos tipicamente em aco carbono.",
+  "fonte": "https://metalway.com.br"
+ },
+ {
+  "idx": 524,
+  "dominio_efetivo": "eternit.com.br",
+  "empresa": "Eternit",
+  "segmento": "Construcao",
+  "principal_produto": "Telhas de fibrocimento, chapas cimenticias e telhas de concreto",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz fibrocimento e concreto; nao fabrica produtos de aco carbono.",
+  "fonte": "https://eternit.com.br"
+ },
+ {
+  "idx": 525,
+  "dominio_efetivo": "intecnial.com.br",
+  "empresa": "Intecnial",
+  "segmento": "Equipamentos",
+  "principal_produto": "Projetos turn-key, fabricacao mecanica/eletrica e montagem industrial",
+  "fabrica_brasil": "Erechim, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricacao mecanica e caldeiraria de equipamentos industriais empregam aco carbono.",
+  "fonte": "https://intecnial.com.br"
+ },
+ {
+  "idx": 526,
+  "dominio_efetivo": "starrett.com.br",
+  "empresa": "Starrett",
+  "segmento": "Ferramentas",
+  "principal_produto": "Laminas de serra, instrumentos de medicao e ferramentas de precisao",
+  "fabrica_brasil": "Itu, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica laminas de serra e ferramentas/instrumentos de precisao em aco.",
+  "fonte": "https://starrett.com.br/sobre-nos"
+ },
+ {
+  "idx": 527,
+  "dominio_efetivo": "sew-eurodrive.com.br",
+  "empresa": "SEW-Eurodrive",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Motoredutores, redutores industriais e acionamentos",
+  "fabrica_brasil": "Indaiatuba, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Motoredutores tem engrenagens e eixos usinados em aco carbono/liga.",
+  "fonte": "https://www.sew-eurodrive.com.br/company/sew-eudrodrive_brasil/historico_indaiatuba.html"
+ },
+ {
+  "idx": 528,
+  "dominio_efetivo": "dagnese.com.br",
+  "empresa": "Dagnese Solucoes Metalicas",
+  "segmento": "Metalurgica",
+  "principal_produto": "Estruturas metalicas para obras industriais e comerciais",
+  "fabrica_brasil": "Nova Bassano, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Projeto e fabricacao de estruturas metalicas usam perfis e chapas de aco carbono.",
+  "fonte": "https://dagnese.com.br"
+ },
+ {
+  "idx": 529,
+  "dominio_efetivo": "metasa.com.br",
+  "empresa": "Metasa",
+  "segmento": "Metalurgica",
+  "principal_produto": "Estruturas metalicas para oleo e gas, siderurgia e infraestrutura",
+  "fabrica_brasil": "Marau, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas pesadas, majoritariamente em aco carbono.",
+  "fonte": "https://metasa.com.br"
+ },
+ {
+  "idx": 530,
+  "dominio_efetivo": "coppermetal.com.br",
+  "empresa": "Coppermetal",
+  "segmento": "Distribuicao",
+  "principal_produto": "Distribuicao de acos, metais nao-ferrosos e plasticos",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "E distribuidor de materias-primas (fornecedor), nao fabricante de produtos de aco.",
+  "fonte": "https://coppermetal.com.br"
+ },
+ {
+  "idx": 531,
+  "dominio_efetivo": "samot.com.br",
+  "empresa": "Samot - Industria Mecanica",
+  "segmento": "Autopecas",
+  "principal_produto": "Usinagem de componentes para os setores automotivo e industrial",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa milhares de toneladas/ano de barras de aco carbono e pecas forjadas usinadas.",
+  "fonte": "https://www.samot.com.br/en/quemsomos/"
+ },
+ {
+  "idx": 532,
+  "dominio_efetivo": "evsa.com.br",
+  "empresa": "Evsa Comercio e Servicos Industriais",
+  "segmento": "Servicos",
+  "principal_produto": "Manutencao e modernizacao de equipamentos industriais",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Presta servicos industriais de manutencao; nao fabrica produtos de aco.",
+  "fonte": "https://evsa.com.br"
+ },
+ {
+  "idx": 533,
+  "dominio_efetivo": "industriasrc.com.br",
+  "empresa": "Industrias RC",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas usinadas, estampados, fixadores e barramentos para diversos setores",
+  "fabrica_brasil": "Diadema, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produz estampados, molas prato e elementos de fixacao, tipicamente em aco carbono.",
+  "fonte": "https://industriasrc.com.br"
+ },
+ {
+  "idx": 534,
+  "dominio_efetivo": "fibria.com",
+  "empresa": "Fibria (Suzano)",
+  "segmento": "Papel e Celulose",
+  "principal_produto": "Celulose de eucalipto",
+  "fabrica_brasil": "Sem fabrica de aco (produtora de celulose, incorporada a Suzano)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz celulose; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 535,
+  "dominio_efetivo": "fasa.ind.br",
+  "empresa": "FASA",
+  "segmento": "Alimentos",
+  "principal_produto": "Processamento de produtos de origem animal e vegetal, reciclagem animal e biodiesel",
+  "fabrica_brasil": "Cruzeiro do Sul, RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Industria de processamento de alimentos/reciclagem animal; nao fabrica produtos de aco.",
+  "fonte": "https://fasa.ind.br"
+ },
+ {
+  "idx": 536,
+  "dominio_efetivo": "usibani.com.br",
+  "empresa": "Usibani - Industria Metalurgica",
+  "segmento": "Metalurgica",
+  "principal_produto": "Usinagem de pecas e componentes mecanicos",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Industria metalurgica de usinagem que processa pecas tipicamente em aco carbono.",
+  "fonte": "https://usibani.com.br"
+ },
+ {
+  "idx": 537,
+  "dominio_efetivo": "citrotec.com.br",
+  "empresa": "Citrotec",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Evaporadores, condensadores e destiladores para industria citrica e sucroenergetica",
+  "fabrica_brasil": "Araraquara, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Equipamentos de processo tem contato em aco inox, mas estruturas/suportes usam aco carbono.",
+  "fonte": "https://citrotec.com.br"
+ },
+ {
+  "idx": 538,
+  "dominio_efetivo": "cosampa.com.br",
+  "empresa": "Grupo Cosampa",
+  "segmento": "Construtora",
+  "principal_produto": "Servicos de engenharia eletrica e civil, obras de infraestrutura",
+  "fabrica_brasil": "Maracanau, CE",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de engenharia/construcao e servicos; nao fabrica produtos de aco.",
+  "fonte": "https://cosampa.com.br"
+ },
+ {
+  "idx": 539,
+  "dominio_efetivo": "imepel.com.br",
+  "empresa": "Imepel",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Rolos, tambores e suportes para transportadores de correia",
+  "fabrica_brasil": "Sideropolis, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Rolos e tambores sao fabricados em aco carbono soldado.",
+  "fonte": "https://www.imepel.com.br/"
+ }
+]

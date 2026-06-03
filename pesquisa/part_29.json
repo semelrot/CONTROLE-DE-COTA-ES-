@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 580,
+  "dominio_efetivo": "aguiasistemas.com.br",
+  "empresa": "Aguia Sistemas",
+  "segmento": "Maquinas/Equipamentos (intralogistica)",
+  "principal_produto": "Estruturas de armazenagem (porta-paletes) e sistemas de automacao logistica",
+  "fabrica_brasil": "Ponta Grossa, PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Porta-paletes e estruturas de armazenagem de alta resistencia sao fabricados em perfis e chapas de aco carbono.",
+  "fonte": "https://aguiasistemas.com.br"
+ },
+ {
+  "idx": 581,
+  "dominio_efetivo": "thor.com.br",
+  "empresa": "Thor Maquinas e Montagens",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Equipamentos industriais (trituradores, secadores e digestores) para frigorificos, mineracao e celulose",
+  "fabrica_brasil": "Santa Maria, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos pesados como trituradores, secadores e digestores tem corpo e estruturas fabricados em aco carbono.",
+  "fonte": "https://thor.com.br"
+ },
+ {
+  "idx": 582,
+  "dominio_efetivo": "comolatti.com.br",
+  "empresa": "Comolatti",
+  "segmento": "Distribuicao",
+  "principal_produto": "Distribuicao de pecas de reposicao, motopecas e acessorios para veiculos leves e pesados",
+  "fabrica_brasil": "Sao Paulo, SP (sede; centros de distribuicao no Brasil)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Grupo de distribuicao de autopecas e concessionarias; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://comolatti.com.br"
+ },
+ {
+  "idx": 583,
+  "dominio_efetivo": "eccos.com.br",
+  "empresa": "Eccos Industria Metalurgica",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas estampadas e conjuntos soldados de pequeno e medio porte",
+  "fabrica_brasil": "Indaiatuba, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Industria metalurgica de estampagem e solda; pecas estampadas e conjuntos soldados sao majoritariamente de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 584,
+  "dominio_efetivo": "mmarra.com.br",
+  "empresa": "MMarra Distribuidora Automotiva",
+  "segmento": "Distribuicao",
+  "principal_produto": "Distribuicao de pecas automotivas diesel e servicos de retifica para veiculos pesados",
+  "fabrica_brasil": "Ribeirao Preto, SP (sede; unidades em MG, SP e GO)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopecas e servicos de retifica; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://mmarra.com.br"
+ },
+ {
+  "idx": 585,
+  "dominio_efetivo": "novelis.com",
+  "empresa": "Novelis",
+  "segmento": "Metalurgia (aluminio)",
+  "principal_produto": "Produtos laminados de aluminio e reciclagem de aluminio",
+  "fabrica_brasil": "Pindamonhangaba, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Lider em laminacao de aluminio; trabalha aluminio, nao aco carbono.",
+  "fonte": "https://novelis.com"
+ },
+ {
+  "idx": 586,
+  "dominio_efetivo": "ntcrefrigeracao.com.br",
+  "empresa": "NTC Refrigeracao",
+  "segmento": "Maquinas/Equipamentos (refrigeracao)",
+  "principal_produto": "Sistemas e racks de compressores para refrigeracao industrial e comercial",
+  "fabrica_brasil": "Vespasiano, MG",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Racks de compressores e estruturas de refrigeracao normalmente usam perfis e chapas de aco carbono, mas o site nao confirma o material.",
+  "fonte": "https://ntcrefrigeracao.com.br"
+ },
+ {
+  "idx": 587,
+  "dominio_efetivo": "fanucamerica.com",
+  "empresa": "FANUC",
+  "segmento": "Maquinas/Equipamentos (robotica/CNC)",
+  "principal_produto": "Robos industriais, comandos CNC e centros de usinagem",
+  "fabrica_brasil": "Sem fabrica no Brasil (sede sul-americana de vendas e servicos em Sao Paulo, SP; producao no exterior)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "No Brasil atua em vendas/servicos; os robos e maquinas (que usam aco) sao fabricados fora do pais.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 588,
+  "dominio_efetivo": "covabra.com.br",
+  "empresa": "Covabra Supermercados",
+  "segmento": "Varejo",
+  "principal_produto": "Rede de supermercados",
+  "fabrica_brasil": "Sem fabrica (rede varejista no interior de SP)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Varejo supermercadista; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://covabra.com.br"
+ },
+ {
+  "idx": 589,
+  "dominio_efetivo": "grob.com.br",
+  "empresa": "GROB do Brasil",
+  "segmento": "Maquinas/Equipamentos (maquinas-ferramenta)",
+  "principal_produto": "Centros de usinagem CNC, sistemas de manufatura e celulas robotizadas",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica maquinas-ferramenta cujo corpo, bases e estruturas sao majoritariamente de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 590,
+  "dominio_efetivo": "hella.com",
+  "empresa": "Hella (FORVIA HELLA)",
+  "segmento": "Autopecas (iluminacao/eletronica)",
+  "principal_produto": "Iluminacao automotiva e modulos eletronicos veiculares",
+  "fabrica_brasil": "Indaiatuba, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "A fabrica no Brasil produz modulos eletronicos e iluminacao (polimeros e eletronica), nao produtos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 591,
+  "dominio_efetivo": "soltec.com",
+  "empresa": "Soltec",
+  "segmento": "Energia (solar)",
+  "principal_produto": "Rastreadores solares (trackers) e solucoes fotovoltaicas",
+  "fabrica_brasil": "Sem fabrica confirmada no Brasil (multinacional espanhola que fornece projetos no pais)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Trackers usam estruturas de aco galvanizado, mas nao ha fabrica propria confirmada no Brasil (fornecimento/montagem).",
+  "fonte": "https://soltec.com"
+ },
+ {
+  "idx": 592,
+  "dominio_efetivo": "rogga.com.br",
+  "empresa": "Rogga",
+  "segmento": "Construtora",
+  "principal_produto": "Incorporacao e construcao de empreendimentos residenciais",
+  "fabrica_brasil": "Joinville, SC (sede)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Incorporadora/construtora; consome aco em obra mas nao fabrica produtos de aco carbono.",
+  "fonte": "https://rogga.com.br"
+ },
+ {
+  "idx": 593,
+  "dominio_efetivo": "www.shefa.com.br",
+  "empresa": "Shefa (Agropecuaria Tuiuti)",
+  "segmento": "Alimentos",
+  "principal_produto": "Leite, bebidas lacteas, sucos e bebidas a base de soja",
+  "fabrica_brasil": "Amparo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Industria de laticinios e bebidas; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 594,
+  "dominio_efetivo": "hpeautos.com.br",
+  "empresa": "HPE Automotores do Brasil",
+  "segmento": "Automotivo (montadora)",
+  "principal_produto": "Fabricacao de veiculos Mitsubishi e Suzuki (ex.: L200 Triton, Pajero, ASX, Jimny)",
+  "fabrica_brasil": "Catalao, GO",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Montadora que estampa e solda chapas de aco para carrocerias dos veiculos.",
+  "fonte": "https://hpeautos.com.br"
+ },
+ {
+  "idx": 595,
+  "dominio_efetivo": "coamo.com.br",
+  "empresa": "Coamo Agroindustrial Cooperativa",
+  "segmento": "Agronegocio",
+  "principal_produto": "Cooperativa agroindustrial de graos (soja, milho, trigo, cafe)",
+  "fabrica_brasil": "Campo Mourao, PR (sede)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Cooperativa agricola de graos e agroindustria; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 596,
+  "dominio_efetivo": "itaiputransformadores.com.br",
+  "empresa": "Industria de Transformadores Itaipu",
+  "segmento": "Eletrica",
+  "principal_produto": "Transformadores monofasicos, trifasicos, de forca e especiais",
+  "fabrica_brasil": "Itapolis, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Transformadores tem tanque/carcaca fabricados em chapa de aco carbono.",
+  "fonte": "https://itaiputransformadores.com.br"
+ },
+ {
+  "idx": 597,
+  "dominio_efetivo": "towerinternational.com",
+  "empresa": "AUTOKINITON (Tower Automotive do Brasil)",
+  "segmento": "Autopecas",
+  "principal_produto": "Estampados de carroceria, estruturas de chassi e conjuntos soldados automotivos",
+  "fabrica_brasil": "Aruja, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estampados de carroceria e estruturas de chassi sao majoritariamente de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 598,
+  "dominio_efetivo": "caf.net",
+  "empresa": "CAF Brasil",
+  "segmento": "Maquinas/Equipamentos (ferroviario)",
+  "principal_produto": "Fabricacao de carros ferroviarios (trens, metro e VLT)",
+  "fabrica_brasil": "Hortolandia, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carrocerias e estruturas de carros ferroviarios sao construidas majoritariamente em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 599,
+  "dominio_efetivo": "lscontrol.com.br",
+  "empresa": "LS Control Automacao",
+  "segmento": "Maquinas/Equipamentos (automacao)",
+  "principal_produto": "Maquinas de solda em termoplasticos e automacao industrial (celulas robotizadas)",
+  "fabrica_brasil": "Itatiba, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Maquinas e celulas robotizadas tem estrutura/gabinete de aco carbono, mas o foco do produto e solda de termoplasticos.",
+  "fonte": "https://lscontrol.com.br"
+ }
+]

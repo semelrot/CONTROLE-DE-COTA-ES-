@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 500,
+  "dominio_efetivo": "magnetimarelli.com",
+  "empresa": "Marelli (ex-Magneti Marelli)",
+  "segmento": "Autopecas",
+  "principal_produto": "Sistemas de injecao eletronica, iluminacao, eletronica, escape, suspensao e interiores automotivos",
+  "fabrica_brasil": "Hortolandia, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica componentes automotivos (escape, suspensao, pecas estampadas e estruturais) que usam chapa e barra de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 501,
+  "dominio_efetivo": "wittur.com",
+  "empresa": "Wittur",
+  "segmento": "Maquinas/Equipamentos (elevadores)",
+  "principal_produto": "Portas, cabines, dispositivos de seguranca e maquinas de tracao para elevadores",
+  "fabrica_brasil": "Possui fabrica no Brasil (Wittur Ltda, regiao de Sao Paulo)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Portas, cabines e estruturas (slings) para elevadores sao fabricadas majoritariamente em chapa de aco carbono.",
+  "fonte": "https://wittur.com"
+ },
+ {
+  "idx": 502,
+  "dominio_efetivo": "trelleborg.com",
+  "empresa": "Trelleborg",
+  "segmento": "Autopecas (vedacoes)",
+  "principal_produto": "Vedacoes, o-rings, selos e solucoes em polimeros/borracha para industria e automotivo",
+  "fabrica_brasil": "Sao Jose dos Campos, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica vedacoes em borracha, silicone e plasticos de engenharia (PTFE, PU, PEEK); nao transforma aco carbono.",
+  "fonte": "https://trelleborg.com"
+ },
+ {
+  "idx": 503,
+  "dominio_efetivo": "mundial.com",
+  "empresa": "Mundial S.A.",
+  "segmento": "Metalurgica (cutelaria/utilidades)",
+  "principal_produto": "Facas, tesouras, alicates de unha e ferramentas de corte estampadas e forjadas",
+  "fabrica_brasil": "Caxias do Sul/RS, Gravatai/RS e Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Facas, tesouras e alicates sao estampados/forjados em aco (carbono e inox), base majoritaria de aco.",
+  "fonte": "http://www.mundial.com/"
+ },
+ {
+  "idx": 504,
+  "dominio_efetivo": "capgemini.com",
+  "empresa": "Capgemini",
+  "segmento": "Tecnologia (consultoria/TI)",
+  "principal_produto": "Servicos de consultoria, transformacao digital e gestao de TI",
+  "fabrica_brasil": "Sem fabrica no Brasil (empresa de servicos de TI/consultoria, escritorios no pais)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de consultoria e TI; nao fabrica produtos de aco carbono.",
+  "fonte": "https://capgemini.com"
+ },
+ {
+  "idx": 505,
+  "dominio_efetivo": "siemens-energy.com",
+  "empresa": "Siemens Energy",
+  "segmento": "Energia",
+  "principal_produto": "Turbinas industriais a vapor/gas, geradores, transformadores e equipamentos de transmissao",
+  "fabrica_brasil": "Jundiai, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Turbinas, rotores, transformadores e estruturas de grande porte sao fabricados majoritariamente em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 506,
+  "dominio_efetivo": "ppg.com",
+  "empresa": "PPG Industries",
+  "segmento": "Quimica (tintas/revestimentos)",
+  "principal_produto": "Tintas, vernizes e revestimentos para automotivo, industrial, aeroespacial e protecao",
+  "fabrica_brasil": "Possui operacoes no Brasil (fabricas de tintas/revestimentos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz tintas e revestimentos quimicos; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://ppg.com"
+ },
+ {
+  "idx": 507,
+  "dominio_efetivo": "wch.com.br",
+  "empresa": "WCH",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Equipamentos para industria de pre-fabricados de concreto (moldadoras, formas, centrais, pontes rolantes)",
+  "fabrica_brasil": "Rio Claro, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Formas, moldadoras, pontes rolantes e equipamentos de protensao tem corpo e estrutura de aco carbono.",
+  "fonte": "https://wch.com.br"
+ },
+ {
+  "idx": 508,
+  "dominio_efetivo": "grupoferrosider.com.br",
+  "empresa": "Grupo Ferrosider",
+  "segmento": "Metalurgica/Autopecas",
+  "principal_produto": "Pecas e componentes automotivos e tubos soldados de aco carbono",
+  "fabrica_brasil": "Contagem, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produz tubos soldados de aco carbono, chapas e componentes automotivos conformados em aco.",
+  "fonte": "https://ferrosider.com.br/"
+ },
+ {
+  "idx": 509,
+  "dominio_efetivo": "slcagricola.com.br",
+  "empresa": "SLC Agricola",
+  "segmento": "Agronegocio",
+  "principal_produto": "Producao de graos (soja, milho, algodao) e sementes",
+  "fabrica_brasil": "Sede em Porto Alegre, RS (22 unidades de producao agricola em 7 estados)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtora de commodities agricolas e sementes; nao fabrica produtos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 510,
+  "dominio_efetivo": "korin.com.br",
+  "empresa": "Korin",
+  "segmento": "Agronegocio/Alimentos",
+  "principal_produto": "Frangos e ovos organicos, carne bovina, alimentos organicos e insumos agricolas naturais",
+  "fabrica_brasil": "Possui operacoes no Brasil (agropecuaria/alimentos organicos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz alimentos organicos (frango, ovos) e insumos agricolas; nao fabrica produtos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 511,
+  "dominio_efetivo": "irizar.com",
+  "empresa": "Irizar",
+  "segmento": "Carroceria",
+  "principal_produto": "Carrocerias de onibus rodoviarios e urbanos (modelos i6, i6 Plus, i6S)",
+  "fabrica_brasil": "Botucatu, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carrocerias de onibus tem estrutura e revestimentos fabricados majoritariamente em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 512,
+  "dominio_efetivo": "soprano.com.br",
+  "empresa": "Soprano",
+  "segmento": "Metalurgica (ferragens/eletro)",
+  "principal_produto": "Fechaduras, ferragens, cadeados, material eletrico e utilidades termicas",
+  "fabrica_brasil": "Farroupilha, RS (e Caxias do Sul/RS e Campo Grande/MS)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fechaduras, cadeados e ferragens sao fabricados com chapa e componentes de aco carbono.",
+  "fonte": "https://soprano.com.br"
+ },
+ {
+  "idx": 513,
+  "dominio_efetivo": "jodeclan.com.br",
+  "empresa": "Jodeclan Ferramentaria",
+  "segmento": "Metalurgica (ferramentaria)",
+  "principal_produto": "Maquinas para industria metalurgica, pecas/acessorios e servicos de usinagem, torno e solda",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Ferramentaria que usina, torneia e solda pecas e maquinas a partir de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 514,
+  "dominio_efetivo": "novaresteam.com",
+  "empresa": "Novares",
+  "segmento": "Autopecas (plastico)",
+  "principal_produto": "Componentes e sistemas plasticos para industria automotiva (powertrain, interior, exterior)",
+  "fabrica_brasil": "Possui operacoes no Brasil (pecas plasticas automotivas)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Especialista em solucoes plasticas para autos; nao fabrica produtos de aco carbono.",
+  "fonte": "https://novaresteam.com"
+ },
+ {
+  "idx": 515,
+  "dominio_efetivo": "leadec-services.com",
+  "empresa": "Leadec",
+  "segmento": "Servicos",
+  "principal_produto": "Servicos industriais de manutencao, instalacao e limpeza tecnica para fabricas",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP (prestadora de servicos, sem fabrica de produtos)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Presta servicos industriais e de manutencao; nao fabrica produtos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 516,
+  "dominio_efetivo": "nexteer.com",
+  "empresa": "Nexteer Automotive",
+  "segmento": "Autopecas (direcao)",
+  "principal_produto": "Sistemas de direcao eletrica, colunas de direcao, eixos e componentes de driveline",
+  "fabrica_brasil": "Porto Alegre, RS (e Porto Real, RJ)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Colunas de direcao, eixos (i-shafts) e componentes de driveline sao usinados/conformados em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 517,
+  "dominio_efetivo": "dellarosa.com.br",
+  "empresa": "Della Rosa",
+  "segmento": "Autopecas",
+  "principal_produto": "Componentes de direcao e suspensao (terminais, barras, cruzetas, eixos, semieixos, engrenagens)",
+  "fabrica_brasil": "Santa Barbara d'Oeste, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Pecas de direcao/suspensao (barras, eixos, semieixos, engrenagens) sao forjadas/usinadas em aco carbono.",
+  "fonte": "https://dellarosa.com.br"
+ },
+ {
+  "idx": 518,
+  "dominio_efetivo": "maxiforja.com.br",
+  "empresa": "Maxiforja",
+  "segmento": "Metalurgica (forjaria)",
+  "principal_produto": "Componentes forjados, usinados e conjuntos montados para automotivo e agricola",
+  "fabrica_brasil": "Canoas, RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Uma das maiores forjarias do pais; forja e usina componentes majoritariamente em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 519,
+  "dominio_efetivo": "armco.com.br",
+  "empresa": "Armco do Brasil",
+  "segmento": "Metalurgica (aco)",
+  "principal_produto": "Acos relaminados de alto, medio e baixo carbono, temperados e ligados",
+  "fabrica_brasil": "Jacarei, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de acos relaminados de carbono (tiras/chapas) para automotivo, construcao e industria.",
+  "fonte": "https://armco.com.br"
+ }
+]

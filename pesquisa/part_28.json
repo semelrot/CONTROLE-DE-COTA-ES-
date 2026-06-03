@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 560,
+  "dominio_efetivo": "tora.com.br",
+  "empresa": "Tora",
+  "segmento": "Logistica/Transporte",
+  "principal_produto": "Transporte rodoviario de carga, terminais multimodais e armazem alfandegado",
+  "fabrica_brasil": "Sede em Contagem, MG (sem fabrica; 91 filiais no Brasil e Mercosul)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de logistica e transporte; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://tora.com.br"
+ },
+ {
+  "idx": 561,
+  "dominio_efetivo": "mataoequipamentos.com.br",
+  "empresa": "Matao Equipamentos",
+  "segmento": "Maquinas agricolas",
+  "principal_produto": "Maquinas de colheita mecanizada, guinchos agricolas e distribuidores para o agro",
+  "fabrica_brasil": "Matao, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica maquinas e implementos agricolas com estrutura e componentes em aco carbono.",
+  "fonte": "https://mataoequipamentos.com.br"
+ },
+ {
+  "idx": 562,
+  "dominio_efetivo": "delp.com.br",
+  "empresa": "Delp Engenharia",
+  "segmento": "Servicos/Caldeiraria",
+  "principal_produto": "Projeto, fabricacao e instalacao de estruturas offshore (ancoragem/subsea) e industriais",
+  "fabrica_brasil": "Vespasiano, MG (e unidade em Porto Acu, Sao Joao da Barra, RJ)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas e equipamentos metalicos para oleo e gas, siderurgia e mineracao em aco carbono.",
+  "fonte": "https://delp.com.br"
+ },
+ {
+  "idx": 563,
+  "dominio_efetivo": "ksb.com",
+  "empresa": "KSB",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Bombas, valvulas e servicos industriais",
+  "fabrica_brasil": "Varzea Paulista, SP (plantas tambem em Jundiai e fundicao em Americana, SP)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Corpos de bombas e valvulas e eixos sao produzidos em ferro fundido e aco, incluindo fundicao propria.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 564,
+  "dominio_efetivo": "conimel.com.br",
+  "empresa": "Conimel",
+  "segmento": "Materiais eletricos",
+  "principal_produto": "Conectores, terminais e produtos pre-formados para distribuicao eletrica",
+  "fabrica_brasil": "Cravinhos, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Usa aco galvanizado, aco aluminizado e metais nao-ferrosos; produtos nao sao majoritariamente de aco carbono.",
+  "fonte": "https://conimel.com.br"
+ },
+ {
+  "idx": 565,
+  "dominio_efetivo": "grupopmz.com",
+  "empresa": "Grupo PMZ",
+  "segmento": "Distribuicao",
+  "principal_produto": "Distribuicao de pecas e produtos automotivos (pneus, baterias, filtros, lubrificantes)",
+  "fabrica_brasil": "Manaus, AM (distribuidora; sem fabrica)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/varejo de pecas automotivas; nao fabrica produtos de aco carbono.",
+  "fonte": "https://www.pmz.com.br"
+ },
+ {
+  "idx": 566,
+  "dominio_efetivo": "patrimar.com.br",
+  "empresa": "Patrimar",
+  "segmento": "Construtora",
+  "principal_produto": "Incorporacao e construcao de empreendimentos imobiliarios residenciais",
+  "fabrica_brasil": "Sede em Belo Horizonte, MG (atua tambem em RJ e SP; sem fabrica)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Construtora e incorporadora; consome aco em obra mas nao fabrica produtos de aco.",
+  "fonte": "https://patrimar.com.br"
+ },
+ {
+  "idx": 567,
+  "dominio_efetivo": "leonardi.com.br",
+  "empresa": "Leonardi",
+  "segmento": "Construcao (pre-fabricados)",
+  "principal_produto": "Elementos pre-fabricados de concreto estrutural (pilares, vigas, lajes, paineis)",
+  "fabrica_brasil": "Atibaia, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica elementos de concreto pre-fabricado; nao produz produtos de aco carbono.",
+  "fonte": "https://leonardi.com.br"
+ },
+ {
+  "idx": 568,
+  "dominio_efetivo": "tecnogeo.com.br",
+  "empresa": "Tecnogeo",
+  "segmento": "Servicos/Geotecnia",
+  "principal_produto": "Servicos de geotecnia, fundacoes profundas e melhoramento de solos",
+  "fabrica_brasil": "Sede em Cotia, SP (sem fabrica; escritorios em SP e RJ)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de servicos de engenharia geotecnica; nao fabrica produtos de aco.",
+  "fonte": "https://tecnogeo.com.br"
+ },
+ {
+  "idx": 569,
+  "dominio_efetivo": "dof.com",
+  "empresa": "DOF",
+  "segmento": "Servicos offshore",
+  "principal_produto": "Servicos subsea, energias renovaveis e gestao de embarcacoes offshore",
+  "fabrica_brasil": "Sem fabrica no Brasil (opera via Norskan Offshore, servicos offshore)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de servicos offshore e maritimos; nao fabrica produtos de aco carbono.",
+  "fonte": "https://dof.com"
+ },
+ {
+  "idx": 571,
+  "dominio_efetivo": "polifiltro.com.br",
+  "empresa": "Polifiltro",
+  "segmento": "Distribuicao",
+  "principal_produto": "Distribuicao de filtros, lubrificantes e aditivos automotivos e industriais",
+  "fabrica_brasil": "Sede em Aracatuba, SP (distribuidora com filiais; sem fabrica)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor de filtros e lubrificantes; nao fabrica produtos de aco carbono.",
+  "fonte": "https://polifiltro.com.br"
+ },
+ {
+  "idx": 572,
+  "dominio_efetivo": "secotools.com",
+  "empresa": "Seco Tools",
+  "segmento": "Ferramentas",
+  "principal_produto": "Ferramentas de corte para usinagem (metal duro)",
+  "fabrica_brasil": "Presenca no Brasil (sem fabrica especifica identificada; ferramentas em metal duro)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz ferramentas de corte em metal duro/carboneto, nao em aco carbono.",
+  "fonte": "https://secotools.com"
+ },
+ {
+  "idx": 573,
+  "dominio_efetivo": "morumbi.ind.br",
+  "empresa": "Morumbi Implementos",
+  "segmento": "Implementos rodoviarios",
+  "principal_produto": "Carrocerias e semirreboques (basculantes, sobre chassi, carrega tudo)",
+  "fabrica_brasil": "Campos dos Goytacazes, RJ (filial em Sarzedo, MG)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica carrocerias e implementos rodoviarios majoritariamente em aco carbono.",
+  "fonte": "http://www.morumbi.ind.br"
+ },
+ {
+  "idx": 574,
+  "dominio_efetivo": "diamanteenergia.com.br",
+  "empresa": "Diamante Energia",
+  "segmento": "Energia",
+  "principal_produto": "Geracao de energia termeletrica",
+  "fabrica_brasil": "Usinas em Capivari de Baixo, SC e Sao Goncalo do Amarante, CE (geradora, nao fabrica)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Geradora de energia termeletrica; nao fabrica produtos de aco carbono.",
+  "fonte": "https://www.diamanteenergia.com"
+ },
+ {
+  "idx": 575,
+  "dominio_efetivo": "allisontransmission.com",
+  "empresa": "Allison Transmission",
+  "segmento": "Autopecas",
+  "principal_produto": "Transmissoes automaticas e sistemas de propulsao para veiculos",
+  "fabrica_brasil": "Sem fabrica no Brasil (escritorio de vendas, centro de customizacao e distribuicao de pecas em Sao Paulo, SP; producao nos EUA, Hungria e India)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "No Brasil mantem vendas/distribuicao e customizacao; nao fabrica as transmissoes localmente.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 576,
+  "dominio_efetivo": "horse.cars",
+  "empresa": "Horse Powertrain (Horse Brasil)",
+  "segmento": "Autopecas/Powertrain",
+  "principal_produto": "Motores de combustao, sistemas hibridos e transmissoes",
+  "fabrica_brasil": "Sao Jose dos Pinhais, PR (planta de powertrain e fundicao)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabrica motores e cambios; usa muito aluminio na fundicao, mas blocos, virabrequins e eixos envolvem aco.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 577,
+  "dominio_efetivo": "metalurgicatanaka.com.br",
+  "empresa": "Metalurgica Tanaka",
+  "segmento": "Metalurgica/Autopecas agricolas",
+  "principal_produto": "Pecas de direcao (terminais, barras, cotovelos) para tratores e maquinas agricolas",
+  "fabrica_brasil": "Cajuru, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Pecas de direcao para tratores sao forjadas/usinadas em aco carbono.",
+  "fonte": "https://metalurgicatanaka.com.br"
+ },
+ {
+  "idx": 578,
+  "dominio_efetivo": "mecalor.com.br",
+  "empresa": "Mecalor",
+  "segmento": "Maquinas/Refrigeracao",
+  "principal_produto": "Chillers e sistemas de refrigeracao industrial e hospitalar",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Equipamentos de refrigeracao com circuito em cobre/inox e estrutura/gabinete tipicamente em chapa de aco carbono.",
+  "fonte": "https://www.mecalor.com"
+ },
+ {
+  "idx": 579,
+  "dominio_efetivo": "evacon.com.br",
+  "empresa": "Evacon Equipamentos Industriais",
+  "segmento": "Maquinas/Caldeiraria",
+  "principal_produto": "Vasos de pressao, trocadores de calor/condensadores e transportadores industriais sob medida",
+  "fabrica_brasil": "Brasil (fabricante de equipamentos industriais sob medida)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica vasos de pressao, condensadores e transportadores em caldeiraria de aco carbono/inox.",
+  "fonte": "busca web"
+ }
+]

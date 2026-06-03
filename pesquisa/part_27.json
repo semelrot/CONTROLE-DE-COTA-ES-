@@ -1,0 +1,200 @@
+[
+ {
+  "idx": 540,
+  "dominio_efetivo": "maringasoldas.com.br",
+  "empresa": "Maringa (Maringa Group)",
+  "segmento": "Autopecas",
+  "principal_produto": "Cabecotes em ferro fundido para motores diesel (Mercedes, Volvo, Scania, Cummins)",
+  "fabrica_brasil": "Curitiba, PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica cabecotes fundidos em ferro fundido, nao produtos de aco carbono.",
+  "fonte": "https://maringagroup.com/"
+ },
+ {
+  "idx": 541,
+  "dominio_efetivo": "www.ferbasa.com.br",
+  "empresa": "Ferbasa",
+  "segmento": "Metalurgia",
+  "principal_produto": "Ferroligas (ligas de cromo) e silica ativa",
+  "fabrica_brasil": "Pojuca, BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz ferroligas e silica ativa; e fornecedora de insumos siderurgicos, nao transforma aco carbono em produtos.",
+  "fonte": "https://www.ferbasa.com.br"
+ },
+ {
+  "idx": 542,
+  "dominio_efetivo": "bonfiglioli.com",
+  "empresa": "Bonfiglioli",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Motoredutores, redutores planetarios, sistemas de acionamento e inversores",
+  "fabrica_brasil": "Vinhedo, SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Engrenagens e eixos sao de aco, mas carcacas frequentemente em ferro fundido/aluminio; mix de materiais.",
+  "fonte": "https://bonfiglioli.com"
+ },
+ {
+  "idx": 543,
+  "dominio_efetivo": "a1.com.br",
+  "empresa": "Grupo A1",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Estruturas metalicas, spools, skids, turbinas a vapor e equipamentos industriais",
+  "fabrica_brasil": "Brasil (cidade nao especificada no site)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica estruturas metalicas, spools e skids, tipicamente conformados/soldados em aco carbono.",
+  "fonte": "https://a1.com.br"
+ },
+ {
+  "idx": 544,
+  "dominio_efetivo": "v8brasil.com",
+  "empresa": "V8 Brasil",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Maquinas de solda, repuxadeiras (spotcars), carregadores de bateria e ferramentas",
+  "fabrica_brasil": "Sao Jose, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de solda e repuxadeiras tem estrutura/corpo em chapa de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 545,
+  "dominio_efetivo": "ivguindastes.com.br",
+  "empresa": "IV Guindastes",
+  "segmento": "Servicos",
+  "principal_produto": "Servicos de icamento e locacao de guindastes para obras industriais",
+  "fabrica_brasil": "Sem fabrica (empresa de servicos de icamento)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Opera e aluga guindastes; presta servico de icamento, nao fabrica produtos de aco.",
+  "fonte": "https://ivguindastes.com.br"
+ },
+ {
+  "idx": 546,
+  "dominio_efetivo": "newoldany.com.br",
+  "empresa": "New Oldany",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas forjadas, estampadas, usinadas e soldadas para o setor automotivo",
+  "fabrica_brasil": "Cotia, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica pecas forjadas/estampadas/usinadas, tipicamente em aco carbono, para montadoras.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 548,
+  "dominio_efetivo": "fam-brasil.com",
+  "empresa": "FAM Brasil (FAM Mining do Brasil)",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Sistemas de transporte e processamento de graneis (correias, empilhadeiras, recuperadoras)",
+  "fabrica_brasil": "Nova Lima, MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de manuseio de graneis e estruturas transportadoras sao fabricados majoritariamente em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 549,
+  "dominio_efetivo": "www.galvani.ind.br",
+  "empresa": "Galvani",
+  "segmento": "Agronegocio/Quimica",
+  "principal_produto": "Fertilizantes fosfatados (Phosgrao, Phosmix) e granulados especiais",
+  "fabrica_brasil": "Luis Eduardo Magalhaes, BA; Irece, BA; Angico dos Dias, BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz fertilizantes; nao fabrica produtos a partir de aco carbono.",
+  "fonte": "https://galvanifertilizantes.com/"
+ },
+ {
+  "idx": 550,
+  "dominio_efetivo": "www.termomecanica.com.br",
+  "empresa": "Termomecanica",
+  "segmento": "Metalurgia",
+  "principal_produto": "Semiacabados de cobre e suas ligas (barras, tubos, fios, perfis, vergalhoes)",
+  "fabrica_brasil": "Sao Bernardo do Campo, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Transforma metais nao-ferrosos (cobre, latao, bronze, aluminio), nao aco carbono.",
+  "fonte": "https://www.termomecanica.com.br"
+ },
+ {
+  "idx": 551,
+  "dominio_efetivo": "lepe.com.br",
+  "empresa": "Lepe Industria e Comercio",
+  "segmento": "Autopecas",
+  "principal_produto": "Pecas fundidas em ferro fundido cinzento e nodular (coletores, polias, suportes)",
+  "fabrica_brasil": "Guarulhos, SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fundicao de ferro fundido cinzento/nodular; nao fabrica produtos de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 552,
+  "dominio_efetivo": "vetore.com",
+  "empresa": "Vetore",
+  "segmento": "Autopecas",
+  "principal_produto": "Bombas d'agua, bombas de oleo e carcacas fundidas em aluminio ou ferro",
+  "fabrica_brasil": "Quatro Barras, PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Pecas automotivas fundidas predominam em aluminio/ferro; uso de aco carbono e parcial/incerto.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 553,
+  "dominio_efetivo": "ufifilters.com",
+  "empresa": "UFI Filters Group",
+  "segmento": "Autopecas",
+  "principal_produto": "Filtros automotivos (ar, oleo, combustivel) e sistemas termicos",
+  "fabrica_brasil": "Presenca em Jundiai, SP (nao confirmado se e fabrica ou escritorio)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabrica filtros e modulos de filtragem (papel/plastico/borracha); nao produto de aco carbono.",
+  "fonte": "https://ufifilters.com"
+ },
+ {
+  "idx": 555,
+  "dominio_efetivo": "titanlat.com",
+  "empresa": "Titan",
+  "segmento": "Autopecas",
+  "principal_produto": "Pneus e rodas para maquinas agricolas, OTR, florestais e caminhoes",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Alem de pneus, e o maior fabricante mundial de rodas agricolas, que sao conformadas em aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 556,
+  "dominio_efetivo": "bremer.com.br",
+  "empresa": "Bremer",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Caldeiras aquatubulares e flamotubulares e aquecedores de fluido termico",
+  "fabrica_brasil": "Rio do Sul, SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiras e vasos de pressao sao fabricados em caldeiraria de chapa de aco carbono.",
+  "fonte": "https://bremer.com.br"
+ },
+ {
+  "idx": 557,
+  "dominio_efetivo": "stemac.com.br",
+  "empresa": "Stemac",
+  "segmento": "Maquinas/Equipamentos",
+  "principal_produto": "Grupos geradores a diesel e gas, paineis de forca e sistemas de armazenamento (BESS)",
+  "fabrica_brasil": "Itumbiara, GO (sede em Porto Alegre, RS)",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Conjunto gira em torno do motor/alternador, mas base/chassi, cabine e paineis usam chapa de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 558,
+  "dominio_efetivo": "polistampo.com.br",
+  "empresa": "Polistampo Industria Metalurgica",
+  "segmento": "Metalurgica",
+  "principal_produto": "Pecas estampadas e conjuntos soldados para montadoras automotivas",
+  "fabrica_brasil": "Sao Paulo, SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia e solda de pecas automotivas feitas majoritariamente de chapa de aco carbono.",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 559,
+  "dominio_efetivo": "pretech.com.br",
+  "empresa": "Pretech Fundacoes",
+  "segmento": "Construtora",
+  "principal_produto": "Servicos de fundacoes e geotecnia (estacas, paredes diafragma, estacas helice)",
+  "fabrica_brasil": "Sao Jose dos Pinhais, PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de engenharia/servico de fundacoes; consome aco em obra mas nao fabrica produto de aco.",
+  "fonte": "https://pretech.com.br"
+ }
+]

@@ -1,0 +1,4 @@
+# Otimizador de Composicao de Corte de Aco Carbono
+pulp>=3.0        # solver de otimizacao (inclui o CBC)
+streamlit>=1.30  # interface visual
+pandas>=2.0      # tabelas de entrada/saida

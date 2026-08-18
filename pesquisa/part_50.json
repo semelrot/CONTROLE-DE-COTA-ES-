@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 1000,
+    "dominio_efetivo": "ssab.com",
+    "empresa": "SSAB",
+    "segmento": "Siderurgia (aços especiais/alta resistência)",
+    "principal_produto": "Chapas e bobinas de aço (Hardox, Strenx)",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante global de aço; no Brasil mantém apenas escritório comercial, sem planta industrial",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1001,
+    "dominio_efetivo": "dagan.com.br",
+    "empresa": "Dagan Indústria e Comércio de Produtos Siderúrgicos",
+    "segmento": "Produtos siderúrgicos",
+    "principal_produto": "Produtos siderúrgicos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Razão social ('Produtos Siderúrgicos') indica fabricação/beneficiamento de aço",
+    "fonte": "resultados.json (razão social)"
+  },
+  {
+    "idx": 1002,
+    "dominio_efetivo": "hondalock-sp.com.br",
+    "empresa": "Honda Lock São Paulo Indústria e Comércio de Peças Ltda",
+    "segmento": "Autopeças (fechaduras e chaves)",
+    "principal_produto": "Fechaduras e sistemas de chave automotivos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fechaduras automotivas possuem componentes metálicos internos, possivelmente em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1003,
+    "dominio_efetivo": "kanjiko.com.br",
+    "empresa": "Kanjiko",
+    "segmento": "Autopeças",
+    "principal_produto": "Componentes automotivos (grupo Toyota)",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de autopeças do grupo Toyota, setor tipicamente intensivo em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1004,
+    "dominio_efetivo": "thyssenkrupp-automotive-technology.com",
+    "empresa": "thyssenkrupp Springs & Stabilizers",
+    "segmento": "Autopeças (molas e estabilizadores)",
+    "principal_produto": "Molas e barras estabilizadoras de aço",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Molas e barras estabilizadoras automotivas são fabricadas em aço mola/aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1005,
+    "dominio_efetivo": "maximatech.com.br",
+    "empresa": "Maximatech",
+    "segmento": "Tecnologia/software",
+    "principal_produto": "Software de gestão para distribuidores/força de vendas",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de software, não fabrica produtos físicos",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1006,
+    "dominio_efetivo": "hengst.com",
+    "empresa": "Hengst",
+    "segmento": "Autopeças (filtração)",
+    "principal_produto": "Filtros automotivos e industriais",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Carcaças de filtros automotivos são fabricadas em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1007,
+    "dominio_efetivo": "hbfuller.com",
+    "empresa": "H.B. Fuller",
+    "segmento": "Químico (adesivos)",
+    "principal_produto": "Adesivos industriais",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de adesivos e selantes químicos, não consome aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1008,
+    "dominio_efetivo": "bmv.com.br",
+    "empresa": "BMV Betenheuser Metal Técnica",
+    "segmento": "Metalurgia (usinagem/estamparia)",
+    "principal_produto": "Peças usinadas e estampadas, conjuntos soldados",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de peças usinadas, estampagem leve e conjuntos soldados para automotivo/agrícola",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1009,
+    "dominio_efetivo": "minaslaser.ind.br",
+    "empresa": "Minas Laser",
+    "segmento": "Fabricação de geradores elétricos",
+    "principal_produto": "Geradores CA/CC",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de geradores elétricos, carcaças e estruturas em aço carbono",
+    "fonte": "busca web (CNAE fabricação de geradores)"
+  },
+  {
+    "idx": 1010,
+    "dominio_efetivo": "infraconrio.com.br",
+    "empresa": "InfraconRio Comercial e Serviços Técnicos",
+    "segmento": "Comércio/importação de equipamentos industriais e médico-hospitalares",
+    "principal_produto": "Aços especiais, cabos de aço, equipamentos diversos",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Comercializa aços especiais e cabos de aço, mas atua como revendedor/importador, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1011,
+    "dominio_efetivo": "mkraft.com.br",
+    "empresa": "Mkraft",
+    "segmento": "Distribuição de aço",
+    "principal_produto": "Chapas, barras e perfis de aço (distribuição)",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Distribuidor de aço (mais de 8.000 toneladas em estoque), não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1012,
+    "dominio_efetivo": "rovemar.com.br",
+    "empresa": "Rovemar",
+    "segmento": "Usinagem de precisão",
+    "principal_produto": "Peças usinadas e forjadas de precisão",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Usinagem de precisão e peças forjadas, tipicamente em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1013,
+    "dominio_efetivo": "zopone.com.br",
+    "empresa": "Zopone",
+    "segmento": "Construção/infraestrutura",
+    "principal_produto": "Obras de infraestrutura e telecomunicações",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Conglomerado de infraestrutura/construção/telecom; usa estruturas metálicas em obras mas não é fabricante de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1014,
+    "dominio_efetivo": "diehl.com",
+    "empresa": "Diehl",
+    "segmento": "Conglomerado industrial (metal, defesa, controles, aeroespacial)",
+    "principal_produto": "Componentes metálicos, sistemas de defesa, controles",
+    "fabrica_brasil": "provavel",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Grupo industrial alemão com divisão de metais e diversos produtos que podem usar aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1015,
+    "dominio_efetivo": "opuscm.com.br",
+    "empresa": "Opus (OpusCM)",
+    "segmento": "Construção modular industrial",
+    "principal_produto": "Módulos e estruturas metálicas para mineração e óleo & gás",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Construção modular para mineração/siderurgia/óleo e gás, uso intensivo de estruturas de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1016,
+    "dominio_efetivo": "golin.com.br",
+    "empresa": "Golin",
+    "segmento": "Siderurgia/tubos de aço",
+    "principal_produto": "Tubos de aço",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de tubos de aço desde 1958, autodenominado 'Líder em Soluções em Aço'",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1017,
+    "dominio_efetivo": "termotecnica.com.br",
+    "empresa": "Termotécnica",
+    "segmento": "Plásticos/isolamento térmico",
+    "principal_produto": "EPS (isopor)",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de EPS (isopor), não utiliza aço como insumo",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1018,
+    "dominio_efetivo": "topico.com.br",
+    "empresa": "Topico",
+    "segmento": "Locação de estruturas/galpões",
+    "principal_produto": "Galpões metálicos e tendas para locação",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Uma das linhas de produto é galpões metálicos, que utilizam estrutura de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1019,
+    "dominio_efetivo": "isringhausen.com",
+    "empresa": "Isringhausen",
+    "segmento": "Autopeças (assentos)",
+    "principal_produto": "Assentos para caminhões, ônibus e tratores",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Estrutura interna dos assentos pode usar aço, mas o produto principal é estofamento",
+    "fonte": "conhecimento setorial"
+  }
+]

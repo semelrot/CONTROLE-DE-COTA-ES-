@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 1080,
+    "dominio_efetivo": "formtap.com.br",
+    "empresa": "Formtap (Grupo Trambusti)",
+    "segmento": "Autopeças (revestimentos acústicos)",
+    "principal_produto": "Forrações internas/externas veiculares",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de revestimentos e coberturas acústicas para veículos, não usa aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1081,
+    "dominio_efetivo": "hacker.ind.br",
+    "empresa": "Hacker Industrial",
+    "segmento": "Equipamentos para geração hidrelétrica",
+    "principal_produto": "Turbinas hidráulicas, geradores e equipamentos hidromecânicos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de turbinas hidráulicas e equipamentos hidromecânicos em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1082,
+    "dominio_efetivo": "livrariascuritiba.com.br",
+    "empresa": "Livrarias Curitiba",
+    "segmento": "Varejo (livraria)",
+    "principal_produto": "Livros e papelaria",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Rede varejista de livrarias, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1083,
+    "dominio_efetivo": "demuth.com.br",
+    "empresa": "Demuth Máquinas (Valmet)",
+    "segmento": "Equipamentos para manuseio de madeira (celulose)",
+    "principal_produto": "Máquinas e estruturas metálicas para pátio de madeira",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de máquinas e estruturas metálicas para manuseio de madeira na indústria de celulose (adquirida pela Valmet)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1084,
+    "dominio_efetivo": "lavrale.com.br",
+    "empresa": "Lavrale (Agritech Lavrale)",
+    "segmento": "Implementos agrícolas",
+    "principal_produto": "Implementos, cabines e reboques militares",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de implementos agrícolas, cabines e reboques em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1085,
+    "dominio_efetivo": "arouca.com.br",
+    "empresa": "Arouca Fechaduras",
+    "segmento": "Fechaduras e ferragens",
+    "principal_produto": "Fechaduras e ferragens em geral",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Matéria-prima principal é zamac (liga de zinco), mas componentes internos (molas, pinos) podem usar aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1086,
+    "dominio_efetivo": "grupomastersonda.com.br",
+    "empresa": "Grupo Master",
+    "segmento": "Varejo (supermercados/atacado)",
+    "principal_produto": "Alimentos e produtos de consumo",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Rede de supermercados e atacado, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1087,
+    "dominio_efetivo": "orion.ind.br",
+    "empresa": "Orion Tecnologia e Sistemas Agrícolas",
+    "segmento": "Tecnologia agrícola (biológicos)",
+    "principal_produto": "Sistemas de aplicação de bioinsumos líquidos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fabrica equipamentos aplicadores de bioinsumos, mas o foco é tecnologia de aplicação biológica, não estruturas de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1088,
+    "dominio_efetivo": "coteminas.com.br",
+    "empresa": "Coteminas",
+    "segmento": "Têxtil",
+    "principal_produto": "Roupas de cama e banho",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante têxtil, não utiliza aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1089,
+    "dominio_efetivo": "ethos.ind.br",
+    "empresa": "Ethos Metalúrgica (Ethos Industrial)",
+    "segmento": "Metalurgia (corte, solda, pintura industrial)",
+    "principal_produto": "Cabines e peças metálicas para máquinas de construção, carenagens automotivas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de peças metálicas (cabines, carenagens) em aço carbono para máquinas de construção e automotivo",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1090,
+    "dominio_efetivo": "imep.ind.br",
+    "empresa": "IMEP",
+    "segmento": "Implementos agrícolas",
+    "principal_produto": "Pulverizadores, reboques-tanque e produtos rotomoldados",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fabrica implementos com chassi metálico (pulverizadores, reboques) além de produtos rotomoldados em plástico",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1091,
+    "dominio_efetivo": "mor.com.br",
+    "empresa": "Metalúrgica Mor",
+    "segmento": "Metalurgia (produtos para casa e lazer)",
+    "principal_produto": "Piscinas, cadeiras, churrasqueiras, varais e escadas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de produtos metálicos para casa e lazer, além de perfis extrudados de alumínio desde 2016",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1092,
+    "dominio_efetivo": "urba-brosol.com.br",
+    "empresa": "Urba-Brosol (AMP Indústria e Comércio de Peças Automotivas)",
+    "segmento": "Autopeças (bombas de motor)",
+    "principal_produto": "Bombas de combustível, óleo e água",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de bombas automotivas com componentes metálicos em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1093,
+    "dominio_efetivo": "marrucci.com.br",
+    "empresa": "Indústrias Marrucci",
+    "segmento": "Equipamentos hidráulicos/pneumáticos e fundição",
+    "principal_produto": "Bombas hidráulicas, válvulas, cilindros e fundidos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de equipamentos hidráulicos/pneumáticos com divisão própria de fundição em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1094,
+    "dominio_efetivo": "grupoiesa.com.br",
+    "empresa": "Grupo IESA",
+    "segmento": "Comércio automotivo (concessionárias)",
+    "principal_produto": "Venda de veículos (Volvo, BMW, Renault e outras marcas)",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Grupo de concessionárias automotivas, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1095,
+    "dominio_efetivo": "uliana.com.br",
+    "empresa": "Uliana Indústria Metalúrgica",
+    "segmento": "Autopeças (estamparia)",
+    "principal_produto": "Peças estampadas médias e reforços estruturais para carros e caminhões",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de peças estampadas e estruturas de reforço automotivas em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1096,
+    "dominio_efetivo": "engeteam.com",
+    "empresa": "Engeteam",
+    "segmento": "Automação industrial e robótica",
+    "principal_produto": "Equipamentos e sistemas de automação sob medida",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Constrói equipamentos e dispositivos especiais com estruturas metálicas para diversos setores, incluindo siderurgia",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1097,
+    "dominio_efetivo": "spani.com.br",
+    "empresa": "Spani Atacadista",
+    "segmento": "Varejo/atacado",
+    "principal_produto": "Alimentos e produtos de consumo",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Rede de atacado/varejo, não fabricante",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1098,
+    "dominio_efetivo": "vibraenergia.com.br",
+    "empresa": "Vibra Energia",
+    "segmento": "Distribuição de combustíveis",
+    "principal_produto": "Combustíveis e lubrificantes",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Distribuidora de combustíveis (ex-BR Distribuidora), não fabricante de aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1099,
+    "dominio_efetivo": "erbs.com.br",
+    "empresa": "Baterias Erbs",
+    "segmento": "Baterias automotivas",
+    "principal_produto": "Baterias chumbo-ácido",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de baterias chumbo-ácido, não utiliza aço carbono como insumo principal",
+    "fonte": "conhecimento setorial"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 1020,
+    "dominio_efetivo": "jomafer.com.br",
+    "empresa": "Jomafer",
+    "segmento": "Metalurgia (corte a laser/caldeiraria)",
+    "principal_produto": "Peças de chapa metálica cortadas/dobradas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Corte a laser, dobra e caldeiraria de chapas metálicas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1021,
+    "dominio_efetivo": "igeatel.com.br",
+    "empresa": "Igeatel",
+    "segmento": "Metalurgia (gabinetes/racks para telecom)",
+    "principal_produto": "Gabinetes e racks metálicos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Gabinetes/racks metálicos para telecom em aço carbono, inox ou alumínio",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1022,
+    "dominio_efetivo": "suzukimotos.com.br",
+    "empresa": "Suzuki Motos",
+    "segmento": "Comércio automotivo (motocicletas)",
+    "principal_produto": "Motocicletas Suzuki",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Concessionária/distribuidor de motocicletas, não fabricante",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1023,
+    "dominio_efetivo": "ingeteam.com",
+    "empresa": "Ingeteam",
+    "segmento": "Equipamentos elétricos industriais",
+    "principal_produto": "Motores, geradores e eletrônica de potência",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Fabricante de motores/geradores com carcaças metálicas; atende também o setor siderúrgico como cliente, mas não é fabricante de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1024,
+    "dominio_efetivo": "usimatic.com.br",
+    "empresa": "Usimatic",
+    "segmento": "Metalurgia (corte/dobra de chapas)",
+    "principal_produto": "Peças metálicas usinadas para automotivo/agrícola",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Corte e dobra a laser de chapas metálicas para automotivo e agrícola",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1025,
+    "dominio_efetivo": "minasligas.com.br",
+    "empresa": "Minasligas (Companhia Ferroligas Minas Gerais)",
+    "segmento": "Metalurgia (ferroligas)",
+    "principal_produto": "Ferro-silício, silício metálico, microssílica",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtor de ferroligas, insumo para a siderurgia; não é consumidor de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1026,
+    "dominio_efetivo": "gpcquimica.com.br",
+    "empresa": "GPC Química",
+    "segmento": "Químico",
+    "principal_produto": "Produtos químicos industriais",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de produtos químicos, não utiliza aço como insumo",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1027,
+    "dominio_efetivo": "neolider.net.br",
+    "empresa": "Neolider",
+    "segmento": "Distribuição de tubos e conexões",
+    "principal_produto": "Tubos de aço inox e aço carbono",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Distribuidor de tubos/conexões de aço, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1028,
+    "dominio_efetivo": "schefferlogistica.com.br",
+    "empresa": "Scheffer Logística e Automação",
+    "segmento": "Equipamentos de armazenagem/automação",
+    "principal_produto": "Sistemas automatizados de armazenagem",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de equipamentos de armazenagem e movimentação, estruturas em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1029,
+    "dominio_efetivo": "metalsider.com.br",
+    "empresa": "Metalsider",
+    "segmento": "Metalurgia (ferro-gusa)",
+    "principal_produto": "Ferro-gusa",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtor de ferro-gusa, insumo para siderurgia; fornece a usinas e não consome aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1030,
+    "dominio_efetivo": "llproducts.com",
+    "empresa": "L&L Products",
+    "segmento": "Químico (adesivos/reforços estruturais)",
+    "principal_produto": "Selantes e reforços estruturais compósitos automotivos",
+    "fabrica_brasil": "provavel",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de selantes e reforços compósitos apresentados como alternativa leve às estruturas metálicas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1031,
+    "dominio_efetivo": "fey.com.br",
+    "empresa": "Fey",
+    "segmento": "Fixadores (parafusos e porcas)",
+    "principal_produto": "Parafusos, porcas e abraçadeiras",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Um dos maiores fabricantes de fixadores do Brasil, produtos em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1032,
+    "dominio_efetivo": "simpress.com.br",
+    "empresa": "Simpress",
+    "segmento": "Serviços de impressão/gestão documental",
+    "principal_produto": "Outsourcing de impressão",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Empresa de serviços de impressão, não fabrica produtos metálicos",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1033,
+    "dominio_efetivo": "helibras.com.br",
+    "empresa": "Helibras",
+    "segmento": "Aeronáutico (helicópteros)",
+    "principal_produto": "Helicópteros",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Estrutura aeronáutica majoritariamente em alumínio/compósitos, com aço em componentes específicos",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1034,
+    "dominio_efetivo": "oxiteno.com.br",
+    "empresa": "Oxiteno",
+    "segmento": "Químico/petroquímico",
+    "principal_produto": "Tensoativos e especialidades químicas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de produtos petroquímicos, não consome aço como insumo produtivo",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1035,
+    "dominio_efetivo": "hitachiastemo.com",
+    "empresa": "Hitachi Astemo",
+    "segmento": "Autopeças",
+    "principal_produto": "Sistemas de suspensão, freios e componentes de motor",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de autopeças (suspensão, freios) tipicamente intensivas em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1036,
+    "dominio_efetivo": "benetec.ind.br",
+    "empresa": "Benetec Engenharia",
+    "segmento": "Equipamentos para extrusão de alumínio",
+    "principal_produto": "Máquinas e periféricos para linhas de extrusão de alumínio",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Equipamentos voltados para processamento de alumínio, não de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1037,
+    "dominio_efetivo": "torfresma.com",
+    "empresa": "Torfresma",
+    "segmento": "Equipamentos para indústria alimentícia",
+    "principal_produto": "Esteiras, mesas e elevadores metálicos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Equipamentos para indústria de alimentos costumam usar aço inox nas partes de contato, podendo usar aço carbono em estruturas",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1038,
+    "dominio_efetivo": "cronimet.com.br",
+    "empresa": "Cronimet Brasil",
+    "segmento": "Reciclagem de sucata metálica (inox/ferroligas)",
+    "principal_produto": "Sucata de aço inoxidável e ferroligas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Recicla e comercializa sucata de aço inoxidável e ferroligas, não aço carbono; não é fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1039,
+    "dominio_efetivo": "minervafoods.com",
+    "empresa": "Minerva Foods",
+    "segmento": "Alimentício (frigorífico)",
+    "principal_produto": "Carne bovina",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Frigorífico/processador de carne, não fabricante de aço",
+    "fonte": "conhecimento setorial"
+  }
+]

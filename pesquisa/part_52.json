@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 1040,
+    "dominio_efetivo": "nissin.com.br",
+    "empresa": "Nissin",
+    "segmento": "Alimentício",
+    "principal_produto": "Macarrão instantâneo",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de alimentos (macarrão instantâneo), não de aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1041,
+    "dominio_efetivo": "leoni.com",
+    "empresa": "Leoni",
+    "segmento": "Autopeças (chicotes elétricos)",
+    "principal_produto": "Cabos e chicotes elétricos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de cabos e chicotes elétricos (cobre/plástico), não de aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1042,
+    "dominio_efetivo": "iperfor.com.br",
+    "empresa": "Iperfor",
+    "segmento": "Forjaria automotiva",
+    "principal_produto": "Peças forjadas a quente",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Forjaria automotiva a quente, consumindo cerca de 14.000 toneladas de aço/ano",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1043,
+    "dominio_efetivo": "teadit.com",
+    "empresa": "Teadit",
+    "segmento": "Vedações industriais",
+    "principal_produto": "Juntas e gaxetas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Juntas metálicas/semi-metálicas podem usar aço carbono ou inox conforme aplicação",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1044,
+    "dominio_efetivo": "foseco.com",
+    "empresa": "Foseco",
+    "segmento": "Químico para fundição",
+    "principal_produto": "Consumíveis e insumos para fundição",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fornece insumos químicos para fundições, não é consumidor de aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1045,
+    "dominio_efetivo": "hfmetalurgica.com.br",
+    "empresa": "HF Metalúrgica e Fundidos",
+    "segmento": "Metalurgia/fundição",
+    "principal_produto": "Concertinas, grades e produtos de segurança em metal",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de concertinas, grades e itens de segurança em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1046,
+    "dominio_efetivo": "linshalm.com.br",
+    "empresa": "Carrocerias Linshalm",
+    "segmento": "Carrocerias (ônibus/caminhões)",
+    "principal_produto": "Carrocerias metálicas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de carrocerias metálicas para ônibus/caminhões, estrutura em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1047,
+    "dominio_efetivo": "sidertec.com.br",
+    "empresa": "Sidertec",
+    "segmento": "Estruturas metálicas",
+    "principal_produto": "Estruturas de aço para construção",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Engenharia, fabricação e montagem de estruturas metálicas de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1048,
+    "dominio_efetivo": "c3engenharia.com.br",
+    "empresa": "C3 Engenharia",
+    "segmento": "Serviços de engenharia industrial",
+    "principal_produto": "Manutenção, montagem e inspeção industrial",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Presta serviços de manutenção/montagem em estruturas e equipamentos de aço, não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1049,
+    "dominio_efetivo": "tanac.com.br",
+    "empresa": "Tanac",
+    "segmento": "Químico (extrato tanante)",
+    "principal_produto": "Tanino vegetal",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de extrato tanante vegetal para curtumes, não usa aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1050,
+    "dominio_efetivo": "sagrupo.com",
+    "empresa": "Sagrupo (Grupo SA)",
+    "segmento": "Estruturas metálicas (armazenagem)",
+    "principal_produto": "Gôndolas, porta-paletes e estantes de aço",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de estruturas de aço para armazenagem (gôndolas, porta-paletes)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1051,
+    "dominio_efetivo": "hubbell.com",
+    "empresa": "Hubbell",
+    "segmento": "Equipamentos elétricos",
+    "principal_produto": "Componentes e equipamentos elétricos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de equipamentos elétricos com gabinetes e ferragens em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1052,
+    "dominio_efetivo": "engetec.com",
+    "empresa": "Engetec",
+    "segmento": "Gerenciamento de projetos e obras",
+    "principal_produto": "Gestão de obras industriais e comerciais",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Gerencia obras que podem incluir estruturas metálicas, mas não é fabricante direto",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1053,
+    "dominio_efetivo": "autoglass.com.br",
+    "empresa": "Autoglass",
+    "segmento": "Serviços automotivos (vidros)",
+    "principal_produto": "Reparo e troca de vidros automotivos",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Rede de serviços de reparo/troca de para-brisas, não fabricante de aço",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1054,
+    "dominio_efetivo": "fischer.com.br",
+    "empresa": "fischer Brasil (fixação)",
+    "segmento": "Fixação para construção e indústria",
+    "principal_produto": "Buchas, parafusos e sistemas de fixação",
+    "fabrica_brasil": "provavel",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Multinacional de sistemas de fixação; parte dos produtos (parafusos/buchas metálicas) usa aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1055,
+    "dominio_efetivo": "wapmetal.com.br",
+    "empresa": "Wap Metal",
+    "segmento": "Metalurgia (estamparia/molas)",
+    "principal_produto": "Componentes metálicos estampados e molas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de estampados, molas e conjuntos metálicos para automotivo",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1056,
+    "dominio_efetivo": "cieautomotive.com",
+    "empresa": "CIE Automotive",
+    "segmento": "Autopeças (forjaria/estamparia)",
+    "principal_produto": "Componentes automotivos forjados/estampados",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Grupo global de forjaria/estamparia automotiva intensiva em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1057,
+    "dominio_efetivo": "zb.com.br",
+    "empresa": "Zanettini Barossi Indústria e Comércio",
+    "segmento": "Autopeças (estamparia/solda)",
+    "principal_produto": "Conjuntos estampados/soldados, mecanismos de limpador, fechaduras e dobradiças",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de conjuntos estampados e soldados em aço para automotivo",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1058,
+    "dominio_efetivo": "jonfra.com.br",
+    "empresa": "Jonfra",
+    "segmento": "Automação industrial",
+    "principal_produto": "Máquinas especiais e painéis elétricos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Estruturas/gabinetes de máquinas especiais e painéis elétricos em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1059,
+    "dominio_efetivo": "brafer.com.br",
+    "empresa": "Brafer Construções Metálicas",
+    "segmento": "Estruturas metálicas/caldeiraria pesada",
+    "principal_produto": "Estruturas de aço e caldeiraria pesada",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de estruturas metálicas e caldeiraria pesada desde 1976",
+    "fonte": "busca web"
+  }
+]

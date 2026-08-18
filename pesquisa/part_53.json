@@ -1,0 +1,222 @@
+[
+  {
+    "idx": 1060,
+    "dominio_efetivo": "bombasandrade.com.br",
+    "empresa": "Bombas Andrade",
+    "segmento": "Bombas e implementos rodoviários",
+    "principal_produto": "Bombas agrícolas, caminhões-tanque e implementos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de bombas e implementos rodoviários (caminhões-tanque, carrocerias) em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1061,
+    "dominio_efetivo": "baher.com.br",
+    "empresa": "Baher",
+    "segmento": "Máquinas e equipamentos industriais",
+    "principal_produto": "Máquinas industriais e mobiliário técnico",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de máquinas industriais, mobiliário técnico e equipamentos de corte em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1062,
+    "dominio_efetivo": "solarminas.com.br",
+    "empresa": "Solar Minas",
+    "segmento": "Energia solar (aquecimento)",
+    "principal_produto": "Aquecedores solares",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de aquecedores solares de água, não é consumidor relevante de aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1063,
+    "dominio_efetivo": "andeli.com.br",
+    "empresa": "Andeli Indústria e Comércio",
+    "segmento": "Autopeças",
+    "principal_produto": "Peças e acessórios automotivos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de peças e acessórios automotivos, setor tipicamente em aço carbono; nome coincide com múltiplas empresas, resolvido pela mais antiga e estabelecida como industrial",
+    "fonte": "busca web (inferência - domínio não confirmado de forma exclusiva)"
+  },
+  {
+    "idx": 1064,
+    "dominio_efetivo": "cemag.com.br",
+    "empresa": "Cemag",
+    "segmento": "Implementos agrícolas",
+    "principal_produto": "Carretas e implementos agrícolas",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante tradicional de implementos agrícolas e carretas em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1065,
+    "dominio_efetivo": "novabusscar.com.br",
+    "empresa": "Nova Busscar (Carbuss/Grupo CAIO)",
+    "segmento": "Carrocerias de ônibus",
+    "principal_produto": "Carrocerias de ônibus",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Um dos maiores fabricantes de carrocerias de ônibus do Brasil, estrutura em aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1066,
+    "dominio_efetivo": "conceptbesafe.com.br",
+    "empresa": "Concept Be Safe",
+    "segmento": "Blindagem automotiva",
+    "principal_produto": "Veículos blindados",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Usa aço balístico em pontos estratégicos da blindagem, mas cada vez mais substitui por materiais compósitos leves (Tensylon)",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1067,
+    "dominio_efetivo": "vibtech.com.br",
+    "empresa": "Vib-Tech Industrial (Vibtech)",
+    "segmento": "Isolamento de vibração e acústica",
+    "principal_produto": "Amortecedores e isoladores de vibração",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Produtos majoritariamente elastoméricos (borracha) para isolamento de vibração, não fabricante de estruturas de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1068,
+    "dominio_efetivo": "metalurgicacardoso.com.br",
+    "empresa": "Metalúrgica Cardoso",
+    "segmento": "Estruturas metálicas",
+    "principal_produto": "Fôrmas deslizantes, escadas modulares, estruturas de aço",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de estruturas metálicas, fôrmas deslizantes e escadas modulares em aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1069,
+    "dominio_efetivo": "isoplastic.com.br",
+    "empresa": "Isoplastic",
+    "segmento": "Plásticos",
+    "principal_produto": "Embalagens/produtos plásticos",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Nome e segmento indicam fabricação de produtos plásticos, não de aço",
+    "fonte": "conhecimento setorial (nome indicativo)"
+  },
+  {
+    "idx": 1070,
+    "dominio_efetivo": "kabum.com.br",
+    "empresa": "KaBuM!",
+    "segmento": "Varejo eletrônico (e-commerce)",
+    "principal_produto": "Produtos de tecnologia e games",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "E-commerce de produtos de tecnologia, não fabricante",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1071,
+    "dominio_efetivo": "plasson.com.br",
+    "empresa": "Plasson",
+    "segmento": "Conexões plásticas",
+    "principal_produto": "Conexões e acessórios plásticos para irrigação/água",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de conexões e acessórios plásticos, não usa aço carbono",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1072,
+    "dominio_efetivo": "joetec.ind.br",
+    "empresa": "Joetec",
+    "segmento": "Equipamentos e montagem industrial",
+    "principal_produto": "Transportadores, tanques e plataformas industriais",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de equipamentos industriais (transportadores, tanques, plataformas) em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1073,
+    "dominio_efetivo": "bouwman.com.br",
+    "empresa": "Bouwman Livestock & Agriculture",
+    "segmento": "Comércio/distribuição de máquinas agrícolas",
+    "principal_produto": "Máquinas para pecuária e agricultura de precisão",
+    "fabrica_brasil": "nao",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Representante/distribuidor exclusivo de marcas internacionais (Krone, Triolet, Joskin, Manitou), não fabricante",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1074,
+    "dominio_efetivo": "ulmapackaging.com.br",
+    "empresa": "ULMA Packaging Brasil",
+    "segmento": "Máquinas de embalagem",
+    "principal_produto": "Máquinas embaladoras",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de máquinas de embalagem, estrutura em aço carbono/inox",
+    "fonte": "conhecimento setorial"
+  },
+  {
+    "idx": 1075,
+    "dominio_efetivo": "paranoa.com.br",
+    "empresa": "Paranoá Indústria de Borracha",
+    "segmento": "Borracha automotiva",
+    "principal_produto": "Mangueiras e compostos de borracha",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "nao",
+    "justificativa_aco": "Fabricante de mangueiras e compostos de borracha para automotivo, não usa aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1076,
+    "dominio_efetivo": "utc.com.br",
+    "empresa": "UTC Engenharia",
+    "segmento": "Engenharia e montagem industrial (EPC)",
+    "principal_produto": "Montagem de estruturas metálicas e obras industriais",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Monta estruturas metálicas em grandes obras industriais (óleo e gás, siderurgia), mas não é fabricante de aço",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1077,
+    "dominio_efetivo": "ibea.com.br",
+    "empresa": null,
+    "segmento": null,
+    "principal_produto": null,
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "indefinido",
+    "justificativa_aco": null,
+    "fonte": "busca web (inconclusivo)"
+  },
+  {
+    "idx": 1078,
+    "dominio_efetivo": "metalurgicabosch.com.br",
+    "empresa": "Metalúrgica Industrial Bosch",
+    "segmento": "Caldeiraria pesada",
+    "principal_produto": "Tanques, reservatórios e caldeiras",
+    "fabrica_brasil": "sim",
+    "usa_aco_carbono": "sim",
+    "justificativa_aco": "Fabricante de caldeiraria pesada, tanques e reservatórios em aço carbono",
+    "fonte": "busca web"
+  },
+  {
+    "idx": 1079,
+    "dominio_efetivo": "csimontagens.com.br",
+    "empresa": "CSI Montagens Industriais",
+    "segmento": "Montagens industriais",
+    "principal_produto": "Montagens eletromecânicas e filtração industrial",
+    "fabrica_brasil": null,
+    "usa_aco_carbono": "provavel",
+    "justificativa_aco": "Presta serviços de montagem eletromecânica e industrial envolvendo estruturas de aço, não fabricante",
+    "fonte": "busca web"
+  }
+]

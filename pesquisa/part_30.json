@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 600,
+  "dominio_efetivo": "pucpr.br",
+  "empresa": "PUC-PR",
+  "segmento": "Educação (universidade)",
+  "principal_produto": "Ensino superior e pesquisa",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Instituição de ensino, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 601,
+  "dominio_efetivo": "copecar.com.br",
+  "empresa": "Copecar",
+  "segmento": "Peças e soluções hidráulicas para máquinas agrícolas",
+  "principal_produto": "Peças agrícolas e componentes hidráulicos",
+  "fabrica_brasil": "Ribeirão Preto/SP, Rio Verde/GO",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação e comércio de peças metálicas para máquinas agrícolas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 602,
+  "dominio_efetivo": "infratel.com.br",
+  "empresa": "Infratel",
+  "segmento": "Estruturas metálicas para telecomunicações",
+  "principal_produto": "Torres, containers e gabinetes metálicos para telecom",
+  "fabrica_brasil": "Pinhais/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de estruturas metálicas autoportantes para antenas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 603,
+  "dominio_efetivo": "diase.com.br",
+  "empresa": "Diase Construtora",
+  "segmento": "Construção civil (sistema Tilt-Up)",
+  "principal_produto": "Galpões, centros de distribuição e indústrias em concreto pré-moldado",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Construtora; usa armadura de aço no concreto, mas não é fabricante metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 604,
+  "dominio_efetivo": "gruposervopa.com",
+  "empresa": "Grupo Servopa",
+  "segmento": "Concessionárias multimarcas de veículos",
+  "principal_produto": "Venda de automóveis, motos e consórcio (Audi, Hyundai, Honda etc.)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de concessionárias, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 605,
+  "dominio_efetivo": "instruval.net",
+  "empresa": "BRC - Berço Revest-Car",
+  "segmento": "Interiores e revestimentos para caminhões",
+  "principal_produto": "Sistemas de leito/revestimento interno de cabines de caminhão",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Produto majoritariamente têxtil/espuma; possível estrutura metálica de suporte",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 606,
+  "dominio_efetivo": "corsan.com.br",
+  "empresa": "Corsan",
+  "segmento": "Saneamento básico (água e esgoto)",
+  "principal_produto": "Abastecimento de água e coleta de esgoto",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Companhia estadual de saneamento (RS), não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 607,
+  "dominio_efetivo": "markem-imaje.com",
+  "empresa": "Markem-Imaje",
+  "segmento": "Codificação e marcação industrial",
+  "principal_produto": "Impressoras e sistemas de codificação de embalagens",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Equipamentos de marcação, não estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 608,
+  "dominio_efetivo": "alberflex.com.br",
+  "empresa": "Alberflex",
+  "segmento": "Móveis de escritório",
+  "principal_produto": "Cadeiras, mesas, armários e estações de trabalho",
+  "fabrica_brasil": "Sorocaba/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Estruturas de cadeiras e mesas de escritório frequentemente usam aço tubular",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 609,
+  "dominio_efetivo": "pisani.com.br",
+  "empresa": "Pisani",
+  "segmento": "Embalagens plásticas retornáveis",
+  "principal_produto": "Caixas plásticas para bebidas, alimentos e peças automotivas",
+  "fabrica_brasil": "Caxias do Sul/RS, Pindamonhangaba/SP, Recife/PE",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é plástico injetado",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 610,
+  "dominio_efetivo": "grupomascarello.com.br",
+  "empresa": "Mascarello Carrocerias e Ônibus",
+  "segmento": "Fabricante de ônibus e carrocerias",
+  "principal_produto": "Ônibus intermunicipais, urbanos, micro e miniônibus",
+  "fabrica_brasil": "Cascavel/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura da carroceria de ônibus construída em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 611,
+  "dominio_efetivo": "calleve.com.br",
+  "empresa": "Cal Leve",
+  "segmento": "Equipamentos para transporte rodoviário e resíduos",
+  "principal_produto": "Roll on-roll off, contêineres estacionários, caçambas e compactadores",
+  "fabrica_brasil": "São José dos Campos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de transporte e movimentação fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 612,
+  "dominio_efetivo": "dalcomad.com.br",
+  "empresa": "Dalcomad (Dalgallo Comércio de Madeiras)",
+  "segmento": "Portas, compensados e rodapés de madeira",
+  "principal_produto": "Portas de madeira, compensados navais e multilaminados",
+  "fabrica_brasil": "Bituruna/PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é madeira, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 613,
+  "dominio_efetivo": "advaltech.com",
+  "empresa": "Adval Tech do Brasil",
+  "segmento": "Autopeças estampadas",
+  "principal_produto": "Componentes estampados em metal de alto volume",
+  "fabrica_brasil": "São José dos Pinhais/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia automotiva de componentes metálicos de alta complexidade",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 614,
+  "dominio_efetivo": "villaresmetals.com.br",
+  "empresa": "Villares Metals (Aperam)",
+  "segmento": "Aços especiais",
+  "principal_produto": "Aços ferramenta, aços inoxidáveis e superligas",
+  "fabrica_brasil": "Sumaré/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Um dos maiores produtores de aços especiais da América Latina",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 615,
+  "dominio_efetivo": "balmak.com.br",
+  "empresa": "Balmak",
+  "segmento": "Balanças e equipamentos de pesagem",
+  "principal_produto": "Balanças industriais, rodoviárias e de pesagem",
+  "fabrica_brasil": "Santa Bárbara d'Oeste/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas e plataformas de balanças fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 616,
+  "dominio_efetivo": "gruponovobrasil.com.br",
+  "empresa": "Grupo Novo Brasil",
+  "segmento": "Equipamentos de prevenção e combate a incêndio",
+  "principal_produto": "Caixas de hidrante, sinalização e equipamentos contra incêndio",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caixas de hidrante fabricadas em chapa metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 617,
+  "dominio_efetivo": "inroda.com.br",
+  "empresa": "Inroda",
+  "segmento": "Implementos agrícolas",
+  "principal_produto": "Roçadeiras, arados, grades e subsoladores",
+  "fabrica_brasil": "Avaré/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos de preparo de solo fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 618,
+  "dominio_efetivo": "gruponew.com",
+  "empresa": "Grupo New",
+  "segmento": "Concessionárias multimarcas de veículos",
+  "principal_produto": "Venda de veículos (Toyota, Mercedes-Benz, Porsche, GWM etc.)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de concessionárias, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 619,
+  "dominio_efetivo": "caloi.com",
+  "empresa": "Caloi",
+  "segmento": "Bicicletas",
+  "principal_produto": "Bicicletas urbanas, mountain bike e speed",
+  "fabrica_brasil": "Manaus/AM",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Quadros de bicicleta popular tradicionalmente fabricados em aço",
+  "fonte": "conhecimento setorial"
+ }
+]

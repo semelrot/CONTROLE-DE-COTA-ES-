@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 640,
+  "dominio_efetivo": "comercialivaipora.com.br",
+  "empresa": "Comercial Ivaiporã",
+  "segmento": "Varejo de materiais de construção",
+  "principal_produto": "Materiais de construção e acabamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede varejista, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 641,
+  "dominio_efetivo": "innova.com.br",
+  "empresa": "Innova",
+  "segmento": "Petroquímica (estirênicos)",
+  "principal_produto": "Estireno, poliestireno e derivados petroquímicos",
+  "fabrica_brasil": "Triunfo/RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria petroquímica, não consumidora de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 642,
+  "dominio_efetivo": "airbus.com",
+  "empresa": "Airbus",
+  "segmento": "Aeroespacial",
+  "principal_produto": "Aeronaves comerciais e militares",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de alumínio e compósitos; aço usado em trens de pouso e algumas peças estruturais",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 643,
+  "dominio_efetivo": "troya.ind.br",
+  "empresa": "Troya (Grupo Akaer)",
+  "segmento": "Ferramental para aeroespacial e defesa",
+  "principal_produto": "Ferramental, dispositivos e projetos para Embraer, Boeing, Airbus",
+  "fabrica_brasil": "São José dos Campos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de ferramental/moldes tipicamente em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 644,
+  "dominio_efetivo": "papirus.com",
+  "empresa": "Papirus Indústria de Papel",
+  "segmento": "Papel-cartão para embalagens",
+  "principal_produto": "Papelcartão duplex/triplex para embalagens de alimentos, cosméticos e farmacêuticos",
+  "fabrica_brasil": "Salto/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de papel e celulose, não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 645,
+  "dominio_efetivo": "lubraco.com.br",
+  "empresa": "Lubraço Comercial e Distribuidora",
+  "segmento": "Distribuição de lubrificantes e peças agrícolas",
+  "principal_produto": "Óleos, graxas e peças para máquinas agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/atacadista, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 646,
+  "dominio_efetivo": "insertec.biz",
+  "empresa": "Insertec Refratários do Brasil",
+  "segmento": "Materiais refratários cerâmicos",
+  "principal_produto": "Refratários para fornos industriais e siderúrgicos",
+  "fabrica_brasil": "Piracicaba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é cerâmica refratária; fornece à cadeia siderúrgica mas não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 647,
+  "dominio_efetivo": "liess.ind.br",
+  "empresa": "Liess Máquinas e Equipamentos",
+  "segmento": "Equipamentos para indústria de bebidas",
+  "principal_produto": "Tanques, sistemas de resfriamento e equipamentos para cervejarias",
+  "fabrica_brasil": "Canoas/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Sistema Pillow Plate soldado a laser em chapas de aço inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 648,
+  "dominio_efetivo": "precolandia.com.br",
+  "empresa": "Preçolandia",
+  "segmento": "Varejo de utilidades domésticas",
+  "principal_produto": "Eletrodomésticos, cama, mesa e banho, utilidades domésticas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede varejista, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 649,
+  "dominio_efetivo": "transmiservice.com.br",
+  "empresa": "Transmiservice",
+  "segmento": "Manutenção de redutores e transmissões industriais",
+  "principal_produto": "Serviços de manutenção de caixas de engrenagem industriais",
+  "fabrica_brasil": "Sertãozinho/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Presta serviço sobre componentes de aço (engrenagens), mas não é fabricante primário",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 650,
+  "dominio_efetivo": "netsite.com",
+  "empresa": "Contel (Comercial e Industrial de Materiais Elétricos)",
+  "segmento": "Estamparia metálica para material elétrico",
+  "principal_produto": "Artefatos metálicos estampados",
+  "fabrica_brasil": "Ribeirão Preto/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Atividade principal é produção de artefatos de metal estampado (CNAE 2532-2/01)",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 651,
+  "dominio_efetivo": "belacci.com.br",
+  "empresa": "Belacci Corporative Design",
+  "segmento": "Móveis corporativos",
+  "principal_produto": "Mobiliário corporativo predominantemente em madeira",
+  "fabrica_brasil": "Caçapava/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Móveis predominam em madeira; estrutura de aço pode estar presente em itens específicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 652,
+  "dominio_efetivo": "telefonica.com.br",
+  "empresa": "Telefônica/GVT",
+  "segmento": "Telecomunicações",
+  "principal_produto": "Telefonia, banda larga e TV por assinatura",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de telecomunicações, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 653,
+  "dominio_efetivo": "maquinaspinheiro.com.br",
+  "empresa": "Máquinas Pinheiro",
+  "segmento": "Máquinas agrícolas",
+  "principal_produto": "Ensiladeiras, colhedeiras forrageiras e vagões forrageiros",
+  "fabrica_brasil": "Itapira/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas agrícolas de grande porte fabricadas em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 654,
+  "dominio_efetivo": "hulter.com.br",
+  "empresa": "Hulter",
+  "segmento": "Peças metal-mecânicas para refrigeração e climatização",
+  "principal_produto": "Suportes de ar-condicionado, peças para geladeiras e ferramentas",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processos de estampagem, corte e conformação metálica em sua produção",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 655,
+  "dominio_efetivo": "altoalegre.com.br",
+  "empresa": "Usina Alto Alegre",
+  "segmento": "Açúcar e etanol",
+  "principal_produto": "Açúcar cristal/refinado, etanol e cogeração de energia",
+  "fabrica_brasil": "Presidente Prudente/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 656,
+  "dominio_efetivo": "lindsay.com",
+  "empresa": "Lindsay Corporation",
+  "segmento": "Irrigação agrícola",
+  "principal_produto": "Pivôs centrais de irrigação (marca Zimmatic)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de pivô central fabricadas em tubos de aço galvanizado",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 657,
+  "dominio_efetivo": "colgate.com.br",
+  "empresa": "Colgate-Palmolive",
+  "segmento": "Bens de consumo (higiene e limpeza)",
+  "principal_produto": "Cremes dentais, sabonetes e produtos de limpeza",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de bens de consumo, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 658,
+  "dominio_efetivo": "americar.ind.br",
+  "empresa": "Americar Equipamentos",
+  "segmento": "Equipamentos de movimentação de materiais (arames)",
+  "principal_produto": "Carrinhos de supermercado, gaiolas e rodízios",
+  "fabrica_brasil": "Santo Antônio de Posse/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Especializada em artigos de arame de aço para movimentação de carga",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 659,
+  "dominio_efetivo": "demape.com.br",
+  "empresa": "Demape",
+  "segmento": "Iluminação LED e transformadores",
+  "principal_produto": "Luminárias LED, reatores e autotransformadores",
+  "fabrica_brasil": "Itatiba/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Carcaças de luminárias e transformadores em chapa metálica; produto central é eletrônico",
+  "fonte": "busca web"
+ }
+]

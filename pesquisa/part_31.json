@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 620,
+  "dominio_efetivo": "helibombas.com.br",
+  "empresa": "Helibombas",
+  "segmento": "Bombas industriais",
+  "principal_produto": "Bombas helicoidais, motobombas anfíbias e aeradores",
+  "fabrica_brasil": "Araraquara/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Rotor helicoidal de aço é componente central das bombas Geremia",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 621,
+  "dominio_efetivo": "neosteel.com.br",
+  "empresa": "Neosteel",
+  "segmento": "Estamparia metálica automotiva",
+  "principal_produto": "Estruturas de banco automotivo estampadas e soldadas",
+  "fabrica_brasil": "São Joaquim de Bicas/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Indústria de produtos estampados em aço para automotivo, linha branca e construção",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 622,
+  "dominio_efetivo": "schiffer.com.br",
+  "empresa": "Metalúrgica Schiffer",
+  "segmento": "Implementos rodoviários e máquinas para serraria",
+  "principal_produto": "Semirreboques, carretas e máquinas para madeira",
+  "fabrica_brasil": "Ponta Grossa/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de peças em ferro fundido e aço para carretas e máquinas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 623,
+  "dominio_efetivo": "ngmetalurgica.com.br",
+  "empresa": "NG Metalúrgica",
+  "segmento": "Bens de capital sob encomenda",
+  "principal_produto": "Turbinas a vapor, painéis de controle e plantas industriais",
+  "fabrica_brasil": "Piracicaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Complexo industrial com oficinas de chapa de aço e mecânica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 624,
+  "dominio_efetivo": "rech.com",
+  "empresa": "Grupo Rech",
+  "segmento": "Distribuição de peças para máquinas pesadas e agrícolas",
+  "principal_produto": "Peças de reposição (Caterpillar, John Deere, Case, Volvo etc.)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/varejista de peças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 625,
+  "dominio_efetivo": "carbonblindados.com.br",
+  "empresa": "Carbon Blindados",
+  "segmento": "Blindagem de veículos civis",
+  "principal_produto": "Blindagem veicular com fibra de aramida (Kevlar)",
+  "fabrica_brasil": "Várias plantas, mais de 70.000 m²",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Material principal é Kevlar/fibra de aramida; possíveis reforços pontuais em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 626,
+  "dominio_efetivo": "gromos.com.br",
+  "empresa": "Gromos Elevadores",
+  "segmento": "Elevadores e transporte vertical",
+  "principal_produto": "Elevadores residenciais, comerciais e industriais",
+  "fabrica_brasil": "Limeira/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cabines e estruturas de elevadores fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 627,
+  "dominio_efetivo": "hondalock.com.br",
+  "empresa": "Honda Lock do Brasil",
+  "segmento": "Fechaduras e chaves automotivas",
+  "principal_produto": "Fechaduras, cilindros e chaves para veículos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes pequenos de fechadura em aço/latão, escala menor que estrutural",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 628,
+  "dominio_efetivo": "marinilatinamerica.com",
+  "empresa": "Marini Latin America (Fayat Group)",
+  "segmento": "Equipamentos de pavimentação asfáltica",
+  "principal_produto": "Usinas de asfalto",
+  "fabrica_brasil": "Cachoeirinha/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usinas de asfalto são equipamentos pesados fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 629,
+  "dominio_efetivo": "comercialradi.com.br",
+  "empresa": "Radi Ind. e Com. de Materiais Industriais",
+  "segmento": "Válvulas e conexões industriais",
+  "principal_produto": "Válvulas borboleta, gaveta, globo e flanges em ferro e aço",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de válvulas e conexões em ferro e aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 630,
+  "dominio_efetivo": "yoki.com.br",
+  "empresa": "Yoki",
+  "segmento": "Alimentos industrializados",
+  "principal_produto": "Temperos, salgadinhos, doces e produtos de milho",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria alimentícia, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 631,
+  "dominio_efetivo": "venanciometal.com.br",
+  "empresa": "Venâncio Metal",
+  "segmento": "Equipamentos para cozinha industrial e foodservice",
+  "principal_produto": "Fogões, fornos, fritadeiras e balcões em aço inox",
+  "fabrica_brasil": "Venâncio Aires/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de cozinha industrial fabricados em chapa de aço inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 632,
+  "dominio_efetivo": "gratt.com.br",
+  "empresa": "Gratt Indústria e Tecnologia Ambiental",
+  "segmento": "Equipamentos para tratamento ambiental/industrial",
+  "principal_produto": "Decantadores centrífugos, secadores e flotadores",
+  "fabrica_brasil": "Capinzal/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos industriais de grande porte fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 633,
+  "dominio_efetivo": "driveway.com.br",
+  "empresa": "Driveway",
+  "segmento": "Autopeças de suspensão e direção",
+  "principal_produto": "Barras de direção, pivôs de suspensão e terminais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes forjados/usinados em aço para sistemas de suspensão e direção",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 634,
+  "dominio_efetivo": "suzuki.ind.br",
+  "empresa": "Suzuki",
+  "segmento": "Montadora de motocicletas e veículos",
+  "principal_produto": "Motocicletas e automóveis Suzuki",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Chassi e componentes estruturais de motos/veículos fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 635,
+  "dominio_efetivo": "hydrostec.com.br",
+  "empresa": "Hydrostec Tecnologia e Equipamentos",
+  "segmento": "Equipamentos hidromecânicos para infraestrutura hídrica",
+  "principal_produto": "Comportas, válvulas, cilindros hidráulicos e equipamentos de içamento",
+  "fabrica_brasil": "Taubaté/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos hidromecânicos de grande porte fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 636,
+  "dominio_efetivo": "fst.com",
+  "empresa": "Freudenberg Sealing Technologies",
+  "segmento": "Vedações industriais e automotivas",
+  "principal_produto": "Retentores, juntas e vedações de borracha/polímero",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é borracha/polímero, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 637,
+  "dominio_efetivo": "purem.com",
+  "empresa": "Purem (Eberspächer)",
+  "segmento": "Sistemas de escape automotivo",
+  "principal_produto": "Sistemas de escape e pós-tratamento de gases",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Sistemas de escape fabricados em aço inoxidável/carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 638,
+  "dominio_efetivo": "saamtowage.com",
+  "empresa": "SAAM Towage",
+  "segmento": "Reboque marítimo (rebocadores)",
+  "principal_produto": "Serviços de rebocagem portuária",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de serviços marítimos, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 639,
+  "dominio_efetivo": "jofege.com.br",
+  "empresa": "Grupo Jofege",
+  "segmento": "Materiais de construção e têxtil",
+  "principal_produto": "Argamassa, concreto, cimento e produtos têxteis",
+  "fabrica_brasil": "Nova Odessa/SP (têxtil), várias unidades",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Negócios em concreto/cimento e têxtil, não fabricação de aço",
+  "fonte": "busca web"
+ }
+]

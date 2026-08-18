@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 681,
+  "dominio_efetivo": "globus.com.br",
+  "empresa": "Globus Electronics",
+  "segmento": "Eletrônica para automação veicular",
+  "principal_produto": "Controladores eletrônicos para veículos pesados, ônibus e agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônica embarcada, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 682,
+  "dominio_efetivo": "ferrari.com",
+  "empresa": "Ferrari",
+  "segmento": "Automóveis esportivos de luxo",
+  "principal_produto": "Automóveis esportivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Chassi combina aço, alumínio e fibra de carbono conforme o modelo; campo 'empresa' original (CPFL) diverge do domínio ferrari.com, tratado pelo domínio",
+  "fonte": "conhecimento setorial (discrepância no campo empresa)"
+ },
+ {
+  "idx": 683,
+  "dominio_efetivo": "kostal.com",
+  "empresa": "Kostal",
+  "segmento": "Eletrônica e mecatrônica automotiva",
+  "principal_produto": "Módulos eletrônicos, conectores e sistemas de controle automotivo",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de eletrônica/plástico; carcaças e conectores metálicos em menor proporção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 684,
+  "dominio_efetivo": "fasternet.com.br",
+  "empresa": "FasterNet",
+  "segmento": "Provedor de internet/telecomunicações",
+  "principal_produto": "Serviços de internet e telecomunicações",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Apesar do nome sugerir fixadores, é provedor de internet; não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 685,
+  "dominio_efetivo": "nortel.com.br",
+  "empresa": "Nortel (Sonepar)",
+  "segmento": "Distribuição de materiais elétricos e suprimentos industriais",
+  "principal_produto": "Materiais elétricos, ferramentas, EPIs e MRO",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de suprimentos (MRO), não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 686,
+  "dominio_efetivo": "cedae.com.br",
+  "empresa": "Cedae",
+  "segmento": "Saneamento básico (água e esgoto)",
+  "principal_produto": "Abastecimento de água e coleta de esgoto no Rio de Janeiro",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Companhia estadual de saneamento, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 687,
+  "dominio_efetivo": "trimetais.com.br",
+  "empresa": "Trimetais Indústria Metalúrgica",
+  "segmento": "Corte e conformação de chapas de aço",
+  "principal_produto": "Corte a laser, oxicorte, plasma e caldeiraria em aço 1020/1045/A36",
+  "fabrica_brasil": "Araucária/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Serviços de corte e conformação diretamente sobre chapas de aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 688,
+  "dominio_efetivo": "vopak.com",
+  "empresa": "Vopak",
+  "segmento": "Armazenagem de granéis líquidos (terminais tanque)",
+  "principal_produto": "Armazenamento e movimentação de químicos e combustíveis",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de terminais de armazenagem, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 689,
+  "dominio_efetivo": "norma.ind.br",
+  "empresa": "NORMA Group",
+  "segmento": "Conexões e braçadeiras para fluidos automotivos",
+  "principal_produto": "Braçadeiras, conectores e sistemas de conexão de fluidos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Braçadeiras e conectores fabricados em aço inoxidável/carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 690,
+  "dominio_efetivo": "sufran.com.br",
+  "empresa": "Susin Francescutti (Sufran)",
+  "segmento": "Componentes para motores a combustão",
+  "principal_produto": "Virabrequins e comandos de válvulas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Virabrequins forjados em aço para Ford, VW, Volvo, Scania e outros",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 691,
+  "dominio_efetivo": "lemasa.com.br",
+  "empresa": "Lemasa (Comet Group)",
+  "segmento": "Equipamentos de alta pressão (hidrojateamento)",
+  "principal_produto": "Bombas e acessórios de alta/ultra pressão",
+  "fabrica_brasil": "Indaiatuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Bombas de alta pressão fabricadas em aço de alta resistência",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 692,
+  "dominio_efetivo": "conexled.com.br",
+  "empresa": "Conexled",
+  "segmento": "Iluminação LED",
+  "principal_produto": "Luminárias e produtos de iluminação LED",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônico/iluminação, não estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 693,
+  "dominio_efetivo": "copaenergia.com.br",
+  "empresa": "Copa Energia",
+  "segmento": "Distribuição de GLP e energia",
+  "principal_produto": "Gás liquefeito de petróleo (GLP) e soluções energéticas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de gás, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 694,
+  "dominio_efetivo": "refrio.com.br",
+  "empresa": "Refrio (Armazéns Gerais Frigorífico)",
+  "segmento": "Armazenagem e logística de frio",
+  "principal_produto": "Armazenagem e distribuição de produtos resfriados/congelados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora logística de frio, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 695,
+  "dominio_efetivo": "rsceng.com.br",
+  "empresa": "RSC Soluções",
+  "segmento": "Automação para o setor sucroenergético",
+  "principal_produto": "Sistemas de dosagem automatizada de fertilizantes e vinhaça",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabrica painéis e sistemas de automação; não é fabricante metalúrgico central",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 696,
+  "dominio_efetivo": "engecall.com.br",
+  "empresa": "Engecall",
+  "segmento": "Caldeiraria e estruturas metálicas industriais",
+  "principal_produto": "Silos, tanques, reservatórios e estruturas metálicas em aço",
+  "fabrica_brasil": "Sorocaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de estruturas metálicas, silos e tanques em diversos tipos de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 697,
+  "dominio_efetivo": "nelsongp.com",
+  "empresa": "Nelson Global (Nelson Stud Welding)",
+  "segmento": "Solda de pinos (stud welding) e fixação metálica",
+  "principal_produto": "Sistemas de solda de pinos para produtos de aço e alumínio",
+  "fabrica_brasil": "Araucária/PR, Santa Rosa/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processo de fixação por solda voltado à fabricação de produtos em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 698,
+  "dominio_efetivo": "ricalusinagem.com.br",
+  "empresa": "Rical Usinagem",
+  "segmento": "Usinagem de peças metálicas",
+  "principal_produto": "Peças usinadas sob encomenda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usinagem de peças metálicas (aço) conforme indicado pelo próprio nome/atividade",
+  "fonte": "conhecimento setorial (nome indicativo do segmento)"
+ },
+ {
+  "idx": 699,
+  "dominio_efetivo": "grupofornecedora.com.br",
+  "empresa": "Grupo Fornecedora",
+  "segmento": "Concessionária de máquinas e caminhões",
+  "principal_produto": "Venda e locação de caminhões e máquinas (CASE, DAF, New Holland)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionária/revenda de equipamentos, não fabricante",
+  "fonte": "busca web"
+ }
+]

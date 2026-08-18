@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 660,
+  "dominio_efetivo": "abrascort.com.br",
+  "empresa": "Grupo Abrascort",
+  "segmento": "Distribuição de correntes e peças de transmissão",
+  "principal_produto": "Correntes, rolamentos, correias e componentes de transmissão",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/importador de peças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 661,
+  "dominio_efetivo": "semeato.com.br",
+  "empresa": "Semeato",
+  "segmento": "Máquinas agrícolas (plantio)",
+  "principal_produto": "Semeadoras e plantadeiras",
+  "fabrica_brasil": "Passo Fundo/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante tradicional de semeadoras em estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 662,
+  "dominio_efetivo": "ciser.com.br",
+  "empresa": "Ciser",
+  "segmento": "Parafusos e fixadores",
+  "principal_produto": "Parafusos, porcas e fixadores industriais",
+  "fabrica_brasil": "Joinville/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante de fixadores da América Latina, em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 663,
+  "dominio_efetivo": "centerparts.com.br",
+  "empresa": "Centerparts",
+  "segmento": "Distribuição de acabamentos automotivos",
+  "principal_produto": "Acabamentos, iluminação e acessórios automotivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 664,
+  "dominio_efetivo": "docol.com.br",
+  "empresa": "Docol",
+  "segmento": "Metais sanitários",
+  "principal_produto": "Torneiras, misturadores, válvulas e registros",
+  "fabrica_brasil": "Joinville/SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos em latão/zamac, não aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 666,
+  "dominio_efetivo": "gwmmotors.com.br",
+  "empresa": "GWM Brasil (Great Wall Motors)",
+  "segmento": "Montadora de veículos",
+  "principal_produto": "Automóveis híbridos e elétricos",
+  "fabrica_brasil": "Iracemápolis/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia e solda de carroceria em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 667,
+  "dominio_efetivo": "adezan.com.br",
+  "empresa": "Adezan",
+  "segmento": "Embalagens industriais sob medida",
+  "principal_produto": "Caixas e paletes de madeira/aço (linha SteelCap para vidro plano)",
+  "fabrica_brasil": "Caçapava/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Embalagens predominantemente de madeira; linha SteelCap usa estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 668,
+  "dominio_efetivo": "quinelatofreios.com.br",
+  "empresa": "Quinelato",
+  "segmento": "Peças de freio automotivo",
+  "principal_produto": "Cilindros mestres, pinças e componentes de freio",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de sistema de freio fabricados em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 669,
+  "dominio_efetivo": "superbuy.com.br",
+  "empresa": "SuperBuy (SIC Serviços de Compras)",
+  "segmento": "Marketplace B2B de compras industriais",
+  "principal_produto": "Plataforma de intermediação de compras entre empresas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Plataforma de e-commerce/procurement, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 670,
+  "dominio_efetivo": "estre.com",
+  "empresa": "Estre Ambiental",
+  "segmento": "Gestão de resíduos",
+  "principal_produto": "Coleta, tratamento e disposição final de resíduos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços ambientais, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 671,
+  "dominio_efetivo": "tubodin.com.br",
+  "empresa": "Tubodin Industrial",
+  "segmento": "Tubos conformados e conexões hidráulicas",
+  "principal_produto": "Tubulação hidráulica, tubos conformados e conexões",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de tubos conformados e conexões metálicas para hidráulica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 672,
+  "dominio_efetivo": "adlerpelzer.com",
+  "empresa": "Adler Pelzer",
+  "segmento": "Acústica e isolamento automotivo",
+  "principal_produto": "Componentes acústicos e de isolamento (espumas, têxteis)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos de espuma e têxtil, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 673,
+  "dominio_efetivo": "hmy-group.com",
+  "empresa": "HMY Group",
+  "segmento": "Mobiliário e equipamentos para varejo",
+  "principal_produto": "Displays, gôndolas e mobiliário para lojas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Estruturas de displays e gôndolas de varejo frequentemente em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 674,
+  "dominio_efetivo": "optima-packaging.com",
+  "empresa": "Optima Packaging Group",
+  "segmento": "Máquinas de embalagem e envase",
+  "principal_produto": "Máquinas de envase e embalagem farmacêutica/alimentícia",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura das máquinas de envase fabricada em aço inoxidável/carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 675,
+  "dominio_efetivo": "ficosa.com",
+  "empresa": "Ficosa",
+  "segmento": "Sistemas de visão e espelhos automotivos",
+  "principal_produto": "Espelhos retrovisores e sistemas de visão para veículos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de plástico e vidro; suportes metálicos em menor proporção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 676,
+  "dominio_efetivo": "vedamotors.com.br",
+  "empresa": "Veda Motors (Athena Group)",
+  "segmento": "Juntas e sistemas de vedação para motores",
+  "principal_produto": "Juntas de motor, retentores e componentes eletrônicos automotivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos em elastômero, papelão hidráulico e metal em pequena proporção",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 677,
+  "dominio_efetivo": "suncoke.com",
+  "empresa": "SunCoke Energy",
+  "segmento": "Produção de coque metalúrgico",
+  "principal_produto": "Coque metalúrgico para altos-fornos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fornece insumo (coque) para a siderurgia; não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 678,
+  "dominio_efetivo": "sotrima.com.br",
+  "empresa": "Sotrima Agrícola",
+  "segmento": "Concessionária de máquinas agrícolas (Massey Ferguson)",
+  "principal_produto": "Venda e assistência de máquinas agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionária/revenda, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 679,
+  "dominio_efetivo": "lafaete.com.br",
+  "empresa": "Grupo Lafaete",
+  "segmento": "Locação de equipamentos e módulos (ramo não confirmado com precisão)",
+  "principal_produto": "Locação de unidades habitacionais modulares e equipamentos para construção",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Nome ambíguo (vários grupos 'Lafaete'); ramo de locação de módulos/equipamentos usa estrutura metálica, mas não confirmado com precisão",
+  "fonte": "busca web (ambíguo)"
+ },
+ {
+  "idx": 680,
+  "dominio_efetivo": "mondragon-assembly.com",
+  "empresa": "Mondragon Assembly",
+  "segmento": "Máquinas de montagem e automação industrial",
+  "principal_produto": "Linhas de montagem automatizadas (inclusive para painéis solares)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de máquinas de montagem fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ }
+]

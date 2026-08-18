@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 880,
+  "dominio_efetivo": "grupotoniello.com.br",
+  "empresa": "Grupo Toniello",
+  "segmento": "Comércio de veículos",
+  "principal_produto": "Venda de veículos consignados e autopeças e-commerce",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Comércio de veículos, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 881,
+  "dominio_efetivo": "triskeleletrificacao.com.br",
+  "empresa": "Triskel Eletrificação e Automação",
+  "segmento": "Painéis elétricos e automação industrial",
+  "principal_produto": "Painéis de comando, distribuição e automação (QGBT, CCM)",
+  "fabrica_brasil": "Suzano/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Painéis elétricos fabricados em gabinetes de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 882,
+  "dominio_efetivo": "oxbo.com",
+  "empresa": "Oxbo do Brasil",
+  "segmento": "Máquinas para colheita especializada",
+  "principal_produto": "Colheitadeiras de café, milho semente e frutas",
+  "fabrica_brasil": "Uberaba/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Colheitadeiras agrícolas fabricadas em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 883,
+  "dominio_efetivo": "mobis.co.kr",
+  "empresa": "Hyundai Mobis",
+  "segmento": "Autopeças (sistemas automotivos)",
+  "principal_produto": "Módulos de chassi, freios e sistemas de segurança automotivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes estruturais e de chassi fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 884,
+  "dominio_efetivo": "trustagrocompany.com",
+  "empresa": "MultiFazendas",
+  "segmento": "Produção agrícola",
+  "principal_produto": "Grãos e commodities agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtor rural, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 885,
+  "dominio_efetivo": "acoplastbrasil.com.br",
+  "empresa": "Acoplast Brasil",
+  "segmento": "Acoplamentos e motorredutores industriais",
+  "principal_produto": "Acoplamentos mecânicos, redutores e freios de contra-torque",
+  "fabrica_brasil": "Contagem/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Acoplamentos e componentes de transmissão fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 886,
+  "dominio_efetivo": "enseada.com",
+  "empresa": "Enseada Indústria Naval",
+  "segmento": "Construção naval e offshore",
+  "principal_produto": "Cascos, módulos e embarcações de apoio offshore",
+  "fabrica_brasil": "São Roque do Paraguaçu/BA",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas navais fabricadas em chapa de aço naval",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 887,
+  "dominio_efetivo": "cindumel.com",
+  "empresa": "Cindumel",
+  "segmento": "Molas automotivas e industriais",
+  "principal_produto": "Feixes de molas para veículos, locomotivas e equipamentos industriais",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de molas em aço desde 1953",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 888,
+  "dominio_efetivo": "taecmodulos.com.br",
+  "empresa": "TAEC Módulos",
+  "segmento": "Construção modular (off-site)",
+  "principal_produto": "Módulos pré-fabricados para construção civil",
+  "fabrica_brasil": "Pirajuí/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Construção modular pode envolver estrutura metálica, mas não confirmado com precisão",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 889,
+  "dominio_efetivo": "metalfit.com.br",
+  "empresa": "Metalfit",
+  "segmento": "Distribuição de tubos e conexões industriais",
+  "principal_produto": "Tubos, conexões, flanges e válvulas em aço inox e carbono",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Distribuidor especializado em tubos e conexões de aço carbono e inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 890,
+  "dominio_efetivo": "izzo.com.br",
+  "empresa": "Izzo Instrumentos Musicais",
+  "segmento": "Instrumentos musicais e acessórios",
+  "principal_produto": "Instrumentos de percussão e acessórios musicais",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabricante/importador de instrumentos musicais, não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 891,
+  "dominio_efetivo": "nacionalindustria.com.br",
+  "empresa": "Nacional Indústria Mecânica",
+  "segmento": "Vasos de pressão e equipamentos industriais",
+  "principal_produto": "Vasos de pressão, tanques de armazenamento e skids",
+  "fabrica_brasil": "Pindamonhangaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Homologada pela Petrobras para fabricação de equipamentos em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 892,
+  "dominio_efetivo": "pscomponents.eu",
+  "empresa": "Prima Sole Components",
+  "segmento": "Peças plásticas automotivas",
+  "principal_produto": "Componentes plásticos para automóveis e eletrodomésticos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabricante de peças plásticas injetadas, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 893,
+  "dominio_efetivo": "zeppini.com.br",
+  "empresa": "Grupo Zeppini (Zeppini Ecoflex)",
+  "segmento": "Equipamentos para postos de combustível",
+  "principal_produto": "Equipamentos de proteção ambiental, filtros e acessórios para postos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Equipamentos metálicos para postos; subsidiária Hydro Z trabalha com bronze/latão",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 894,
+  "dominio_efetivo": "elmeca.com.br",
+  "empresa": "Elmeca",
+  "segmento": "Corte, solda e usinagem de chapas metálicas",
+  "principal_produto": "Peças e conjuntos em chapa metálica e perfis para máquinas e equipamentos",
+  "fabrica_brasil": "Joinville/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Corte a laser, solda MIG/TIG e usinagem sobre chapas de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 895,
+  "dominio_efetivo": "bgl.com.br",
+  "empresa": "BGL",
+  "segmento": "Elementos de fixação para rolamentos",
+  "principal_produto": "Buchas de fixação, porcas de precisão e arruelas de travamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Elementos de fixação em aço para mineração, siderurgia e celulose",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 896,
+  "dominio_efetivo": "si.com.br",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Domínio curto e genérico ('si'); busca não retornou identificação confiável de qual empresa opera si.com.br",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 897,
+  "dominio_efetivo": "poyry.com.br",
+  "empresa": "Pöyry",
+  "segmento": "Consultoria de engenharia (papel e celulose, energia)",
+  "principal_produto": "Consultoria e projetos de engenharia industrial",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de consultoria de engenharia, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 898,
+  "dominio_efetivo": "rodotecnica.com.br",
+  "empresa": "Rodotécnica",
+  "segmento": "Implementos rodoviários para líquidos a granel",
+  "principal_produto": "Tanques cilíndricos de aço inox e aço carbono para transporte de combustíveis",
+  "fabrica_brasil": "Bento Gonçalves/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de tanques rodoviários em aço carbono e inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 899,
+  "dominio_efetivo": "snef.com.br",
+  "empresa": "Snef Brasil",
+  "segmento": "Engenharia, automação e robótica industrial",
+  "principal_produto": "Integração de robótica, automação elétrica e sistemas industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Integradora de sistemas de automação para indústria; não é fabricante metalúrgica primária",
+  "fonte": "busca web"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 800,
+  "dominio_efetivo": "grupposila.com",
+  "empresa": "Sila Group",
+  "segmento": "Sistemas de câmbio e cabos flexíveis automotivos",
+  "principal_produto": "Sistemas de troca de marchas e cabos de controle remoto",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cabos e componentes de sistemas de câmbio fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 801,
+  "dominio_efetivo": "cagece.com.br",
+  "empresa": "Cagece",
+  "segmento": "Saneamento básico (água e esgoto)",
+  "principal_produto": "Abastecimento de água e coleta de esgoto no Ceará",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Companhia estadual de saneamento, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 802,
+  "dominio_efetivo": "cobsen.com.br",
+  "empresa": "Cobsen Hennig",
+  "segmento": "Componentes de proteção para máquinas-ferramenta",
+  "principal_produto": "Sanfonas metálicas, transportadores de cavaco e acessórios",
+  "fabrica_brasil": "Boituva/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Sanfonas/coberturas telescópicas metálicas para máquinas industriais",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 803,
+  "dominio_efetivo": "cocal.com.br",
+  "empresa": "Cocal",
+  "segmento": "Açúcar e etanol",
+  "principal_produto": "Açúcar, etanol e cogeração de energia",
+  "fabrica_brasil": "Paraguaçu Paulista/SP, Narandiba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 804,
+  "dominio_efetivo": "gestautobrasil.com.br",
+  "empresa": "Gestauto",
+  "segmento": "Certificação e garantia de veículos seminovos",
+  "principal_produto": "Planos de garantia mecânica para veículos e motos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de serviços de garantia, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 805,
+  "dominio_efetivo": "montservice.com.br",
+  "empresa": "Montservice Soluções Industriais",
+  "segmento": "Fabricação e montagem industrial",
+  "principal_produto": "Caldeiras, tubulações industriais e estruturas metálicas",
+  "fabrica_brasil": "Sertãozinho/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de caldeiras e estruturas metálicas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 806,
+  "dominio_efetivo": "pinfer.com.br",
+  "empresa": "Pinfer Metalúrgica",
+  "segmento": "Perfis e telhas metálicas",
+  "principal_produto": "Perfis, telhas trapezoidais e onduladas em aço carbono",
+  "fabrica_brasil": "Curitiba/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Dedicada à industrialização de aço carbono para construção e metalurgia",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 807,
+  "dominio_efetivo": "grupoargenta.com.br",
+  "empresa": "Grupo Argenta",
+  "segmento": "Distribuição de combustíveis e lubrificantes",
+  "principal_produto": "Postos de combustível, GLP e lubrificantes reciclados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de postos e distribuição de combustíveis, não fabricante de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 808,
+  "dominio_efetivo": "te.com",
+  "empresa": "TE Connectivity",
+  "segmento": "Conectores e componentes eletrônicos",
+  "principal_produto": "Conectores elétricos e sensores industriais/automotivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Terminais e contatos metálicos em parte dos conectores; predomínio de eletrônica/plástico",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 809,
+  "dominio_efetivo": "usicon.com.br",
+  "empresa": "Usicon Construções Pré-Fabricadas",
+  "segmento": "Construção pré-fabricada de concreto",
+  "principal_produto": "Estruturas pré-fabricadas de concreto armado/protendido",
+  "fabrica_brasil": "Américo Brasiliense/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Armadura de aço é insumo do concreto pré-fabricado, mas produto final é de concreto",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 810,
+  "dominio_efetivo": "panamericansilver.com",
+  "empresa": "Pan American Silver",
+  "segmento": "Mineração de prata",
+  "principal_produto": "Prata e outros metais preciosos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora de prata, não consumidora de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 811,
+  "dominio_efetivo": "pelicano.eng.br",
+  "empresa": "Pelicano Construções",
+  "segmento": "Construção de infraestrutura ferroviária e industrial",
+  "principal_produto": "Manutenção e construção de ferrovias, obras industriais e portos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Obras ferroviárias/industriais envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 812,
+  "dominio_efetivo": "filtrosbrasil.com.br",
+  "empresa": "Filtros Brasil",
+  "segmento": "Filtros automotivos",
+  "principal_produto": "Filtros de cabine, ar, óleo e combustível",
+  "fabrica_brasil": "Atibaia/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças metálicas de filtros de óleo e combustível fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 813,
+  "dominio_efetivo": "hydac.com",
+  "empresa": "Hydac",
+  "segmento": "Sistemas hidráulicos industriais",
+  "principal_produto": "Acumuladores hidráulicos, filtros e válvulas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes hidráulicos de alta pressão fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 814,
+  "dominio_efetivo": "viemar.com.br",
+  "empresa": "Viemar Automotive",
+  "segmento": "Autopeças de suspensão, direção e freio",
+  "principal_produto": "Pivôs de suspensão, terminais de direção e pinças de freio",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante latino-americano de peças de suspensão/direção em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 815,
+  "dominio_efetivo": "inbrasc.com.br",
+  "empresa": "Inbrasc",
+  "segmento": "Componentes hidráulicos para máquinas e tratores",
+  "principal_produto": "Componentes de sistemas hidráulicos para tratores e caminhões",
+  "fabrica_brasil": "Jaguariúna/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação verticalizada em aço: usinagem, forjaria, curvatura de tubos e solda",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 816,
+  "dominio_efetivo": "pecaagora.com",
+  "empresa": "Peça Agora",
+  "segmento": "Distribuição de autopeças para veículos pesados",
+  "principal_produto": "Peças para caminhões, carretas e ônibus",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 817,
+  "dominio_efetivo": "anhanguera.com",
+  "empresa": "Anhanguera Educacional",
+  "segmento": "Educação superior",
+  "principal_produto": "Cursos de graduação e pós-graduação",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Instituição de ensino, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 818,
+  "dominio_efetivo": "tecnocuba.com.br",
+  "empresa": "Tecnocuba",
+  "segmento": "Utensílios de aço inox para construção e cozinha profissional",
+  "principal_produto": "Cubas, pias e tanques de aço inoxidável",
+  "fabrica_brasil": "Arujá/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto em aço inoxidável, não aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 819,
+  "dominio_efetivo": "maquigeral.com.br",
+  "empresa": "Maquigeral Energia",
+  "segmento": "Geradores de energia",
+  "principal_produto": "Grupos geradores, painéis elétricos e torres de iluminação",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura e carenagem de geradores e torres fabricadas em aço",
+  "fonte": "busca web"
+ }
+]

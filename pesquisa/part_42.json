@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 840,
+  "dominio_efetivo": "multilaser.com.br",
+  "empresa": "Grupo Multi (Multilaser)",
+  "segmento": "Eletrônicos de consumo",
+  "principal_produto": "Smartphones, notebooks e acessórios eletrônicos",
+  "fabrica_brasil": "Manaus/AM, Extrema/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria eletroeletrônica, não consome aço como insumo principal",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 841,
+  "dominio_efetivo": "millenium-ind.com.br",
+  "empresa": "Millenium Indústria Metalúrgica",
+  "segmento": "Usinagem e caldeiraria industrial",
+  "principal_produto": "Peças usinadas, protetores de flange/tubo e caldeiraria",
+  "fabrica_brasil": "Mauá/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Atende óleo e gás, siderurgia, mineração e papel e celulose com peças em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 842,
+  "dominio_efetivo": "greenv.com.br",
+  "empresa": "GreenV",
+  "segmento": "Mobilidade elétrica",
+  "principal_produto": "Carregadores e infraestrutura para veículos elétricos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora/instaladora de carregadores elétricos, não fabricante de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 843,
+  "dominio_efetivo": "jalles.com",
+  "empresa": "Jalles Machado",
+  "segmento": "Açúcar, etanol e bioenergia",
+  "principal_produto": "Açúcar orgânico, etanol e energia elétrica",
+  "fabrica_brasil": "Goianésia/GO",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 844,
+  "dominio_efetivo": "rudolph.com.br",
+  "empresa": "Rudolph Usinados",
+  "segmento": "Usinagem de precisão",
+  "principal_produto": "Sistemas mecânicos usinados sob encomenda",
+  "fabrica_brasil": "Timbó/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Primeira empresa de usinagem do Brasil certificada ISO/TS 16949",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 845,
+  "dominio_efetivo": "gcrmaq.com.br",
+  "empresa": "GCR Máq",
+  "segmento": "Máquinas para a indústria metalúrgica",
+  "principal_produto": "Guilhotinas e máquinas para corte de bobinas de aço/alumínio/inox",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de máquinas para processar bobinas de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 846,
+  "dominio_efetivo": "endress.com",
+  "empresa": "Endress+Hauser",
+  "segmento": "Instrumentação industrial",
+  "principal_produto": "Sensores e instrumentos de medição de processo",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Corpos e sensores de instrumentos frequentemente em aço inoxidável",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 847,
+  "dominio_efetivo": "abelv.com.br",
+  "empresa": "Abelv Engenharia",
+  "segmento": "Montagem elétrica e instrumentação industrial",
+  "principal_produto": "Instalação elétrica, montagem e instrumentação para indústria de papel/celulose",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços de montagem elétrica, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 848,
+  "dominio_efetivo": "assaabloy.com",
+  "empresa": "ASSA ABLOY",
+  "segmento": "Fechaduras e soluções de acesso",
+  "principal_produto": "Fechaduras, dobradiças e sistemas de controle de acesso",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fechaduras e ferragens fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 849,
+  "dominio_efetivo": "agricopel.com.br",
+  "empresa": "Agricopel",
+  "segmento": "Distribuição de combustíveis",
+  "principal_produto": "Diesel, lubrificantes e postos de combustível",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de postos e distribuição de combustíveis, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 850,
+  "dominio_efetivo": "vcaconstrutora.com.br",
+  "empresa": "VCA Construtora",
+  "segmento": "Construção civil e incorporação",
+  "principal_produto": "Loteamentos, edifícios residenciais e comerciais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Construtora com usina de asfalto própria; usa aço em armadura, mas não é fabricante metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 851,
+  "dominio_efetivo": "mgapecasagricolas.com.br",
+  "empresa": "MGA Peças Agrícolas",
+  "segmento": "Peças de reposição agrícolas",
+  "principal_produto": "Peças de reposição para máquinas e implementos agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de peças agrícolas de reposição, tipicamente em aço",
+  "fonte": "conhecimento setorial (nome indicativo do segmento)"
+ },
+ {
+  "idx": 852,
+  "dominio_efetivo": "oxipira.com.br",
+  "empresa": "Oxipira Automação",
+  "segmento": "Máquinas de corte industrial",
+  "principal_produto": "Equipamentos de corte a plasma, oxicorte, laser e jato d'água",
+  "fabrica_brasil": "Piracicaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Líder em corte a plasma no Brasil; máquinas usadas para cortar aço e estrutura própria em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 853,
+  "dominio_efetivo": "lcdengenharia.com",
+  "empresa": "LCD Engenharia",
+  "segmento": "Construção e montagem eletromecânica industrial",
+  "principal_produto": "Construção civil, montagem eletromecânica e manutenção industrial",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de obras industriais/petrolíferas que envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 854,
+  "dominio_efetivo": "dispav.com.br",
+  "empresa": "Dispav",
+  "segmento": "Distribuição de peças para pavimentação",
+  "principal_produto": "Peças de reposição para rolos compactadores e fresadoras (Dynapac, Bomag, Wirtgen)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de peças de reposição, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 855,
+  "dominio_efetivo": "bioaroeira.com.br",
+  "empresa": "Bioenergética Aroeira",
+  "segmento": "Açúcar e etanol",
+  "principal_produto": "Açúcar VHP e etanol",
+  "fabrica_brasil": "Tupaciguara/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 856,
+  "dominio_efetivo": "biotae.com.br",
+  "empresa": "Grupo Biotae",
+  "segmento": "Extratos botânicos e ingredientes naturais",
+  "principal_produto": "Extratos vegetais para cosméticos, farmacêutica e alimentos",
+  "fabrica_brasil": "Tatuí/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de extratos botânicos, não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 857,
+  "dominio_efetivo": "me.com.br",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Domínio curto e genérico; busca não retornou identificação confiável da empresa",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 858,
+  "dominio_efetivo": "fallgatter.com.br",
+  "empresa": "Fallgatter",
+  "segmento": "Distribuição e fabricação de produtos siderúrgicos",
+  "principal_produto": "Chapas de aço, correntes de transmissão, elevadores e esteiras transportadoras",
+  "fabrica_brasil": "Rio Grande do Sul",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante e distribuidor de produtos de aço para siderurgia e metal-mecânica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 859,
+  "dominio_efetivo": "polifluor.com.br",
+  "empresa": "Polifluor",
+  "segmento": "Plásticos de alta performance (PTFE/Teflon)",
+  "principal_produto": "Teflon (PTFE), PEEK e vedações técnicas",
+  "fabrica_brasil": "Itatiba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é plástico fluorado; campo 'empresa' original (Açocalhas-Clélia) não corresponde ao domínio, tratado pelo domínio",
+  "fonte": "busca web (discrepância no campo empresa)"
+ }
+]

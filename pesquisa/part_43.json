@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 860,
+  "dominio_efetivo": "basco.com.br",
+  "empresa": "Basco",
+  "segmento": "Implementos para caminhões",
+  "principal_produto": "Caçambas basculantes, eixos, plataformas e roll-on/roll-off",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos e equipamentos para caminhões fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 861,
+  "dominio_efetivo": "engesig.com.br",
+  "empresa": "Engesig",
+  "segmento": "Sinalização e transformação de veículos especiais",
+  "principal_produto": "Sinalização visual/acústica para viaturas, ambulâncias e bombeiros",
+  "fabrica_brasil": "Mogi das Cruzes/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Transformação e adaptação de veículos envolve suportes e estruturas metálicas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 862,
+  "dominio_efetivo": "indab.com.br",
+  "empresa": "Indab Indústria Metalúrgica",
+  "segmento": "Estamparia e solda automotiva",
+  "principal_produto": "Peças de direção e suspensão estampadas e soldadas (padrão Toyota)",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia com prensas de até 1.000 toneladas e solda para autopeças",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 863,
+  "dominio_efetivo": "raftembalagens.com.br",
+  "empresa": "Raft Embalagens",
+  "segmento": "Embalagens industriais metálicas e plásticas",
+  "principal_produto": "Tambores e baldes metálicos, tambores e galões plásticos",
+  "fabrica_brasil": "Guarulhos/SP, Rio de Janeiro/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tambores e baldes metálicos fabricados a partir de chapa de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 864,
+  "dominio_efetivo": "biasitanques.com.br",
+  "empresa": "Biasi Tanques",
+  "segmento": "Tanques e implementos rodoviários",
+  "principal_produto": "Tanques suplementares de combustível, óleo hidráulico e Arla 32",
+  "fabrica_brasil": "Palmitos/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tanques fabricados em aço inox, alumínio e aço carbono conforme aplicação",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 865,
+  "dominio_efetivo": "csn.com.br",
+  "empresa": "CSN",
+  "segmento": "Siderurgia",
+  "principal_produto": "Aço plano, mineração e cimento",
+  "fabrica_brasil": "Volta Redonda/RJ e outras",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Uma das maiores siderúrgicas do Brasil; é o próprio produtor de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 866,
+  "dominio_efetivo": "npegroup.com.br",
+  "empresa": "NPE Group",
+  "segmento": "Manutenção e paradas industriais",
+  "principal_produto": "Manutenção industrial, montagem e paradas programadas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Presta serviços de manutenção sobre equipamentos industriais de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 867,
+  "dominio_efetivo": "metalesp.com.br",
+  "empresa": "Metalesp",
+  "segmento": "Implementos rodoviários (semirreboques)",
+  "principal_produto": "Silo-graneleiro, tanque, florestal, basculante e carga seca",
+  "fabrica_brasil": "Paraná",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Líder no segmento de semirreboque silo no Brasil, fabricado em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 868,
+  "dominio_efetivo": "bamin.com.br",
+  "empresa": "Bamin (Bahia Mineração)",
+  "segmento": "Mineração de minério de ferro",
+  "principal_produto": "Minério de ferro",
+  "fabrica_brasil": "Caetité/BA",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora produtora de minério de ferro, insumo para siderurgia, não consumidora de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 869,
+  "dominio_efetivo": "sharktratores.com.br",
+  "empresa": "Shark Tratores (Grupo Shark)",
+  "segmento": "Concessionária de máquinas agrícolas (Valtra/AGCO)",
+  "principal_produto": "Tratores, plantadeiras e peças agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionária/revenda de máquinas agrícolas, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 870,
+  "dominio_efetivo": "oec-eng.com",
+  "empresa": "OEC Engenharia",
+  "segmento": "Construção pesada e engenharia industrial",
+  "principal_produto": "Grandes obras de infraestrutura e engenharia industrial",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de obras de infraestrutura que envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 871,
+  "dominio_efetivo": "levelgroup.com.br",
+  "empresa": "Level Group",
+  "segmento": "Consultoria de supply chain e procurement (BPO)",
+  "principal_produto": "Gestão de fornecedores e compras terceirizadas (BPO)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de consultoria/BPO, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 872,
+  "dominio_efetivo": "huf-group.com",
+  "empresa": "Huf Group",
+  "segmento": "Sistemas de fechadura e acesso automotivo",
+  "principal_produto": "Fechaduras, chaves e sistemas de acesso sem chave para veículos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de fechadura automotiva fabricados em aço/zamac",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 873,
+  "dominio_efetivo": "sisvoo.com.br",
+  "empresa": "Sisvoo Sistemas Eletrônicos",
+  "segmento": "Montagem de placas eletrônicas",
+  "principal_produto": "Montagem SMT/PTH de placas e sistemas eletrônicos",
+  "fabrica_brasil": "Itajubá/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônica embarcada, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 874,
+  "dominio_efetivo": "cliptech.com.br",
+  "empresa": "Cliptech",
+  "segmento": "Eletrônica e estamparia metálica para automotivo",
+  "principal_produto": "Módulos eletrônicos, painéis e peças estampadas/injetadas",
+  "fabrica_brasil": "Itupeva/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Divisão de estamparia metálica além da montagem eletrônica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 875,
+  "dominio_efetivo": "southco.com",
+  "empresa": "Southco",
+  "segmento": "Fechos e travas industriais",
+  "principal_produto": "Fechos, dobradiças e travas para gabinetes industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fechos e travas fabricados em aço inoxidável/carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 876,
+  "dominio_efetivo": "imbil.com.br",
+  "empresa": "Imbil",
+  "segmento": "Bombas centrífugas industriais",
+  "principal_produto": "Bombas centrífugas mono e multiestágio",
+  "fabrica_brasil": "Itapira/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante nacional de bombas centrífugas, em aço/ferro fundido",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 877,
+  "dominio_efetivo": "estrutezza.com.br",
+  "empresa": "Estrutezza",
+  "segmento": "Estruturas metálicas industriais",
+  "principal_produto": "Racks, carrinhos e peças metálicas para logística industrial",
+  "fabrica_brasil": "Porto Ferreira/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas metálicas customizadas para armazenagem e movimentação",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 878,
+  "dominio_efetivo": "granei.com.br",
+  "empresa": "Granei Metalúrgica de Autopeças",
+  "segmento": "Metalurgia automotiva",
+  "principal_produto": "Autopeças metálicas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa confirma atividade metalúrgica de autopeças",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 879,
+  "dominio_efetivo": "pabu.com.br",
+  "empresa": "Pacaembu Autopeças",
+  "segmento": "Distribuição de autopeças para caminhões",
+  "principal_produto": "Amortecedores, molas a gás e componentes de freio",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 820,
+  "dominio_efetivo": "skavaminas.com.br",
+  "empresa": "Skava (Grupo K)",
+  "segmento": "Serviços de mineração e infraestrutura",
+  "principal_produto": "Escavação, transporte de minério e locação de equipamentos pesados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços de mineração, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 821,
+  "dominio_efetivo": "motormac.com.br",
+  "empresa": "Grupo Motormac",
+  "segmento": "Distribuição de motores, geradores e máquinas",
+  "principal_produto": "Motores/geradores Cummins e máquinas CASE/JCB",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor de equipamentos, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 822,
+  "dominio_efetivo": "greal.com.br",
+  "empresa": "Grupo Real",
+  "segmento": "Distribuição de autopeças e acessórios",
+  "principal_produto": "Peças e acessórios automotivos e de duas rodas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de distribuição no atacado, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 823,
+  "dominio_efetivo": "vibra.com.br",
+  "empresa": "Vibra Energia",
+  "segmento": "Distribuição de combustíveis",
+  "principal_produto": "Gasolina, diesel e combustíveis (ex-BR Distribuidora)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de combustíveis, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 824,
+  "dominio_efetivo": "multiforca.com.br",
+  "empresa": "Multiforça",
+  "segmento": "Implementos rodoviários e agrícolas",
+  "principal_produto": "Roll-on/roll-off, carretas, caçambas e equipamentos para sucata",
+  "fabrica_brasil": "Engenheiro Coelho/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos rodoviários e agrícolas fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 825,
+  "dominio_efetivo": "perto.com.br",
+  "empresa": "Perto S.A.",
+  "segmento": "Automação bancária e de varejo",
+  "principal_produto": "Terminais de autoatendimento, POS e cofres inteligentes",
+  "fabrica_brasil": "Gravataí/RS",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Gabinetes metálicos de terminais e cofres; predomínio de eletrônica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 826,
+  "dominio_efetivo": "friozem.com.br",
+  "empresa": "Friozem",
+  "segmento": "Logística de temperatura controlada",
+  "principal_produto": "Armazenagem e distribuição de produtos refrigerados/congelados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operador logístico de frio, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 827,
+  "dominio_efetivo": "ulink.bio",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Busca não retornou identificação confiável da empresa por trás do domínio ulink.bio (empresa original no cadastro, CIES/Ebenezer, é uma associação de saúde sem relação aparente)",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 828,
+  "dominio_efetivo": "tequaly.com",
+  "empresa": "Tequaly",
+  "segmento": "EPC e equipamentos industriais",
+  "principal_produto": "Sistemas de movimentação de granéis, evaporadores e equipamentos petroquímicos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de equipamentos industriais em aço carbono e inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 829,
+  "dominio_efetivo": "polimold.com.br",
+  "empresa": "Polimold",
+  "segmento": "Componentes para moldes de injeção plástica",
+  "principal_produto": "Bases de molde, câmaras quentes e componentes ejetores",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante de bases de molde da América Latina, em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 830,
+  "dominio_efetivo": "rossetti.com.br",
+  "empresa": "Rossetti",
+  "segmento": "Implementos rodoviários",
+  "principal_produto": "Basculantes, semirreboques e terceiro eixo",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos rodoviários para mineração e construção fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 831,
+  "dominio_efetivo": "apequipamentos.com.br",
+  "empresa": "AP Equipamentos Industriais",
+  "segmento": "Equipamentos para movimentação de granéis",
+  "principal_produto": "Transportadores de correia, corrente e elevadores de canecas",
+  "fabrica_brasil": "Mogi das Cruzes/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos para siderurgia, mineração e cimento fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 832,
+  "dominio_efetivo": "arpolar.com.br",
+  "empresa": "Arpol Conforto Térmico",
+  "segmento": "Sistemas de climatização e dutos",
+  "principal_produto": "Dutos, ventilação e retrofit de ar-condicionado",
+  "fabrica_brasil": "Hortolândia/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de dutos metálicos com linha de produção automática",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 833,
+  "dominio_efetivo": "vinaenvi.net",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Busca não retornou identificação confiável da empresa por trás do domínio vinaenvi.net",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 834,
+  "dominio_efetivo": "cavaletti.com.br",
+  "empresa": "Cavaletti",
+  "segmento": "Móveis de escritório",
+  "principal_produto": "Cadeiras, mesas e estações de trabalho corporativas",
+  "fabrica_brasil": "Bento Gonçalves/RS",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Estruturas de cadeiras e mesas de escritório frequentemente em aço tubular",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 835,
+  "dominio_efetivo": "vslima.com",
+  "empresa": "VS de Lima & Cia",
+  "segmento": "Estamparia e ferramentaria automotiva",
+  "principal_produto": "Peças estampadas, cortadas a laser e conjuntos soldados",
+  "fabrica_brasil": "Bragança Paulista/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia, ferramentaria e corte a laser em aço para automotivo",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 836,
+  "dominio_efetivo": "braganfer.com.br",
+  "empresa": "Braganfer",
+  "segmento": "Distribuição de ferro e aço",
+  "principal_produto": "Chapas, perfis, tubos e barras de aço",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Distribuidora siderúrgica especializada em ferro e aço há mais de 50 anos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 837,
+  "dominio_efetivo": "realperfil.com.br",
+  "empresa": "Real Perfil",
+  "segmento": "Perfilados e eletrocalhas metálicas",
+  "principal_produto": "Perfilados, eletrocalhas e leitos para cabos elétricos",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de perfilados metálicos com capacidade de 1.000 t/mês",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 838,
+  "dominio_efetivo": "normatel.com.br",
+  "empresa": "Normatel Home Center",
+  "segmento": "Varejo de materiais de construção",
+  "principal_produto": "Materiais elétricos, hidráulicos e de construção civil",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede varejista, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 839,
+  "dominio_efetivo": "grupohubner.com.br",
+  "empresa": "Grupo Hübner",
+  "segmento": "Componentes para indústria automotiva e ferroviária",
+  "principal_produto": "Foles, juntas e peças de aço para ferrovias e automotivo",
+  "fabrica_brasil": "Araucária/PR, Curitiba/PR, Ponta Grossa/PR, Jaguariaíva/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Iniciou produção de peças em aço para montadoras e setor ferroviário em 2020",
+  "fonte": "busca web"
+ }
+]

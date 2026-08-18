@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 700,
+  "dominio_efetivo": "amcor.com",
+  "empresa": "Amcor",
+  "segmento": "Embalagens (plástico e alumínio)",
+  "principal_produto": "Embalagens flexíveis e rígidas",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Embalagens em plástico e alumínio, não aço carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 701,
+  "dominio_efetivo": "comexi.com",
+  "empresa": "Comexi Group",
+  "segmento": "Máquinas para embalagens flexíveis",
+  "principal_produto": "Impressoras flexográficas e laminadoras para embalagens",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de máquinas gráficas industriais fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 702,
+  "dominio_efetivo": "serthi.com.br",
+  "empresa": "Serthi Hidráulica",
+  "segmento": "Equipamentos hidráulicos industriais",
+  "principal_produto": "Cilindros, bombas, motores e válvulas hidráulicas",
+  "fabrica_brasil": "Indaiatuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Atende mineração e siderurgia; cilindros e componentes hidráulicos em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 703,
+  "dominio_efetivo": "fasano.com.br",
+  "empresa": "Grupo Fasano",
+  "segmento": "Hotelaria e gastronomia",
+  "principal_produto": "Restaurantes, hotéis e produtos gourmet",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Grupo de hotelaria/restaurantes, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 704,
+  "dominio_efetivo": "duasrodas.com",
+  "empresa": "Duas Rodas",
+  "segmento": "Ingredientes alimentícios (aromas e sabores)",
+  "principal_produto": "Aromas, corantes e ingredientes para alimentos e bebidas",
+  "fabrica_brasil": "Jaraguá do Sul/SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de ingredientes alimentícios, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 705,
+  "dominio_efetivo": "barros.com.br",
+  "empresa": "Barros Autopeças",
+  "segmento": "Distribuição de autopeças",
+  "principal_produto": "Peças de reposição para veículos leves, pesados e agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 706,
+  "dominio_efetivo": "grazmec.com.br",
+  "empresa": "Grazmec",
+  "segmento": "Máquinas agrícolas (tratamento de sementes)",
+  "principal_produto": "Máquinas de tratamento e limpeza de sementes",
+  "fabrica_brasil": "Não-Me-Toque/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas agrícolas fabricadas em estrutura metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 707,
+  "dominio_efetivo": "combustol.com.br",
+  "empresa": "Grupo Combustol & Metalpó",
+  "segmento": "Fornos industriais e tratamento térmico",
+  "principal_produto": "Fornos industriais, peças refratárias e sinterizadas",
+  "fabrica_brasil": "São Paulo/SP, Rio de Janeiro/RJ, Contagem/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fornos industriais e serviços de tratamento térmico para a cadeia siderúrgica/metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 708,
+  "dominio_efetivo": "coplacana.com.br",
+  "empresa": "Coplacana",
+  "segmento": "Cooperativa agrícola (insumos)",
+  "principal_produto": "Defensivos, fertilizantes e insumos agrícolas",
+  "fabrica_brasil": "Piracicaba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Cooperativa de comércio de insumos agrícolas, não fabricante de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 709,
+  "dominio_efetivo": "klueber.com",
+  "empresa": "Klüber Lubrication",
+  "segmento": "Lubrificantes especiais",
+  "principal_produto": "Graxas e óleos lubrificantes industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabricante de lubrificantes, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 710,
+  "dominio_efetivo": "eletrofrio.com.br",
+  "empresa": "Eletrofrio Refrigeração",
+  "segmento": "Refrigeração comercial e industrial",
+  "principal_produto": "Balcões refrigerados, câmaras frias e salas de máquinas",
+  "fabrica_brasil": "Curitiba/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de refrigeração fabricados em estrutura metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 711,
+  "dominio_efetivo": "valgroupco.com",
+  "empresa": "Valgroup",
+  "segmento": "Plásticos (embalagens e compostos)",
+  "principal_produto": "Filmes técnicos, masterbatches e resinas recicladas",
+  "fabrica_brasil": "Várias plantas no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de transformação de plástico, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 712,
+  "dominio_efetivo": "methalcompany.com.br",
+  "empresa": "Grupo Methal Company",
+  "segmento": "Estamparia e conjuntos soldados para OEMs",
+  "principal_produto": "Componentes estampados/soldados e plataformas de colheita",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de conjuntos estampados/soldados em aço e alumínio para agrícola, automotivo e construção",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 713,
+  "dominio_efetivo": "arim.com.br",
+  "empresa": "ARIM Componentes",
+  "segmento": "Componentes para fogões e gás",
+  "principal_produto": "Registros, válvulas e queimadores a gás (liga de zinco)",
+  "fabrica_brasil": "Santana de Parnaíba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fundição sob pressão de zinco e alumínio, não aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 714,
+  "dominio_efetivo": "athon.ind.br",
+  "empresa": "Athon Plastômeros e Elastômeros",
+  "segmento": "Vedações de borracha industrial",
+  "principal_produto": "Retentores, O-rings, juntas e anéis de vedação",
+  "fabrica_brasil": "Bom Jesus dos Perdões/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos de borracha/elastômero; atende à cadeia do aço, mas não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 715,
+  "dominio_efetivo": "dormakaba.com",
+  "empresa": "dormakaba",
+  "segmento": "Fechaduras e sistemas de acesso",
+  "principal_produto": "Fechaduras, portas automáticas e controle de acesso",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes metálicos de fechaduras e portas automáticas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 716,
+  "dominio_efetivo": "gascom.com.br",
+  "empresa": "Gascom Equipamentos Industriais",
+  "segmento": "Equipamentos de logística operacional (lubrificação, combate a incêndio)",
+  "principal_produto": "Caminhões-comboio, caminhões-pipa e unidades de combate a incêndio",
+  "fabrica_brasil": "Sertãozinho/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos e tanques montados sobre chassi, fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 717,
+  "dominio_efetivo": "qualifix.com.br",
+  "empresa": "Qualifix",
+  "segmento": "Estamparia metálica e injeção plástica automotiva",
+  "principal_produto": "Peças estampadas e injetadas para a indústria automotiva",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia de precisão para componentes automotivos há mais de 30 anos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 718,
+  "dominio_efetivo": "comil.com.br",
+  "empresa": "Comil Silos e Secadores",
+  "segmento": "Equipamentos para armazenagem de grãos",
+  "principal_produto": "Silos elevados, secadores e sistemas de limpeza de grãos",
+  "fabrica_brasil": "Cascavel/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Silos e equipamentos de armazenagem fabricados em chapa de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 719,
+  "dominio_efetivo": "met-atica.com.br",
+  "empresa": "Metalúrgica Ática",
+  "segmento": "Estamparia automotiva",
+  "principal_produto": "Sistemas de suspensão, direção, escape e vedação de portas",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia de componentes e subconjuntos automotivos em aço",
+  "fonte": "busca web"
+ }
+]

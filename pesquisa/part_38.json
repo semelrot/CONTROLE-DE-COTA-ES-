@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 760,
+  "dominio_efetivo": "imavi.com",
+  "empresa": "Imavi",
+  "segmento": "Equipamentos roll-on/roll-off e implementos rodoviários",
+  "principal_produto": "Caçambas roll-on/roll-off, guindastes articulados e chassis para implementos",
+  "fabrica_brasil": "Holambra/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caçambas em aço SAE 1020 e chassis metálicos para transporte",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 761,
+  "dominio_efetivo": "nors.com",
+  "empresa": "Nors",
+  "segmento": "Concessionárias e distribuição de veículos e máquinas",
+  "principal_produto": "Distribuição de Volvo, Iveco e outras marcas de veículos pesados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Grupo de distribuição/concessionárias, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 762,
+  "dominio_efetivo": "reydel.com",
+  "empresa": "Reydel Automotive",
+  "segmento": "Interiores automotivos (plástico)",
+  "principal_produto": "Painéis de instrumentos e componentes de interior plástico",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Componentes de interior em plástico injetado, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 763,
+  "dominio_efetivo": "ribeirocaram.com.br",
+  "empresa": "Ribeiro Caram",
+  "segmento": "Construção civil (industrial e comercial)",
+  "principal_produto": "Galpões logísticos, indústrias e shopping centers",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Construtora; usa estruturas metálicas/armadura em suas obras, mas não é fabricante metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 764,
+  "dominio_efetivo": "gates.com",
+  "empresa": "Gates Corporation",
+  "segmento": "Correias e mangueiras industriais/automotivas",
+  "principal_produto": "Correias de transmissão e mangueiras hidráulicas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é borracha reforçada, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 765,
+  "dominio_efetivo": "xmobots.com.br",
+  "empresa": "XMobots",
+  "segmento": "Aeronaves não tripuladas (drones)",
+  "principal_produto": "Drones e sistemas aéreos não tripulados",
+  "fabrica_brasil": "São Carlos/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Estrutura em compósitos e alumínio, não aço carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 766,
+  "dominio_efetivo": "gestamp.com",
+  "empresa": "Gestamp",
+  "segmento": "Estamparia automotiva",
+  "principal_produto": "Componentes estruturais estampados de carroceria",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Um dos maiores fornecedores mundiais de componentes estampados em aço para automotivo",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 767,
+  "dominio_efetivo": "konecranes.com",
+  "empresa": "Konecranes",
+  "segmento": "Guindastes e equipamentos de içamento",
+  "principal_produto": "Pontes rolantes, guindastes portuários e industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de guindastes e pontes rolantes fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 768,
+  "dominio_efetivo": "jbtc.com",
+  "empresa": "JBT (John Bean Technologies)",
+  "segmento": "Equipamentos para processamento de alimentos",
+  "principal_produto": "Máquinas de processamento de proteína animal e enlatamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos industriais em aço inoxidável para processamento de alimentos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 769,
+  "dominio_efetivo": "tecnored.com.br",
+  "empresa": "Tecnored (Vale)",
+  "segmento": "Tecnologia de redução de minério de ferro (ferro-gusa)",
+  "principal_produto": "Processo de produção de ferro-gusa de baixo carbono",
+  "fabrica_brasil": "Marabá/PA (planta em construção)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produz ferro-gusa como insumo para a siderurgia; não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 770,
+  "dominio_efetivo": "toyosetal.com",
+  "empresa": "Toyo Setal (TSE)",
+  "segmento": "Engenharia EPC para indústria pesada",
+  "principal_produto": "Projetos EPC para óleo e gás, química, mineração e siderurgia",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de plantas industriais que envolvem estruturas de aço, mas não é fabricante direta",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 771,
+  "dominio_efetivo": "marel.com",
+  "empresa": "Marel",
+  "segmento": "Equipamentos para processamento de alimentos (carne, aves, peixe)",
+  "principal_produto": "Linhas de abate, corte e embalagem de proteína animal",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas de processamento fabricadas majoritariamente em aço inoxidável",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 772,
+  "dominio_efetivo": "tmamaquinas.com.br",
+  "empresa": "TMA Máquinas",
+  "segmento": "Máquinas para o setor sucroenergético",
+  "principal_produto": "Transbordos de cana, plantadoras e equipamentos rebocáveis",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos rebocáveis e transbordos fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 773,
+  "dominio_efetivo": "veltter.com.br",
+  "empresa": "Veltter Engenharia e Manutenção",
+  "segmento": "Engenharia e manutenção predial/industrial (HVAC)",
+  "principal_produto": "Manutenção de ar-condicionado, PMOC e projetos de engenharia civil",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços de manutenção/engenharia, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 774,
+  "dominio_efetivo": "phinia.com",
+  "empresa": "PHINIA",
+  "segmento": "Sistemas de combustível e pós-mercado automotivo",
+  "principal_produto": "Bicos injetores, bombas de combustível e componentes de motor",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de precisão em aço para sistemas de injeção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 775,
+  "dominio_efetivo": "ael.com.br",
+  "empresa": "AEL Sistemas (Elbit)",
+  "segmento": "Defesa e eletrônica militar",
+  "principal_produto": "Sistemas eletrônicos de defesa, mísseis e aviônicos",
+  "fabrica_brasil": "Atibaia/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de eletrônica; possíveis carcaças e estruturas metálicas de sistemas",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 776,
+  "dominio_efetivo": "ifelaser.com.br",
+  "empresa": "IFE Laser",
+  "segmento": "Corte e conformação de chapas metálicas",
+  "principal_produto": "Corte a laser, dobra e solda de chapas em aço carbono, inox e alumínio",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Serviço de corte a laser diretamente sobre chapas de aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 777,
+  "dominio_efetivo": "brevil.ind.br",
+  "empresa": "Brevil Bremer Metalmecânica",
+  "segmento": "Equipamentos de içamento e movimentação",
+  "principal_produto": "Pontes rolantes, pórticos e talhas elétricas",
+  "fabrica_brasil": "Rio do Sul/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de içamento fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 778,
+  "dominio_efetivo": "hassmann.com.br",
+  "empresa": "Hassmann",
+  "segmento": "Fixadores industriais",
+  "principal_produto": "Parafusos, rebites e peças especiais",
+  "fabrica_brasil": "Imigrante/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de fixadores por estampagem/rosqueamento em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 779,
+  "dominio_efetivo": "sumidenso.com.br",
+  "empresa": "Sumidenso",
+  "segmento": "Chicotes elétricos automotivos (JV Sumitomo/Denso)",
+  "principal_produto": "Chicotes elétricos para veículos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é fiação/cabeamento, não aço",
+  "fonte": "conhecimento setorial"
+ }
+]

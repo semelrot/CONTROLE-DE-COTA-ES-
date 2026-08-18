@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 740,
+  "dominio_efetivo": "macrosul.com.br",
+  "empresa": "Macrosul",
+  "segmento": "Produtos médicos hospitalares",
+  "principal_produto": "Equipamentos de diagnóstico e monitoramento hospitalar",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora/fabricante de equipamentos médicos, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 741,
+  "dominio_efetivo": "freudenberg-filter.com",
+  "empresa": "Freudenberg Filtration Technologies",
+  "segmento": "Filtros industriais",
+  "principal_produto": "Meios filtrantes e sistemas de filtração de ar/óleo",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Elementos filtrantes têxteis/não tecidos; carcaças metálicas em parte dos sistemas",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 742,
+  "dominio_efetivo": "vv.com.br",
+  "empresa": "VV",
+  "segmento": "Peças de reposição para colheitadeiras",
+  "principal_produto": "Côncavos, grelhas e componentes de trilha para colheitadeiras",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Peças de desgaste para colheitadeiras fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 743,
+  "dominio_efetivo": "leal.com.br",
+  "empresa": "Leal Equipamentos de Proteção",
+  "segmento": "Equipamentos de proteção individual e coletiva (EPI/EPC)",
+  "principal_produto": "Capacetes, cintos de segurança e equipamentos de proteção",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Produtos majoritariamente em plástico/têxtil; alguns EPCs usam estrutura metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 744,
+  "dominio_efetivo": "cabotcorp.com",
+  "empresa": "Cabot Corporation",
+  "segmento": "Química de especialidades (negro de fumo)",
+  "principal_produto": "Negro de fumo e sílicas para pneus e plásticos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria química de especialidades, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 745,
+  "dominio_efetivo": "ellan.com.br",
+  "empresa": "Ellan",
+  "segmento": "Mobiliário técnico e industrial",
+  "principal_produto": "Racks de TI, mesas técnicas e mobiliário industrial sob medida",
+  "fabrica_brasil": "Boituva/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Mobiliário técnico e industrial fabricado em estrutura metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 746,
+  "dominio_efetivo": "metalnobreindustria.com",
+  "empresa": "Metal Nobre Indústria Mecânica",
+  "segmento": "Indústria mecânica/metalúrgica",
+  "principal_produto": "Peças e componentes metálicos sob encomenda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome e razão social ('Indústria Mecânica') indicam fabricação em metal",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 747,
+  "dominio_efetivo": "vagas.com.br",
+  "empresa": "Vagas.com",
+  "segmento": "Portal de recrutamento e empregos",
+  "principal_produto": "Plataforma online de vagas de emprego",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Plataforma de recrutamento online, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 748,
+  "dominio_efetivo": "ache.com.br",
+  "empresa": "Aché Laboratórios",
+  "segmento": "Indústria farmacêutica",
+  "principal_produto": "Medicamentos",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Laboratório farmacêutico, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 749,
+  "dominio_efetivo": "agricolaalvorada.com.br",
+  "empresa": "Agrícola Alvorada",
+  "segmento": "Comércio de grãos e insumos agrícolas",
+  "principal_produto": "Compra/venda de soja e milho, sementes, fertilizantes e defensivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Trading agrícola e revenda de insumos, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 750,
+  "dominio_efetivo": "grupobrinox.com.br",
+  "empresa": "Grupo Brinox",
+  "segmento": "Utensílios domésticos em aço inox",
+  "principal_produto": "Panelas, talheres e utensílios de cozinha (marcas Brinox, Coza, Haus Concept, Rasco)",
+  "fabrica_brasil": "Caxias do Sul/RS, Linhares/ES",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Utensílios fabricados em aço inoxidável, aço cromado e alumínio",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 751,
+  "dominio_efetivo": "gruposantin.com.br",
+  "empresa": "Grupo Santin",
+  "segmento": "Içamento, transporte de carga e metalurgia",
+  "principal_produto": "Guindastes, montagens industriais e estruturas metálicas (Caldebras)",
+  "fabrica_brasil": "Américo Brasiliense/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Grupo inclui indústria metalúrgica (Caldebras) e equipamentos de içamento em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 752,
+  "dominio_efetivo": "itaesbra.com.br",
+  "empresa": "Itaesbra",
+  "segmento": "Estamparia e conjuntos soldados",
+  "principal_produto": "Peças estampadas e conjuntos soldados para automotivo, agrícola e linha branca",
+  "fabrica_brasil": "Diadema/SP, Igarassu/PE",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de conjuntos de aço soldados e estampados (mais de 700 itens)",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 753,
+  "dominio_efetivo": "husqvarnagroup.com",
+  "empresa": "Husqvarna Group",
+  "segmento": "Equipamentos motorizados para jardim e floresta",
+  "principal_produto": "Motosserras, roçadeiras e equipamentos de corte",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Lâminas e correntes de corte fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 754,
+  "dominio_efetivo": "sulmeta.com.br",
+  "empresa": "Sulmeta",
+  "segmento": "Estruturas metálicas para construção",
+  "principal_produto": "Estruturas metálicas e telhas zipadas em aço galvanizado/zincado",
+  "fabrica_brasil": "Nova Bassano/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Projeto, fabricação e montagem de estruturas metálicas para grandes obras",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 755,
+  "dominio_efetivo": "vesuvius.com",
+  "empresa": "Vesuvius",
+  "segmento": "Materiais refratários para siderurgia e fundição",
+  "principal_produto": "Refratários, sistemas de fluxo de aço líquido",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fornece refratários à cadeia do aço, mas não consome aço como matéria-prima",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 756,
+  "dominio_efetivo": "perkins.com",
+  "empresa": "Perkins",
+  "segmento": "Motores a diesel",
+  "principal_produto": "Motores diesel para máquinas e geradores",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Blocos e componentes de motor fabricados em ferro fundido/aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 757,
+  "dominio_efetivo": "dide.com.br",
+  "empresa": "Dide Eletrometalúrgica",
+  "segmento": "Estruturas elétricas eletrometalúrgicas",
+  "principal_produto": "Painéis e estruturas elétricas para instalações de média/alta tensão",
+  "fabrica_brasil": "Americana/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas eletrometalúrgicas em diversos materiais, incluindo aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 758,
+  "dominio_efetivo": "industrialkf.com.br",
+  "empresa": "Industrial KF",
+  "segmento": "Implementos e máquinas agrícolas",
+  "principal_produto": "Plantadoras, semeadoras, carretas e plataformas de milho",
+  "fabrica_brasil": "Cândido Godói/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas e implementos agrícolas fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 759,
+  "dominio_efetivo": "ablbrasil.com.br",
+  "empresa": "ABL Antibióticos do Brasil",
+  "segmento": "Indústria farmacêutica (antibióticos)",
+  "principal_produto": "Antibióticos e medicamentos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria farmacêutica, não consome aço",
+  "fonte": "conhecimento setorial"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 720,
+  "dominio_efetivo": "basf.com",
+  "empresa": "BASF",
+  "segmento": "Química diversificada",
+  "principal_produto": "Químicos, plásticos, tintas e agroquímicos",
+  "fabrica_brasil": "Guaratinguetá/SP e outras",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria química; não consome aço como matéria-prima principal",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 721,
+  "dominio_efetivo": "realeza.ind.br",
+  "empresa": "Metalúrgica Realeza",
+  "segmento": "Fixadores especiais",
+  "principal_produto": "Parafusos, rebites, pinos e peças especiais",
+  "fabrica_brasil": "Jundiaí/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de fixadores em materiais ferrosos para automotivo/duas rodas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 722,
+  "dominio_efetivo": "cbadiesel.com.br",
+  "empresa": "CBA Diesel",
+  "segmento": "Distribuição de autopeças diesel",
+  "principal_produto": "Peças de reposição para caminhões, carretas e ônibus",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 723,
+  "dominio_efetivo": "vibracoustic.com",
+  "empresa": "Vibracoustic",
+  "segmento": "Controle de vibração automotivo",
+  "principal_produto": "Coxins de motor e componentes metal-borracha",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes metal-borracha combinam insertos metálicos com elastômero",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 724,
+  "dominio_efetivo": "ferroindustria.com.br",
+  "empresa": "Ferro Indústria",
+  "segmento": "Equipamentos de içamento e movimentação de carga",
+  "principal_produto": "Pontes rolantes, pórticos e semipórticos",
+  "fabrica_brasil": "Araras/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de içamento para a indústria siderúrgica fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 725,
+  "dominio_efetivo": "tenenge.com",
+  "empresa": "Tenenge Engenharia",
+  "segmento": "Engenharia industrial (óleo e gás, química, papel e celulose, energia)",
+  "principal_produto": "Projetos e execução de obras industriais complexas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de grandes obras industriais que envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 726,
+  "dominio_efetivo": "metalurgicarocha.com.br",
+  "empresa": "Metalúrgica Rocha",
+  "segmento": "Ferragens para construção civil",
+  "principal_produto": "Dobradiças, fechos, cadeados e ferragens em geral",
+  "fabrica_brasil": "Suzano/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante tradicional de ferragens metálicas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 727,
+  "dominio_efetivo": "danone.com",
+  "empresa": "Danone",
+  "segmento": "Alimentos e laticínios",
+  "principal_produto": "Iogurtes, leites e água mineral",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria alimentícia, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 728,
+  "dominio_efetivo": "sazi.com.br",
+  "empresa": "Grupo Sazi",
+  "segmento": "Máquinas para calçados e metalurgia sob encomenda",
+  "principal_produto": "Máquinas para lavanderia industrial, calçados e serviços de corte/solda em aço",
+  "fabrica_brasil": "Farroupilha/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Unidade Sazi Laser realiza corte, dobra e solda de chapas de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 729,
+  "dominio_efetivo": "marksell.com.br",
+  "empresa": "MKS Marksell",
+  "segmento": "Equipamentos para movimentação de cargas",
+  "principal_produto": "Plataformas niveladoras de doca, docas móveis e elevadores de carga",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de movimentação de carga fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 730,
+  "dominio_efetivo": "parex.com.br",
+  "empresa": "ParexGroup",
+  "segmento": "Argamassas e revestimentos para construção",
+  "principal_produto": "Argamassas adesivas e rejuntes",
+  "fabrica_brasil": "Osasco/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos à base de cimento/gesso, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 731,
+  "dominio_efetivo": "klabin.com.br",
+  "empresa": "Klabin",
+  "segmento": "Papel e celulose",
+  "principal_produto": "Papel, papelão ondulado e celulose",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de papel e celulose, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 732,
+  "dominio_efetivo": "stoneridge.com",
+  "empresa": "Stoneridge",
+  "segmento": "Eletrônica automotiva",
+  "principal_produto": "Sistemas de câmera-monitor, painéis e sensores",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de eletrônica; carcaças e conectores metálicos em menor proporção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 733,
+  "dominio_efetivo": "hyva.com",
+  "empresa": "Hyva",
+  "segmento": "Sistemas hidráulicos para veículos comerciais",
+  "principal_produto": "Cilindros hidráulicos, guindastes e sistemas basculantes para caminhões",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Cilindros e caçambas basculantes fabricados em aço de alta resistência",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 734,
+  "dominio_efetivo": "engepecas.com.br",
+  "empresa": "Engepeças",
+  "segmento": "Distribuição de peças de reposição para máquinas pesadas",
+  "principal_produto": "Peças para Caterpillar, Komatsu, Cummins e JCB",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de peças de reposição, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 735,
+  "dominio_efetivo": "scherdel.com",
+  "empresa": "Scherdel",
+  "segmento": "Molas industriais e automotivas",
+  "principal_produto": "Molas helicoidais e componentes de arame",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de molas em fio/arame de aço para automotivo",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 736,
+  "dominio_efetivo": "metalnk.com.br",
+  "empresa": "Metalúrgica Nakayone",
+  "segmento": "Metalurgia (setor automotivo)",
+  "principal_produto": "Peças metálicas para o setor veicular",
+  "fabrica_brasil": "Cabreúva/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Metalúrgica ligada à fabricação de veículos; nome e CNAE indicam trabalho com metal",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 737,
+  "dominio_efetivo": "geofix.com.br",
+  "empresa": "Geofix Engenharia",
+  "segmento": "Fundações e estaqueamento",
+  "principal_produto": "Hélice contínua, hidrofresa e paredes diafragma",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Armaduras de aço são insumo do serviço de fundação, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 738,
+  "dominio_efetivo": "concremat.com.br",
+  "empresa": "Concremat Engenharia e Tecnologia",
+  "segmento": "Engenharia consultiva e gerenciamento de projetos",
+  "principal_produto": "Estudos, projetos e gerenciamento de obras de infraestrutura",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Consultoria de engenharia, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 739,
+  "dominio_efetivo": "multifuros.com.br",
+  "empresa": "Multifuros",
+  "segmento": "Chapas perfuradas e grades metálicas",
+  "principal_produto": "Chapas perfuradas, expandidas, gradis e grelhas de piso em aço",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação em aço carbono, inox e alumínio (chapas perfuradas e gradis)",
+  "fonte": "busca web"
+ }
+]

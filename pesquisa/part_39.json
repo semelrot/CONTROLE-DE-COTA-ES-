@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 780,
+  "dominio_efetivo": "grendene.com.br",
+  "empresa": "Grendene",
+  "segmento": "Calçados plásticos (Melissa, Ipanema, Rider)",
+  "principal_produto": "Sandálias e calçados de plástico injetado",
+  "fabrica_brasil": "Sobral/CE, Farroupilha/RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Calçados de plástico injetado, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 781,
+  "dominio_efetivo": "sianfer.com.br",
+  "empresa": "Sianfer",
+  "segmento": "Distribuição de aço inox e ligas de alto desempenho",
+  "principal_produto": "Barras, tubos, chapas e cantoneiras em aço inox e liga alta",
+  "fabrica_brasil": "Santo André/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Especializada em aço inoxidável e ligas de alto desempenho, não aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 782,
+  "dominio_efetivo": "cemacobr.com.br",
+  "empresa": "Cemaço (Centro Manufatureiro do Aço)",
+  "segmento": "Distribuição e corte de chapas de aço",
+  "principal_produto": "Chapas de aço (A36, A516, A572, SAE 1045, INOX) cortadas e usinadas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fornecedor de aço cortado sob medida, reconhecido por Usiminas, Gerdau e ArcelorMittal",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 783,
+  "dominio_efetivo": "thermoval.com.br",
+  "empresa": "Thermoval Válvulas",
+  "segmento": "Válvulas solenoides e industriais",
+  "principal_produto": "Válvulas solenoides, pneumáticas e industriais",
+  "fabrica_brasil": "Cravinhos/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Válvulas e componentes metálicos usinados; parte da produção usa latão/aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 784,
+  "dominio_efetivo": "iam.com.br",
+  "empresa": "IAM - Indústria Auto Metalúrgica",
+  "segmento": "Iluminação automotiva",
+  "principal_produto": "Faróis, lanternas e retrovisores para veículos",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Nome inclui 'metalúrgica', mas produto é majoritariamente plástico/vidro com suportes metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 785,
+  "dominio_efetivo": "tmsa.com.br",
+  "empresa": "TMSA (Tecnologia em Movimentação)",
+  "segmento": "Equipamentos para movimentação de granéis sólidos",
+  "principal_produto": "Elevadores de canecas, carregadores e descarregadores de navios",
+  "fabrica_brasil": "Porto Alegre/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos portuários de grande porte fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 786,
+  "dominio_efetivo": "permetal.com.br",
+  "empresa": "Permetal",
+  "segmento": "Metais perfurados",
+  "principal_produto": "Chapas perfuradas, expandidas e grelhas metálicas",
+  "fabrica_brasil": "Cravinhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Líder em perfurados metálicos em aço carbono e inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 787,
+  "dominio_efetivo": "arconic.com",
+  "empresa": "Arconic",
+  "segmento": "Produtos de alumínio",
+  "principal_produto": "Chapas e componentes de alumínio para aeroespacial e automotivo",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtora de alumínio, não aço carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 788,
+  "dominio_efetivo": "cranfos.com.br",
+  "empresa": "Cranfos",
+  "segmento": "Controle de emissões atmosféricas",
+  "principal_produto": "Precipitadores eletrostáticos, filtros de mangas e trocadores de calor",
+  "fabrica_brasil": "São Paulo/SP, Linhares/ES",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de controle ambiental de grande porte fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 789,
+  "dominio_efetivo": "gmebrasil.com.br",
+  "empresa": "GME Aerospace",
+  "segmento": "Automação industrial e componentes aeroespaciais",
+  "principal_produto": "AGVs, máquinas especiais e peças de material composto para aeroespacial",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Máquinas especiais em estrutura metálica; divisão aeroespacial usa material composto",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 790,
+  "dominio_efetivo": "engepar.com",
+  "empresa": "Engepar",
+  "segmento": "Construção civil (Campo Grande/Dourados-MS)",
+  "principal_produto": "Empreendimentos residenciais e comerciais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Nome ambíguo (várias empresas 'Engepar' no Brasil); construtora usa armadura de aço, mas não é fabricante metalúrgica",
+  "fonte": "busca web (ambíguo)"
+ },
+ {
+  "idx": 791,
+  "dominio_efetivo": "alliance.ind.br",
+  "empresa": "Alliance",
+  "segmento": "Equipamentos para extração de óleos vegetais",
+  "principal_produto": "Máquinas para preparação e extração de óleo vegetal e ração animal",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos industriais de extração fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 792,
+  "dominio_efetivo": "librelato.com.br",
+  "empresa": "Librelato",
+  "segmento": "Implementos rodoviários",
+  "principal_produto": "Semirreboques, carretas e bitrens",
+  "fabrica_brasil": "Içara/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante tradicional de implementos rodoviários em estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 793,
+  "dominio_efetivo": "rhinomaquinas.com.br",
+  "empresa": "Rhino Máquinas",
+  "segmento": "Máquinas CNC Router",
+  "principal_produto": "Roteadoras CNC e máquinas de corte a laser",
+  "fabrica_brasil": "Novo Hamburgo/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura das máquinas CNC fabricada em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 794,
+  "dominio_efetivo": "maxionsc.com",
+  "empresa": "Iochpe-Maxion",
+  "segmento": "Rodas e componentes estruturais automotivos",
+  "principal_produto": "Rodas de aço, chassis e componentes estruturais para veículos",
+  "fabrica_brasil": "Cruzeiro/SP, Limeira/SP e outras",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante de rodas de aço automotivas do mundo",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 795,
+  "dominio_efetivo": "torkpower.com.br",
+  "empresa": "Tork Power Service",
+  "segmento": "Manutenção de redutores industriais",
+  "principal_produto": "Reforma e manutenção de redutores, motorredutores e engrenagens",
+  "fabrica_brasil": "Sertãozinho/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Presta serviço sobre componentes de aço (engrenagens), mas não é fabricante primário",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 796,
+  "dominio_efetivo": "ferusi.com.br",
+  "empresa": "Ferusi",
+  "segmento": "Ferramentaria e usinagem",
+  "principal_produto": "Bancadas, carrinhos, ferramentas e serviços de usinagem/solda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de ferramentas e bancadas em aço para clientes como Deere/Hitachi",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 797,
+  "dominio_efetivo": "autsistemas.com.br",
+  "empresa": "Aut Sistemas de Automação",
+  "segmento": "Máquinas especiais e automação industrial",
+  "principal_produto": "Linhas de montagem automotiva e retrofit de máquinas CNC",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de máquinas para a indústria metalúrgica, automotiva e siderúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 798,
+  "dominio_efetivo": "kelvion.com",
+  "empresa": "Kelvion",
+  "segmento": "Trocadores de calor industriais",
+  "principal_produto": "Trocadores de calor a placas, tubulares e a ar",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Trocadores de calor fabricados em aço inoxidável/carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 799,
+  "dominio_efetivo": "huismanequipment.com",
+  "empresa": "Huisman",
+  "segmento": "Equipamentos de içamento pesado offshore",
+  "principal_produto": "Guindastes offshore, sistemas de perfuração e torres de içamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de içamento pesado fabricados em aço estrutural de alta resistência",
+  "fonte": "conhecimento setorial"
+ }
+]

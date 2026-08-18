@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 960,
+  "dominio_efetivo": "caramuruconstrucoes.com.br",
+  "empresa": "Caramurú Construções",
+  "segmento": "Construção de linhas de transmissão e subestações",
+  "principal_produto": "Linhas de transmissão, redes de distribuição e subestações elétricas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Torres e estruturas de linhas de transmissão são de aço, mas a empresa executa obras, não fabrica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 961,
+  "dominio_efetivo": "fabbof.com.br",
+  "empresa": "Fabbof",
+  "segmento": "Distribuição de autopeças para veículos pesados",
+  "principal_produto": "Peças de reposição para Fiat, MAN e Iveco",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 962,
+  "dominio_efetivo": "tracan.com.br",
+  "empresa": "Tracan",
+  "segmento": "Concessionária de máquinas agrícolas (Case IH/FPT/Polaris)",
+  "principal_produto": "Máquinas agrícolas, peças de reposição e distribuição FPT",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Concessionária/revenda de máquinas, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 963,
+  "dominio_efetivo": "ifmg.edu.br",
+  "empresa": "IFMG",
+  "segmento": "Educação técnica e superior",
+  "principal_produto": "Cursos técnicos e superiores",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Instituição de ensino federal, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 964,
+  "dominio_efetivo": "coplac.ind.br",
+  "empresa": "Coplac",
+  "segmento": "Isolantes termoacústicos automotivos",
+  "principal_produto": "Isolantes térmicos/acústicos e revestimentos internos de veículos",
+  "fabrica_brasil": "Taubaté/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos em materiais não tecidos e espuma, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 965,
+  "dominio_efetivo": "mastermag.com.br",
+  "empresa": "Master Magazine",
+  "segmento": "Varejo de calçados e vestuário",
+  "principal_produto": "Calçados, roupas e acessórios",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede varejista de calçados/vestuário, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 966,
+  "dominio_efetivo": "viracopos.com",
+  "empresa": "Aeroportos Brasil Viracopos",
+  "segmento": "Operação aeroportuária",
+  "principal_produto": "Administração e operação do Aeroporto de Viracopos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de aeroporto, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 967,
+  "dominio_efetivo": "aesa.com.br",
+  "empresa": "AESA",
+  "segmento": "Molas para reboques e caminhões",
+  "principal_produto": "Feixes de mola convencionais/parabólicos e grampos de fixação",
+  "fabrica_brasil": "Londrina/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Feixes de mola fabricados em aço para caminhões e implementos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 968,
+  "dominio_efetivo": "mga.com.br",
+  "empresa": "MGA",
+  "segmento": "Válvulas e conexões industriais",
+  "principal_produto": "Válvulas industriais e peças microfundidas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Válvulas e peças microfundidas fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 969,
+  "dominio_efetivo": "usangelo.com.br",
+  "empresa": "Usinagem São Ângelo",
+  "segmento": "Usinagem de precisão",
+  "principal_produto": "Peças usinadas sob encomenda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa indica atividade de usinagem em metal",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 970,
+  "dominio_efetivo": "grupoagtech.com",
+  "empresa": "AGTech Agrotecnologia",
+  "segmento": "Tecnologia agrícola de precisão (sucroenergético)",
+  "principal_produto": "Veículos e equipamentos para pulverização, amostragem de solo e gestão agrícola",
+  "fabrica_brasil": "São José do Rio Preto/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Veículos e equipamentos especializados (Naja, Furão) fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 971,
+  "dominio_efetivo": "bvtubos.com.br",
+  "empresa": "BV Tubos",
+  "segmento": "Tubos de aço",
+  "principal_produto": "Tubos de aço carbono e conexões",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa indica comercialização/fabricação de tubos de aço",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 972,
+  "dominio_efetivo": "volvocars.com",
+  "empresa": "Volvo Car Corporation",
+  "segmento": "Montadora de automóveis",
+  "principal_produto": "Automóveis de passeio",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia e solda de carroceria em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 973,
+  "dominio_efetivo": "licav.com.br",
+  "empresa": "Licav",
+  "segmento": "Estamparia metálica",
+  "principal_produto": "Peças estampadas para linha branca, automotivo e energia solar",
+  "fabrica_brasil": "Limeira/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia com prensas de 45 a 1.500 toneladas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 974,
+  "dominio_efetivo": "jabil.com",
+  "empresa": "Jabil",
+  "segmento": "Manufatura eletrônica contratada (EMS)",
+  "principal_produto": "Montagem de placas e produtos eletrônicos para terceiros",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de manufatura eletrônica, não consome aço como insumo principal",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 975,
+  "dominio_efetivo": "telefonica.com",
+  "empresa": "Telefônica",
+  "segmento": "Telecomunicações",
+  "principal_produto": "Telefonia, internet e serviços digitais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de telecomunicações, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 976,
+  "dominio_efetivo": "huntsman.com",
+  "empresa": "Huntsman",
+  "segmento": "Química diversificada",
+  "principal_produto": "Poliuretanos, resinas e químicos industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria química, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 977,
+  "dominio_efetivo": "gardnerdenver.com",
+  "empresa": "Gardner Denver",
+  "segmento": "Compressores e bombas industriais",
+  "principal_produto": "Compressores de ar e bombas de vácuo industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Compressores e bombas fabricados em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 978,
+  "dominio_efetivo": "lcmconstrucao.com.br",
+  "empresa": "LCM Construção e Comércio",
+  "segmento": "Construção pesada (rodovias e infraestrutura urbana)",
+  "principal_produto": "Rodovias, pavimentação e infraestrutura urbana",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Obras de infraestrutura envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 979,
+  "dominio_efetivo": "perfimec.com.br",
+  "empresa": "Perfimec",
+  "segmento": "Centro de serviços em aço",
+  "principal_produto": "Corte, dobra e estruturas metálicas em aço plano",
+  "fabrica_brasil": "São José dos Pinhais/PR, Betim/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa cerca de 40.000 toneladas/ano de aços planos",
+  "fonte": "busca web"
+ }
+]

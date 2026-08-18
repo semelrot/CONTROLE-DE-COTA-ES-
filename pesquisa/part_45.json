@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 900,
+  "dominio_efetivo": "polimaquinas.com.br",
+  "empresa": "Polimáquinas",
+  "segmento": "Máquinas para embalagens plásticas flexíveis",
+  "principal_produto": "Máquinas de corte e solda de sacolas e embalagens plásticas",
+  "fabrica_brasil": "Bauru/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante metalúrgico de máquinas industriais em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 901,
+  "dominio_efetivo": "grupolelac.com.br",
+  "empresa": "Grupo Le Lac",
+  "segmento": "Concessionárias multimarcas de veículos",
+  "principal_produto": "Venda de veículos Peugeot, Citroën, Jeep, RAM e Hyundai",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de concessionárias, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 902,
+  "dominio_efetivo": "sil.com.br",
+  "empresa": "SIL Fios e Cabos Elétricos",
+  "segmento": "Fios e cabos elétricos",
+  "principal_produto": "Cabos flexíveis, cordões e fios de cobre",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é cobre, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 903,
+  "dominio_efetivo": "qualiferr.com",
+  "empresa": "Qualiferr",
+  "segmento": "Ferramentaria e usinagem para setor de óleo",
+  "principal_produto": "Dispositivos especiais, peças usinadas e nacionalização de peças",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usinagem especial para o setor de óleo e gás, tipicamente em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 904,
+  "dominio_efetivo": "metalock.com.br",
+  "empresa": "Metalock Brasil",
+  "segmento": "Manutenção industrial e naval",
+  "principal_produto": "Reparo a frio de peças em ferro fundido, inspeção e comissionamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Serviço de reparo sobre ferro fundido (liga ferrosa correlata), não é fabricante de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 905,
+  "dominio_efetivo": "vigor.com.br",
+  "empresa": "Vigor",
+  "segmento": "Laticínios",
+  "principal_produto": "Iogurtes, queijos e leites fermentados",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de laticínios, não consome aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 906,
+  "dominio_efetivo": "viapol.com.br",
+  "empresa": "Viapol",
+  "segmento": "Impermeabilizantes e produtos químicos para construção",
+  "principal_produto": "Mantas asfálticas, adesivos e impermeabilizantes",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos químicos para construção, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 907,
+  "dominio_efetivo": "enclimar.com.br",
+  "empresa": "Enclimar",
+  "segmento": "Engenharia de climatização industrial",
+  "principal_produto": "Instalação e manutenção de ar-condicionado, ventilação e refrigeração",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços de climatização, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 908,
+  "dominio_efetivo": "wipro.com",
+  "empresa": "Wipro",
+  "segmento": "Consultoria e serviços de TI",
+  "principal_produto": "Outsourcing e consultoria de tecnologia",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de serviços de TI, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 909,
+  "dominio_efetivo": "emphasys-pack.com.br",
+  "empresa": "Emphasys Health & Beauty",
+  "segmento": "Embalagens farmacêuticas e cosméticas",
+  "principal_produto": "Embalagens airless, dispensers e potes para cosméticos/farmacêuticos",
+  "fabrica_brasil": "Porto Feliz/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Embalagens plásticas, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 910,
+  "dominio_efetivo": "fueltech.com.br",
+  "empresa": "FuelTech",
+  "segmento": "Eletrônica para gerenciamento de motores",
+  "principal_produto": "Módulos de injeção eletrônica e telemetria automotiva",
+  "fabrica_brasil": "Porto Alegre/RS",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônica embarcada, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 911,
+  "dominio_efetivo": "mextrametal.com.br",
+  "empresa": "Mextra",
+  "segmento": "Ferroligas e metais não ferrosos",
+  "principal_produto": "Ligas de manganês, cromo, cobre e ferro em tabletes/briquetes; bronze e latão",
+  "fabrica_brasil": "Taubaté/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fornece ligas de liga ao aço à indústria siderúrgica/fundição, mas produto principal não é aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 912,
+  "dominio_efetivo": "tseaenergia.com.br",
+  "empresa": "TSEA Energia",
+  "segmento": "Transformadores e equipamentos de energia",
+  "principal_produto": "Transformadores de potência, reguladores de tensão e subestações compactas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tanques de transformadores fabricados em chapa de aço carbono",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 913,
+  "dominio_efetivo": "clamper.com.br",
+  "empresa": "Clamper",
+  "segmento": "Proteção contra surtos elétricos",
+  "principal_produto": "Dispositivos de proteção contra surtos (DPS) e para-raios",
+  "fabrica_brasil": "Belo Horizonte/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônico/elétrico, não estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 914,
+  "dominio_efetivo": "prensajundiai.com",
+  "empresa": "Prensa Jundiaí",
+  "segmento": "Máquinas-ferramenta (prensas)",
+  "principal_produto": "Prensas mecânicas, hidráulicas e servo para conformação de metais",
+  "fabrica_brasil": "Campo Limpo Paulista/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de prensas para conformação de aço, estrutura própria em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 915,
+  "dominio_efetivo": "rdkmolas.com.br",
+  "empresa": "RDK Molas",
+  "segmento": "Molas e artefatos em arame",
+  "principal_produto": "Molas de compressão, tração, torção e peças estampadas",
+  "fabrica_brasil": "Igaratá/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Molas e peças estampadas fabricadas em arame e fita de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 916,
+  "dominio_efetivo": "conexled.com",
+  "empresa": "Conexled",
+  "segmento": "Iluminação LED",
+  "principal_produto": "Luminárias e produtos de iluminação LED",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto é eletrônico/iluminação, não estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 917,
+  "dominio_efetivo": "dicico.com.br",
+  "empresa": "Dicico",
+  "segmento": "Varejo de materiais de construção",
+  "principal_produto": "Materiais de construção, acabamento e reforma",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede varejista, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 918,
+  "dominio_efetivo": "boellhoff.com",
+  "empresa": "Böllhoff",
+  "segmento": "Fixadores e sistemas de montagem industrial",
+  "principal_produto": "Parafusos, insertos e sistemas de fixação",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fixadores industriais fabricados majoritariamente em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 919,
+  "dominio_efetivo": "bruno.com.br",
+  "empresa": "Bruno Fibertech",
+  "segmento": "Equipamentos para preparação de massa (papel e celulose)",
+  "principal_produto": "Discos e cônicos para refinadores de celulose",
+  "fabrica_brasil": "Campos Novos/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Discos e cônicos de refinação fabricados em aço",
+  "fonte": "busca web"
+ }
+]

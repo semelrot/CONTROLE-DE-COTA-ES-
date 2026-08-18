@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 980,
+  "dominio_efetivo": "ital.com.br",
+  "empresa": "Ital",
+  "segmento": "Equipamentos magnéticos e eletromagnéticos",
+  "principal_produto": "Separadores magnéticos, ímãs industriais e elevadores magnéticos",
+  "fabrica_brasil": "Cotia/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos robustos (placas, tambores, polias magnéticas) fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 981,
+  "dominio_efetivo": "cortezip.com.br",
+  "empresa": "Cortezip",
+  "segmento": "Coberturas e estruturas metálicas",
+  "principal_produto": "Telha zipada e coberturas metálicas para construção",
+  "fabrica_brasil": "Barueri/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Sistema de cobertura em telha zipada de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 982,
+  "dominio_efetivo": "enersys.com",
+  "empresa": "EnerSys",
+  "segmento": "Baterias industriais",
+  "principal_produto": "Baterias chumbo-ácido para empilhadeiras e telecom",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é chumbo/eletrólito, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 983,
+  "dominio_efetivo": "daisa.com.br",
+  "empresa": "Daisa Indústria Metalúrgica",
+  "segmento": "Conexões elétricas sem rosca",
+  "principal_produto": "Dualetes e conexões para eletrodutos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Peças metálicas estampadas, mas de menor porte/estrutural que produtos de aço carbono típicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 984,
+  "dominio_efetivo": "mersen.com",
+  "empresa": "Mersen",
+  "segmento": "Materiais de grafite e proteção elétrica",
+  "principal_produto": "Escovas de carvão, fusíveis e materiais avançados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes de grafite/carbono; carcaças e fixadores metálicos em menor proporção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 985,
+  "dominio_efetivo": "tbl.com.br",
+  "empresa": "Bertolini Construção Naval",
+  "segmento": "Construção naval",
+  "principal_produto": "Embarcações e estruturas navais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas navais fabricadas em chapa de aço naval",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 986,
+  "dominio_efetivo": "kuka.com",
+  "empresa": "KUKA",
+  "segmento": "Robótica industrial",
+  "principal_produto": "Robôs industriais e sistemas de automação",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura de robôs industriais fabricada em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 987,
+  "dominio_efetivo": "polimetal.ind.br",
+  "empresa": "Polimetal",
+  "segmento": "Metalurgia",
+  "principal_produto": "Peças e componentes metálicos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa indica atividade metalúrgica",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 988,
+  "dominio_efetivo": "grupounimetal.com.br",
+  "empresa": "Unimetal",
+  "segmento": "Metalurgia",
+  "principal_produto": "Peças e componentes metálicos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa indica atividade metalúrgica",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 989,
+  "dominio_efetivo": "gvssport.com.br",
+  "empresa": "GVS Sport",
+  "segmento": "Peças de reposição para motocicletas",
+  "principal_produto": "Espelhos, piscas e guidões para motos",
+  "fabrica_brasil": "Mairiporã/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtos majoritariamente em plástico e vidro (espelhos convexos)",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 990,
+  "dominio_efetivo": "flexways.com.br",
+  "empresa": "Flexways",
+  "segmento": "Materiais hidráulicos e elétricos (MRO)",
+  "principal_produto": "Mangueiras industriais/offshore, tubos metálicos flexíveis e material elétrico à prova de explosão",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Tubos metálicos flexíveis fazem parte do mix, mas empresa é revendedora de MRO",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 991,
+  "dominio_efetivo": "gcabegroup.com.br",
+  "empresa": "GCABE Group",
+  "segmento": "Cabos elétricos especiais e componentes de borracha",
+  "principal_produto": "Cabos elétricos, componentes de borracha e silicone para indústria",
+  "fabrica_brasil": "São Bernardo do Campo/SP, Carapicuíba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é cabo elétrico e borracha, não aço (atende setor siderúrgico como cliente)",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 992,
+  "dominio_efetivo": "kll.com.br",
+  "empresa": "KLL",
+  "segmento": "Suspensões para veículos comerciais",
+  "principal_produto": "Suspensões pneumáticas e mecânicas para caminhões, ônibus e semirreboques",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Sistemas de suspensão fabricados em aço para veículos pesados",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 993,
+  "dominio_efetivo": "dhl.com",
+  "empresa": "DHL",
+  "segmento": "Logística e transporte",
+  "principal_produto": "Transporte expresso e logística",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora logística, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 994,
+  "dominio_efetivo": "inductothermgroup.com.br",
+  "empresa": "Inductotherm",
+  "segmento": "Fornos de indução para fundição",
+  "principal_produto": "Fornos de indução para fusão de metais (ferro, aço, alumínio)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de fornos de fusão usados diretamente na produção de aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 995,
+  "dominio_efetivo": "adoro.com.br",
+  "empresa": "AD'ORO",
+  "segmento": "Abate e processamento de frango",
+  "principal_produto": "Cortes de frango in natura, congelado e resfriado",
+  "fabrica_brasil": "Várzea Paulista/SP e outras",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de proteína animal, não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 996,
+  "dominio_efetivo": "ima.ind.br",
+  "empresa": "IMA (Alli Metalúrgica)",
+  "segmento": "Autopeças (cubos de roda e transmissão)",
+  "principal_produto": "Cubos de roda, juntas homocinéticas e componentes de suspensão",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de suspensão e transmissão fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 997,
+  "dominio_efetivo": "acoscontinente.com.br",
+  "empresa": "Aços Continente",
+  "segmento": "Distribuição de aço",
+  "principal_produto": "Chapas, barras e perfis de aço",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome da empresa confirma atividade de distribuição/comércio de aço",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 998,
+  "dominio_efetivo": "fitacabo.com.br",
+  "empresa": "Fitacabo",
+  "segmento": "Cintas e cabos de aço para movimentação de carga",
+  "principal_produto": "Cintas de amarração, cabos de aço e correntes para içamento",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de cabos de aço e correntes para elevação de cargas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 999,
+  "dominio_efetivo": "shigueno.com.br",
+  "empresa": "Fazenda Shigueno",
+  "segmento": "Produção agrícola",
+  "principal_produto": "Produtos agrícolas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Propriedade rural, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ }
+]

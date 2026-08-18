@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 920,
+  "dominio_efetivo": "actemium.com",
+  "empresa": "Actemium (VINCI Energies)",
+  "segmento": "Automação e engenharia industrial",
+  "principal_produto": "Integração de sistemas de automação e processos industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Integradora de automação para indústrias que incluem siderurgia, mas não é fabricante metalúrgica",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 921,
+  "dominio_efetivo": "daimler.com",
+  "empresa": "Daimler",
+  "segmento": "Montadora de caminhões e ônibus",
+  "principal_produto": "Caminhões e ônibus Mercedes-Benz",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia e solda de chassi e cabine em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 922,
+  "dominio_efetivo": "jcbbrasil.com.br",
+  "empresa": "JCB Brasil",
+  "segmento": "Máquinas de construção e agrícolas",
+  "principal_produto": "Retroescavadeiras, escavadeiras e pás carregadeiras",
+  "fabrica_brasil": "Sorocaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas pesadas fabricadas em estrutura de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 923,
+  "dominio_efetivo": "linterfiltros.com.br",
+  "empresa": "Linter Filtros",
+  "segmento": "Filtros industriais e automotivos",
+  "principal_produto": "Filtros de ar, óleo e combustível",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças metálicas de filtros fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 924,
+  "dominio_efetivo": "martiaco.com.br",
+  "empresa": "Martiaço",
+  "segmento": "Artefatos metálicos sob encomenda",
+  "principal_produto": "Peças em corte a laser, dobra, curvamento de tubos e solda",
+  "fabrica_brasil": "Colombo/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de artefatos metálicos em chapa e tubo de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 925,
+  "dominio_efetivo": "ramahtecnologia.com.br",
+  "empresa": "Ramah Tecnologia Industrial",
+  "segmento": "Protótipos, gabaritos e estruturas metálicas industriais",
+  "principal_produto": "Protótipos automotivos em aço/ferro fundido, caçambas basculantes e racks metálicos",
+  "fabrica_brasil": "Itaúna/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Protótipos e estruturas metálicas fabricados em aço fundido e chapa",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 926,
+  "dominio_efetivo": "renishaw.com",
+  "empresa": "Renishaw",
+  "segmento": "Instrumentos de metrologia e precisão",
+  "principal_produto": "Sistemas de medição por coordenadas, sondas e encoders",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Componentes de precisão frequentemente em aço inox; equipamento de baixo volume de material",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 927,
+  "dominio_efetivo": "etapa.com.br",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Busca não retornou identificação confiável da empresa por trás do domínio etapa.com.br",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 928,
+  "dominio_efetivo": "jost.com.br",
+  "empresa": "JOST Brasil",
+  "segmento": "Sistemas de engate para veículos comerciais",
+  "principal_produto": "Quinta-roda, pino-rei e sistemas de engate para semirreboques",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de engate fabricados em aço forjado",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 929,
+  "dominio_efetivo": "flsmidth.com",
+  "empresa": "FLSmidth",
+  "segmento": "Equipamentos para cimento e mineração",
+  "principal_produto": "Moinhos, britadores e equipamentos de processamento mineral",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos pesados de mineração/cimento fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 930,
+  "dominio_efetivo": "supermetal.com.br",
+  "empresa": "Supermetal",
+  "segmento": "Estruturas metálicas",
+  "principal_produto": "Estruturas metálicas para construção civil e industrial",
+  "fabrica_brasil": "Marechal Cândido Rondon/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome e segmento indicam fabricação de estruturas metálicas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 931,
+  "dominio_efetivo": "bertanha.com.br",
+  "empresa": "Bertanha (FSAllmac)",
+  "segmento": "Máquinas para cafeicultura",
+  "principal_produto": "Colhedoras de café, recolhedoras e implementos para preparo de solo",
+  "fabrica_brasil": "Batatais/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Máquinas e implementos agrícolas fabricados em estrutura de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 932,
+  "dominio_efetivo": "brggeradores.com.br",
+  "empresa": "BRG Geradores",
+  "segmento": "Grupos geradores de energia",
+  "principal_produto": "Geradores a diesel e gás",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura e carenagem de geradores fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 933,
+  "dominio_efetivo": "ecbsa.com.br",
+  "empresa": "ECB (Mota-Engil Brasil)",
+  "segmento": "Construção pesada e infraestrutura",
+  "principal_produto": "Rodovias, ferrovias, obras industriais e mineração",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de obras pesadas que envolvem estruturas de aço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 934,
+  "dominio_efetivo": "skipsolucoes.com.br",
+  "empresa": "Skip Soluções em Kits e Peças",
+  "segmento": "Autopeças de suspensão (metal-borracha)",
+  "principal_produto": "Buchas e componentes metal-borracha para suspensão automotiva",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes metal-borracha com insertos metálicos de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 935,
+  "dominio_efetivo": "woodbridgegroup.com",
+  "empresa": "Woodbridge",
+  "segmento": "Espumas de poliuretano para assentos automotivos",
+  "principal_produto": "Espuma de poliuretano para bancos e interiores de veículos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é espuma de poliuretano, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 936,
+  "dominio_efetivo": "zeusdobrasil.com.br",
+  "empresa": "Zeus do Brasil",
+  "segmento": "Equipamentos de prevenção e combate a incêndio",
+  "principal_produto": "Tubulação, portas corta-fogo, redes de hidrantes e para-raios",
+  "fabrica_brasil": "Blumenau/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tubulações e portas corta-fogo em aço para sistemas de combate a incêndio",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 937,
+  "dominio_efetivo": "gbmx.com.br",
+  "empresa": "AmstedMaxion",
+  "segmento": "Rodas, fundidos e componentes ferroviários",
+  "principal_produto": "Rodas ferroviárias, fundidos de aço e componentes automotivos",
+  "fabrica_brasil": "Cruzeiro/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de rodas e peças fundidas em aço para ferrovia e automotivo",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 938,
+  "dominio_efetivo": "maggion.com.br",
+  "empresa": "Maggion",
+  "segmento": "Rodas automotivas",
+  "principal_produto": "Rodas de aço e alumínio para veículos",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante tradicional de rodas de aço estampadas",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 939,
+  "dominio_efetivo": "tuenkers.com.br",
+  "empresa": "Tünkers",
+  "segmento": "Ferramental e automação para linhas de montagem automotiva",
+  "principal_produto": "Grampos, cilindros e dispositivos de fixação para linhas de solda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Dispositivos de fixação e ferramental fabricados em aço",
+  "fonte": "conhecimento setorial"
+ }
+]

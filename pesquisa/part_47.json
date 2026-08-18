@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 940,
+  "dominio_efetivo": "mca.ind.br",
+  "empresa": "MCA - Metallurgy Services",
+  "segmento": "Estampos e caldeiraria industrial",
+  "principal_produto": "Estampos de estamparia e equipamentos de caldeiraria",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de estampos e caldeiraria em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 941,
+  "dominio_efetivo": "usvaa.com.br",
+  "empresa": "Usina Santa Vitória (Grupo Jalles)",
+  "segmento": "Açúcar e etanol",
+  "principal_produto": "Açúcar, etanol e energia elétrica",
+  "fabrica_brasil": "Santa Vitória/MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 942,
+  "dominio_efetivo": "modecenter.com.br",
+  "empresa": "BMB Mode Center",
+  "segmento": "Customização de caminhões e ônibus",
+  "principal_produto": "Adaptações e customizações em chassi MAN/Volkswagen",
+  "fabrica_brasil": "Porto Real/RJ",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Modificações de chassi e eixos envolvem estrutura metálica em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 943,
+  "dominio_efetivo": "eb.mil.br",
+  "empresa": "Exército Brasileiro",
+  "segmento": "Defesa (Forças Armadas)",
+  "principal_produto": "Operações e administração militar",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Domínio institucional do Exército Brasileiro; campo 'empresa' original (Adler Pelzer Group) não corresponde ao domínio, tratado pelo domínio como órgão público, não fabricante",
+  "fonte": "busca web (discrepância no campo empresa)"
+ },
+ {
+  "idx": 944,
+  "dominio_efetivo": "modine.com",
+  "empresa": "Modine",
+  "segmento": "Sistemas térmicos e radiadores",
+  "principal_produto": "Radiadores, trocadores de calor e sistemas de arrefecimento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Trocadores de calor e radiadores fabricados em aço/alumínio",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 945,
+  "dominio_efetivo": "usinasaoluiz.com.br",
+  "empresa": "Usina São Luiz",
+  "segmento": "Açúcar e etanol",
+  "principal_produto": "Açúcar e etanol",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Usina sucroalcooleira, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 946,
+  "dominio_efetivo": "salver.com.br",
+  "empresa": "Grupo Salver",
+  "segmento": "Estruturas metálicas e fachadas",
+  "principal_produto": "Estruturas metálicas, esquadrias de alumínio e fachadas de vidro",
+  "fabrica_brasil": "Ituporanga/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação e montagem de estruturas metálicas em aço para construção civil",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 947,
+  "dominio_efetivo": "wartsila.com",
+  "empresa": "Wärtsilä",
+  "segmento": "Motores marítimos e soluções de energia",
+  "principal_produto": "Motores para navios e usinas termelétricas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Motores e sistemas de grande porte fabricados em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 948,
+  "dominio_efetivo": "pollux.com.br",
+  "empresa": "Pollux Automation",
+  "segmento": "Automação industrial (Indústria 4.0)",
+  "principal_produto": "Linhas de montagem, células robotizadas e robôs móveis autônomos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de linhas de montagem e células robotizadas fabricadas em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 949,
+  "dominio_efetivo": "coesia.com",
+  "empresa": "Coesia",
+  "segmento": "Máquinas de embalagem industrial",
+  "principal_produto": "Máquinas de embalagem, automação e processamento de materiais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura das máquinas de embalagem fabricada em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 950,
+  "dominio_efetivo": "maxmill.com.br",
+  "empresa": "Maxmill",
+  "segmento": "Máquinas para indústria alimentícia (moagem)",
+  "principal_produto": "Moinhos e linhas de produção para trigo, milho e ração animal",
+  "fabrica_brasil": "Itaquaquecetuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Bancadas de cilindros e equipamentos de moagem fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 951,
+  "dominio_efetivo": "eletran.com.br",
+  "empresa": "Eletran",
+  "segmento": "Baterias automotivas",
+  "principal_produto": "Baterias chumbo-ácido para veículos",
+  "fabrica_brasil": "Apucarana/PR",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é chumbo/eletrólito, não aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 952,
+  "dominio_efetivo": "delga.com.br",
+  "empresa": "Delga",
+  "segmento": "Forjaria",
+  "principal_produto": "Peças forjadas para automotivo e industrial",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de peças forjadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 953,
+  "dominio_efetivo": "screw.ind.br",
+  "empresa": "Screw Indústria Metalmecânica",
+  "segmento": "Fixadores e componentes metalmecânicos",
+  "principal_produto": "Parafusos e componentes metalmecânicos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Nome e atividade indicam fabricação de fixadores em aço",
+  "fonte": "conhecimento setorial (nome indicativo)"
+ },
+ {
+  "idx": 954,
+  "dominio_efetivo": "arraytechinc.com",
+  "empresa": "Array Technologies",
+  "segmento": "Estruturas rastreadoras (trackers) para energia solar",
+  "principal_produto": "Trackers solares de eixo único",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas rastreadoras fabricadas em aço galvanizado",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 955,
+  "dominio_efetivo": "oceanica.com.br",
+  "empresa": "Oceânica",
+  "segmento": "Engenharia subsea e soluções offshore",
+  "principal_produto": "Inspeção, intervenção e monitoramento de estruturas submarinas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Presta serviços de engenharia sobre estruturas de aço offshore, mas não é fabricante primário",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 956,
+  "dominio_efetivo": "senac.br",
+  "empresa": "Senac",
+  "segmento": "Educação profissionalizante",
+  "principal_produto": "Cursos técnicos e profissionalizantes",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Instituição de ensino, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 957,
+  "dominio_efetivo": "ciesp.com.br",
+  "empresa": "CIESP",
+  "segmento": "Associação de classe industrial",
+  "principal_produto": "Representação e serviços para empresas industriais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Entidade associativa/sindical, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 958,
+  "dominio_efetivo": "palmeiraimplementos.com.br",
+  "empresa": "Palmeira Implementos",
+  "segmento": "Implementos agrícolas",
+  "principal_produto": "Implementos para preparo de solo e plantio",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos agrícolas fabricados em aço",
+  "fonte": "conhecimento setorial (nome indicativo do segmento)"
+ },
+ {
+  "idx": 959,
+  "dominio_efetivo": "wolf.com.br",
+  "empresa": "Wolf",
+  "segmento": "Equipamentos para perfuração de rochas",
+  "principal_produto": "Equipamentos de perfuração (rock drilling)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de perfuração de rochas fabricados em aço de alta resistência",
+  "fonte": "busca web"
+ }
+]

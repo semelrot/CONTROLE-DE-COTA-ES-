@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 540,
+  "dominio_efetivo": "maringasoldas.com.br",
+  "empresa": "Maringá Soldas",
+  "segmento": "Componentes para motores diesel",
+  "principal_produto": "Cabeçotes de ferro fundido para motores diesel",
+  "fabrica_brasil": "Curitiba/PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fundição em ferro fundido (liga ferrosa correlata); não é aço carbono em sentido estrito",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 541,
+  "dominio_efetivo": "ferbasa.com.br",
+  "empresa": "Ferbasa",
+  "segmento": "Siderurgia e ferroligas",
+  "principal_produto": "Ferro-cromo, ferroligas e aço inoxidável",
+  "fabrica_brasil": "Pojuca/BA (Complexo Ipitinga/Pojuca)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produtora de ferroligas e aço inox, integrada à cadeia siderúrgica",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 542,
+  "dominio_efetivo": "bonfiglioli.com",
+  "empresa": "Bonfiglioli",
+  "segmento": "Motorredutores e transmissões industriais",
+  "principal_produto": "Motorredutores, inversores e sistemas de transmissão",
+  "fabrica_brasil": "Itu/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças e engrenagens de motorredutores fabricadas em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 543,
+  "dominio_efetivo": "a1.com.br",
+  "empresa": "Grupo A1",
+  "segmento": "Engenharia e soluções metálicas industriais",
+  "principal_produto": "Skids, estruturas e equipamentos metálicos para siderurgia/petroquímica",
+  "fabrica_brasil": "Araucária/PR",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Manufatura de soluções metálicas industriais para os setores de aço, mineração e energia",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 544,
+  "dominio_efetivo": "v8brasil.com",
+  "empresa": "V8 Brasil",
+  "segmento": "Máquinas e ferramentas para solda e funilaria automotiva",
+  "principal_produto": "Máquinas de solda, carregadores de bateria e ferramentas pneumáticas",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabricante de equipamentos industriais; consumo de aço na própria fabricação das máquinas",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 545,
+  "dominio_efetivo": "ivguindastes.com.br",
+  "empresa": "I.V. Guindastes",
+  "segmento": "Locação e operação de guindastes",
+  "principal_produto": "Locação de guindastes móveis e serviços de içamento",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviço de locação, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 546,
+  "dominio_efetivo": "newoldany.com.br",
+  "empresa": "New Oldany",
+  "segmento": "Metalurgia (peças forjadas e estampadas)",
+  "principal_produto": "Componentes forjados, estampados, usinados e soldados",
+  "fabrica_brasil": "Cotia/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fornecedora tradicional de peças metalúrgicas forjadas/estampadas para Honda",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 548,
+  "dominio_efetivo": "fam-brasil.com",
+  "empresa": "FAM Brasil",
+  "segmento": "Importação de acessórios eletrônicos",
+  "principal_produto": "Capas, carregadores e acessórios para celular",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Importadora de acessórios plásticos/eletrônicos, sem relação com aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 549,
+  "dominio_efetivo": "galvani.ind.br",
+  "empresa": "Galvani",
+  "segmento": "Fertilizantes e mineração de fosfato",
+  "principal_produto": "Fertilizantes fosfatados",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtora de fertilizantes, não consumidora de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 550,
+  "dominio_efetivo": "termomecanica.com.br",
+  "empresa": "Termomecânica",
+  "segmento": "Produtos de cobre e ligas de cobre",
+  "principal_produto": "Tubos, barras e fios de cobre e latão",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Foco em cobre e latão, não em aço carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 551,
+  "dominio_efetivo": "lepe.com.br",
+  "empresa": "LEPE Indústria e Comércio",
+  "segmento": "Fundição de ferro fundido",
+  "principal_produto": "Peças fundidas em ferro cinzento, nodular e ligado para automotivo",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fundição em ferro fundido (liga ferrosa correlata ao aço, não aço carbono em sentido estrito)",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 552,
+  "dominio_efetivo": "vetore.com",
+  "empresa": "Vetore Ind. e Com. de Autopeças",
+  "segmento": "Autopeças (fundidos e usinados)",
+  "principal_produto": "Bombas d'água, bombas de óleo e carcaças fundidas",
+  "fabrica_brasil": "Quatro Barras/PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Peças fundidas em alumínio e ferro, com usinagem CNC; não é consumidor primário de chapa de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 553,
+  "dominio_efetivo": "ufifilters.com",
+  "empresa": "UFI Filters Group",
+  "segmento": "Filtros automotivos",
+  "principal_produto": "Filtros de óleo, ar e combustível",
+  "fabrica_brasil": "Porto Feliz/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças metálicas de filtros automotivos fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 554,
+  "dominio_efetivo": "buritirama.com",
+  "empresa": "Buritirama Mineração",
+  "segmento": "Mineração de manganês",
+  "principal_produto": "Minério de manganês e ferroligas",
+  "fabrica_brasil": "Pará (Marabá)",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Mineradora fornecedora de manganês para siderurgia; não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 555,
+  "dominio_efetivo": "titanlat.com",
+  "empresa": "Titan Pneus",
+  "segmento": "Pneus agrícolas, industriais e florestais",
+  "principal_produto": "Pneus agrícolas e industriais (marcas Titan e Goodyear Farm Tires)",
+  "fabrica_brasil": "São Paulo/SP (Belenzinho)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Talão e cintas de aço fazem parte da estrutura do pneu",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 556,
+  "dominio_efetivo": "bremer.com.br",
+  "empresa": "H. Bremer & Filhos",
+  "segmento": "Equipamentos industriais (caldeiras)",
+  "principal_produto": "Caldeiras aquatubulares e sistemas de recuperação térmica",
+  "fabrica_brasil": "Rio do Sul/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Caldeiras e sistemas térmicos fabricados em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 557,
+  "dominio_efetivo": "stemac.com.br",
+  "empresa": "Stemac",
+  "segmento": "Geradores de energia",
+  "principal_produto": "Grupos geradores a diesel e gás",
+  "fabrica_brasil": "Porto Alegre/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura, chassi e carenagem dos geradores fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 558,
+  "dominio_efetivo": "polistampo.com.br",
+  "empresa": "Polistampo Indústria Metalúrgica",
+  "segmento": "Estamparia metálica",
+  "principal_produto": "Conjuntos estampados e soldados para automotivo e linha branca",
+  "fabrica_brasil": "Diadema/SP, Mauá/SP, São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estamparia 100% brasileira, especializada em conjuntos soldados de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 559,
+  "dominio_efetivo": "pretech.com.br",
+  "empresa": "Pretech Fundações",
+  "segmento": "Engenharia de fundações",
+  "principal_produto": "Estacas, tirantes, cortinas atirantadas e paredes diafragma",
+  "fabrica_brasil": "São José dos Pinhais/PR",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Tirantes e armaduras de aço são insumo do serviço de fundação, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 560,
+  "dominio_efetivo": "tora.com.br",
+  "empresa": "Tora Transportes",
+  "segmento": "Logística e transporte",
+  "principal_produto": "Transporte rodoviário, terminais e armazenagem",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operador logístico, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ }
+]

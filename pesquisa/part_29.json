@@ -1,0 +1,211 @@
+[
+ {
+  "idx": 581,
+  "dominio_efetivo": "thor.com.br",
+  "empresa": "Thor Máquinas e Montagens",
+  "segmento": "Máquinas e montagens industriais",
+  "principal_produto": "Máquinas e equipamentos industriais sob encomenda",
+  "fabrica_brasil": "Santa Maria/RS",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Nome ambíguo (várias empresas 'Thor' no Brasil); a unidade em thor.com.br é fabricante de máquinas industriais, tipicamente em aço",
+  "fonte": "busca web (ambíguo)"
+ },
+ {
+  "idx": 582,
+  "dominio_efetivo": "comolatti.com.br",
+  "empresa": "Grupo Comolatti",
+  "segmento": "Distribuição de autopeças",
+  "principal_produto": "Peças de reposição para veículos leves e pesados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidor/rede de revendas de autopeças, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 583,
+  "dominio_efetivo": "eccos.com.br",
+  "empresa": "Eccos Indústria Metalúrgica",
+  "segmento": "Estamparia metálica",
+  "principal_produto": "Peças estampadas, conjuntos soldados e protótipos para automotivo",
+  "fabrica_brasil": "Indaiatuba/SP, Sete Lagoas/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fornecedora de peças estampadas em aço para a indústria automotiva desde 1996",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 584,
+  "dominio_efetivo": "mmarra.com.br",
+  "empresa": "MMarra Distribuidora Automotiva",
+  "segmento": "Distribuição de peças para linha diesel",
+  "principal_produto": "Filtros, transmissão, suspensão e peças de motor para caminhões",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Distribuidora de peças de reposição, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 585,
+  "dominio_efetivo": "novelis.com",
+  "empresa": "Novelis",
+  "segmento": "Alumínio (laminados e reciclagem)",
+  "principal_produto": "Chapas e bobinas de alumínio",
+  "fabrica_brasil": "Utinga/SP, Pindamonhangaba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtora de alumínio, não de aço carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 586,
+  "dominio_efetivo": "ntcrefrigeracao.com.br",
+  "empresa": "NTC Refrigeração",
+  "segmento": "Equipamentos de refrigeração comercial e industrial",
+  "principal_produto": "Racks de compressores e câmaras frias para supermercados",
+  "fabrica_brasil": "Minas Gerais",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de sistemas e compartimentos refrigerados em estrutura metálica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 587,
+  "dominio_efetivo": "fanucamerica.com",
+  "empresa": "FANUC",
+  "segmento": "Robótica industrial e comandos numéricos (CNC)",
+  "principal_produto": "Robôs industriais e sistemas CNC",
+  "fabrica_brasil": "Indaiatuba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura de robôs e máquinas CNC fabricada em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 588,
+  "dominio_efetivo": "covabra.com.br",
+  "empresa": "Covabra Supermercados",
+  "segmento": "Varejo alimentar",
+  "principal_produto": "Operação de supermercados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de varejo, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 589,
+  "dominio_efetivo": "grob.com.br",
+  "empresa": "GROB",
+  "segmento": "Máquinas-ferramenta",
+  "principal_produto": "Centros de usinagem CNC e linhas de montagem",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de máquinas-ferramenta fabricadas em aço/ferro fundido de alta rigidez",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 590,
+  "dominio_efetivo": "hella.com",
+  "empresa": "Hella",
+  "segmento": "Iluminação e eletrônica automotiva",
+  "principal_produto": "Faróis, lanternas e componentes eletrônicos automotivos",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Predomínio de plástico e eletrônica; suportes e fixações metálicas em menor proporção",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 591,
+  "dominio_efetivo": "soltec.com",
+  "empresa": "Soltec",
+  "segmento": "Estruturas rastreadoras (trackers) para energia solar",
+  "principal_produto": "Trackers solares de eixo único",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas rastreadoras fabricadas em aço galvanizado",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 592,
+  "dominio_efetivo": "rogga.com.br",
+  "empresa": "Rôgga",
+  "segmento": "Construção civil e incorporação imobiliária",
+  "principal_produto": "Empreendimentos residenciais e projetos corporativos (Rôgga Engenharia)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Incorporadora/construtora; usa aço em armadura de concreto, mas não é fabricante metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 593,
+  "dominio_efetivo": "shefa.com.br",
+  "empresa": "Agropecuária Tuiuti (marca Shefa)",
+  "segmento": "Laticínios e bebidas",
+  "principal_produto": "Leite UHT, creme de leite, bebidas lácteas e sucos",
+  "fabrica_brasil": "Amparo/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de laticínios/bebidas, não consome aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 594,
+  "dominio_efetivo": "hpeautos.com.br",
+  "empresa": "HPE Automotores do Brasil",
+  "segmento": "Montadora de veículos (Mitsubishi Motors e Suzuki)",
+  "principal_produto": "Automóveis e utilitários Mitsubishi e Suzuki",
+  "fabrica_brasil": "Catalão/GO",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fábrica com solda, estamparia e pintura de carroceria; capacidade de 120 mil veículos/ano",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 595,
+  "dominio_efetivo": "coamo.com.br",
+  "empresa": "Coamo",
+  "segmento": "Cooperativa agropecuária",
+  "principal_produto": "Soja, milho, trigo e derivados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Cooperativa agrícola, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 596,
+  "dominio_efetivo": "itaiputransformadores.com.br",
+  "empresa": "Indústria de Transformadores Itaipu",
+  "segmento": "Transformadores elétricos",
+  "principal_produto": "Transformadores e autotransformadores de distribuição e potência",
+  "fabrica_brasil": "Itápolis/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Tanque do transformador em chapa de aço carbono e núcleo em aço-silício",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 597,
+  "dominio_efetivo": "towerinternational.com",
+  "empresa": "Tower International / AUTOKINITON",
+  "segmento": "Estamparia e montagem de estruturas automotivas",
+  "principal_produto": "Estruturas estampadas e soldadas de carroceria (chassis, sub-frames)",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fornecedor Tier 1 de estruturas metálicas estampadas para montadoras",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 598,
+  "dominio_efetivo": "caf.net",
+  "empresa": "CAF (Construcciones y Auxiliar de Ferrocarriles)",
+  "segmento": "Material rodante ferroviário",
+  "principal_produto": "Trens, vagões e componentes ferroviários",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carrocerias e estruturas de trens fabricadas em aço inoxidável/carbono",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 599,
+  "dominio_efetivo": "lscontrol.com.br",
+  "empresa": "LS Control Automação",
+  "segmento": "Automação industrial e solda de termoplásticos",
+  "principal_produto": "Máquinas de solda ultrassônica e vibração linear para plásticos",
+  "fabrica_brasil": "Itatiba/SP",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Foco em solda de termoplásticos e automação; não consome aço como insumo principal",
+  "fonte": "busca web"
+ }
+]

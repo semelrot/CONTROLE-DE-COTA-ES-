@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 500,
+  "dominio_efetivo": "magnetimarelli.com",
+  "empresa": "Magneti Marelli",
+  "segmento": "Autopeças (sistemas automotivos)",
+  "principal_produto": "Sistemas de iluminação, powertrain e eletrônica automotiva",
+  "fabrica_brasil": "Hortolândia/SP, Contagem/MG (entre outras)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabrica suportes, sistemas de escape e componentes estruturais metálicos para veículos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 501,
+  "dominio_efetivo": "wittur.com",
+  "empresa": "Wittur",
+  "segmento": "Componentes para elevadores",
+  "principal_produto": "Portas, cabines e sistemas de elevação",
+  "fabrica_brasil": "Betim/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de cabine e portas de elevador são fabricadas em chapa de aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 502,
+  "dominio_efetivo": "trelleborg.com",
+  "empresa": "Trelleborg",
+  "segmento": "Polímeros e vedações industriais",
+  "principal_produto": "Selos, mangueiras e vedações de borracha/polímero",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é borracha e polímero, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 503,
+  "dominio_efetivo": "mundial.com",
+  "empresa": "Mundial S.A.",
+  "segmento": "Cutelaria e ferramentas manuais",
+  "principal_produto": "Facas, tesouras, alicates e ferramentas manuais",
+  "fabrica_brasil": "Suzano/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Lâminas e ferramentas fabricadas em aço carbono e inox",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 504,
+  "dominio_efetivo": "capgemini.com",
+  "empresa": "Capgemini",
+  "segmento": "Consultoria e serviços de TI",
+  "principal_produto": "Consultoria, outsourcing e serviços de tecnologia",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Empresa de serviços de TI, não fabricação",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 505,
+  "dominio_efetivo": "siemens-energy.com",
+  "empresa": "Siemens Energy",
+  "segmento": "Equipamentos de geração e transmissão de energia",
+  "principal_produto": "Turbinas, geradores e transformadores",
+  "fabrica_brasil": "Jundiaí/SP (entre outras)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Turbinas, geradores e estruturas de grande porte fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 506,
+  "dominio_efetivo": "ppg.com",
+  "empresa": "PPG Industries",
+  "segmento": "Tintas e revestimentos industriais",
+  "principal_produto": "Tintas automotivas e industriais, revestimentos",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Aplica revestimento sobre o aço de terceiros; não consome aço como matéria-prima",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 507,
+  "dominio_efetivo": "wch.com.br",
+  "empresa": "WCH (Weiler C. Holzberger Industrial)",
+  "segmento": "Máquinas para pré-fabricados de concreto",
+  "principal_produto": "Fôrmas metálicas, moldadoras, pontes rolantes e pórticos",
+  "fabrica_brasil": "Rio Claro/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fôrmas metálicas e estruturas de aço para a indústria de pré-moldados",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 508,
+  "dominio_efetivo": "grupoferrosider.com.br",
+  "empresa": "Grupo Ferrosider",
+  "segmento": "Transformação e distribuição de aço",
+  "principal_produto": "Componentes de aço para automotivo, máquinas e construção civil",
+  "fabrica_brasil": "Contagem/MG, Piracicaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Compra aço de usinas siderúrgicas e transforma em componentes metalmecânicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 509,
+  "dominio_efetivo": "slcagricola.com.br",
+  "empresa": "SLC Agrícola",
+  "segmento": "Produção agrícola",
+  "principal_produto": "Soja, algodão e milho",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtor rural, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 510,
+  "dominio_efetivo": "korin.com.br",
+  "empresa": "Grupo Korin",
+  "segmento": "Agricultura natural e alimentos orgânicos",
+  "principal_produto": "Frango, carne bovina, ovos e insumos orgânicos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produtor de alimentos orgânicos, sem relação com aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 511,
+  "dominio_efetivo": "irizar.com",
+  "empresa": "Irizar",
+  "segmento": "Fabricante de ônibus e carrocerias",
+  "principal_produto": "Carrocerias de ônibus rodoviários",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estrutura da carroceria de ônibus é construída em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 512,
+  "dominio_efetivo": "soprano.com.br",
+  "empresa": "Soprano",
+  "segmento": "Implementos rodoviários",
+  "principal_produto": "Baús, carrocerias e implementos para caminhões",
+  "fabrica_brasil": "Farroupilha/RS",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabricante de carrocerias/baús; estrutura tipicamente combina aço e alumínio",
+  "fonte": "busca web (parcial)"
+ },
+ {
+  "idx": 513,
+  "dominio_efetivo": "jodeclan.com.br",
+  "empresa": "Jodeclan Ferramentaria Ind. e Com.",
+  "segmento": "Ferramentaria e usinagem",
+  "principal_produto": "Estampos, matrizes e usinagem CNC para estamparia",
+  "fabrica_brasil": "São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de máquinas para indústria metalúrgica e ferramentas de estampo",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 514,
+  "dominio_efetivo": "novaresteam.com",
+  "empresa": "Novares",
+  "segmento": "Autopeças plásticas",
+  "principal_produto": "Componentes plásticos automotivos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Especializada em injeção plástica, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 515,
+  "dominio_efetivo": "leadec-services.com",
+  "empresa": "Leadec",
+  "segmento": "Serviços industriais",
+  "principal_produto": "Manutenção industrial e facility services",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Prestadora de serviços, não fabricante",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 516,
+  "dominio_efetivo": "nexteer.com",
+  "empresa": "Nexteer Automotive",
+  "segmento": "Sistemas de direção automotivos",
+  "principal_produto": "Colunas de direção e sistemas EPS",
+  "fabrica_brasil": "São José dos Campos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Componentes de direção forjados/usinados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 517,
+  "dominio_efetivo": "dellarosa.com.br",
+  "empresa": "Della Rosa Autopeças",
+  "segmento": "Autopeças (fundidos e forjados)",
+  "principal_produto": "Barras de direção, fundidos e componentes para veículos pesados",
+  "fabrica_brasil": "Santa Bárbara d'Oeste/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação de peças forjadas e fundidas em aço para autopeças",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 518,
+  "dominio_efetivo": "maxiforja.com.br",
+  "empresa": "Maxiforja",
+  "segmento": "Forjaria",
+  "principal_produto": "Componentes forjados e usinados automotivos e agrícolas",
+  "fabrica_brasil": "Canoas/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Uma das maiores forjarias do Brasil; produção em aço forjado, capacidade de 30 mil t/ano",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 519,
+  "dominio_efetivo": "armco.com.br",
+  "empresa": "Armco do Brasil",
+  "segmento": "Siderurgia (relaminação de aço)",
+  "principal_produto": "Aço carbono, aço inoxidável e aço pré-revestido",
+  "fabrica_brasil": "São Paulo/SP, Amazonas",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "É o próprio fabricante/relaminador de aço de baixo, médio e alto carbono",
+  "fonte": "busca web"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 520,
+  "dominio_efetivo": "ares.ind.br",
+  "empresa": "ARES Aeroespacial e Defesa",
+  "segmento": "Defesa e aeroespacial",
+  "principal_produto": "Sistemas de armas, torres estabilizadas, sistemas navais e ópticos",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas metálicas de sistemas de armas e torres exigem aço estrutural",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 521,
+  "dominio_efetivo": "portonave.com.br",
+  "empresa": "Portonave S/A",
+  "segmento": "Logística portuária",
+  "principal_produto": "Operação de terminal portuário de contêineres",
+  "fabrica_brasil": "Navegantes/SC",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Operadora de terminal, não fabricante de bens metálicos",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 522,
+  "dominio_efetivo": "marispan.com.br",
+  "empresa": "Marispan (Implementos Agrícolas)",
+  "segmento": "Implementos agrícolas",
+  "principal_produto": "Carregadeiras frontais e distribuidores de fertilizante/sólidos",
+  "fabrica_brasil": "Batatais/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Líder em carregadeiras frontais, com estrutura em aço; carrocerias em aço inox",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 523,
+  "dominio_efetivo": "metalway.com.br",
+  "empresa": "Metalway Industrial",
+  "segmento": "Usinagem de precisão / metalúrgica",
+  "principal_produto": "Eixos, engrenagens, buchas e peças usinadas",
+  "fabrica_brasil": "Guarulhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Peças estampadas e usinadas para automotivo, eletrônicos e linha branca",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 524,
+  "dominio_efetivo": "eternit.com.br",
+  "empresa": "Eternit",
+  "segmento": "Materiais de construção (fibrocimento)",
+  "principal_produto": "Telhas e caixas d'água de fibrocimento",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Produto principal é fibrocimento, não aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 525,
+  "dominio_efetivo": "intecnial.com.br",
+  "empresa": "Intecnial",
+  "segmento": "Equipamentos industriais sob encomenda",
+  "principal_produto": "Trocadores de calor, tanques e equipamentos metálicos",
+  "fabrica_brasil": "Erechim/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação mecânica de equipamentos para energia, alimentos e petroquímica em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 526,
+  "dominio_efetivo": "starrett.com.br",
+  "empresa": "Starrett",
+  "segmento": "Instrumentos de precisão e ferramentas",
+  "principal_produto": "Paquímetros, micrômetros e lâminas de serra",
+  "fabrica_brasil": "Itu/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Instrumentos e lâminas de serra fabricados em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 527,
+  "dominio_efetivo": "sew-eurodrive.com.br",
+  "empresa": "SEW-Eurodrive",
+  "segmento": "Motorredutores e acionamentos industriais",
+  "principal_produto": "Motorredutores, motores elétricos e inversores de frequência",
+  "fabrica_brasil": "Sorocaba/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças e engrenagens de motorredutores fabricadas em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 528,
+  "dominio_efetivo": "dagnese.com.br",
+  "empresa": "Dagnese Soluções Metálicas",
+  "segmento": "Estruturas metálicas para construção civil",
+  "principal_produto": "Portões, esquadrias e portas metálicas corta-fogo",
+  "fabrica_brasil": "Nova Bassano/RS",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante de estruturas metálicas leves em aço para grandes obras",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 529,
+  "dominio_efetivo": "metasa.com.br",
+  "empresa": "Metasa",
+  "segmento": "Estruturas metálicas e implementos agrícolas",
+  "principal_produto": "Estruturas metálicas, silos e implementos agrícolas",
+  "fabrica_brasil": "Marília/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricante tradicional de estruturas e implementos em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 530,
+  "dominio_efetivo": "coppermetal.com.br",
+  "empresa": "Coppermetal",
+  "segmento": "Distribuição de aços e metais",
+  "principal_produto": "Aço carbono, alumínio, cobre, latão e aço inox",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Distribuidor de aço carbono e outros metais/plásticos técnicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 531,
+  "dominio_efetivo": "samot.com.br",
+  "empresa": "Samot Indústria Mecânica",
+  "segmento": "Usinagem de precisão",
+  "principal_produto": "Peças usinadas para automotivo, aeroespacial e militar",
+  "fabrica_brasil": "São Paulo/SP, São Bernardo do Campo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Usinagem, torneamento e solda em aço e outros metais para autopeças",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 532,
+  "dominio_efetivo": "evsa.com.br",
+  "empresa": "EVSA Comércio e Serviços Industriais",
+  "segmento": "Equipamentos de içamento e movimentação de carga",
+  "principal_produto": "Pontes rolantes e equipamentos para siderurgia/mineração",
+  "fabrica_brasil": "Serra/ES, Ouro Branco/MG (entre outras)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos de içamento para siderúrgicas, fabricados em aço estrutural",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 533,
+  "dominio_efetivo": "industriasrc.com.br",
+  "empresa": "Indústrias RC (Casari)",
+  "segmento": "Usinagem e metalurgia",
+  "principal_produto": "Peças usinadas, barramentos blindados e peças estampadas",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processa mais de 100 toneladas de aço/mês em usinagem CNC e estamparia",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 534,
+  "dominio_efetivo": "fibria.com",
+  "empresa": "Fibria (Suzano)",
+  "segmento": "Celulose e papel",
+  "principal_produto": "Celulose de mercado",
+  "fabrica_brasil": "Várias unidades no Brasil",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Indústria de celulose e papel, não consome aço como insumo",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 535,
+  "dominio_efetivo": "fasa.ind.br",
+  "empresa": "FASA América Latina (Darling Ingredients)",
+  "segmento": "Reciclagem de subprodutos animais (rendering)",
+  "principal_produto": "Farinhas de carne/ossos/vísceras e óleos para ração animal e biocombustível",
+  "fabrica_brasil": "15 plantas em RS, SC, PR, MS, MT, RO, PA, MG",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Processamento de subprodutos animais; não é consumidor de aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 536,
+  "dominio_efetivo": "usibani.com.br",
+  "empresa": "Usibani Indústria Metalúrgica",
+  "segmento": "Usinagem de peças metálicas",
+  "principal_produto": "Usinagem de peças ferrosas e não ferrosas para automotivo",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Processos de torneamento, fresamento e laminação em materiais ferrosos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 537,
+  "dominio_efetivo": "citrotec.com.br",
+  "empresa": "Citrotec",
+  "segmento": "Equipamentos industriais (agroindústria e sucroenergético)",
+  "principal_produto": "Condensadores evaporativos, destilarias e pasteurizadores tubulares",
+  "fabrica_brasil": "Araraquara/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos tubulares e vasos metálicos para usinas e agroindústria",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 538,
+  "dominio_efetivo": "cosampa.com.br",
+  "empresa": "Grupo Cosampa",
+  "segmento": "Construção civil, engenharia elétrica e energia renovável",
+  "principal_produto": "Obras de construção, projetos elétricos e energia renovável",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Executora de obras (estruturas metálicas/concreto armado), não fabricante direta",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 539,
+  "dominio_efetivo": "imepel.com.br",
+  "empresa": "Imepel Indústria Mecânica",
+  "segmento": "Equipamentos para transportadores contínuos",
+  "principal_produto": "Rolos, tambores e suportes para correias transportadoras",
+  "fabrica_brasil": "Siderópolis/SC",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Maior fabricante de rolos/tambores da América Latina, forte atuação em mineração e siderurgia",
+  "fonte": "busca web"
+ }
+]

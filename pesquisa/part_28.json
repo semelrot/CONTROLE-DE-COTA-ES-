@@ -1,0 +1,222 @@
+[
+ {
+  "idx": 561,
+  "dominio_efetivo": "mataoequipamentos.com.br",
+  "empresa": "Matão Equipamentos Industriais e Agrícolas",
+  "segmento": "Máquinas agrícolas",
+  "principal_produto": "Arados, colheitadeiras (inclusive de café) e semeadeiras",
+  "fabrica_brasil": "Matão/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Implementos e máquinas agrícolas fabricados em aço estrutural",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 562,
+  "dominio_efetivo": "delp.com.br",
+  "empresa": "Delp Engenharia",
+  "segmento": "Equipamentos offshore/subsea e bens de capital",
+  "principal_produto": "Sistemas de ancoragem, manifolds e componentes forjados subsea",
+  "fabrica_brasil": "Vespasiano/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Fabricação e usinagem de equipamentos pesados em aço de alta resistência",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 563,
+  "dominio_efetivo": "ksb.com",
+  "empresa": "KSB",
+  "segmento": "Bombas e válvulas industriais",
+  "principal_produto": "Bombas centrífugas e válvulas industriais",
+  "fabrica_brasil": "Várzea Paulista/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Carcaças e componentes de bombas/válvulas fabricados em aço e ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 564,
+  "dominio_efetivo": "conimel.com.br",
+  "empresa": "Conimel",
+  "segmento": "Conectores e materiais elétricos",
+  "principal_produto": "Terminais, conectores e produtos pré-formados para redes elétricas",
+  "fabrica_brasil": "Cravinhos/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Produtos pré-formados fabricados em aço galvanizado, além de cobre e alumínio",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 565,
+  "dominio_efetivo": "grupopmz.com",
+  "empresa": "Grupo PMZ",
+  "segmento": "Distribuição de autopeças, pneus e baterias",
+  "principal_produto": "Peças automotivas, pneus, baterias e lubrificantes",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Rede de distribuição/varejo, não fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 566,
+  "dominio_efetivo": "patrimar.com.br",
+  "empresa": "Patrimar (Grupo Patrimar/Novolar)",
+  "segmento": "Construção civil e incorporação imobiliária",
+  "principal_produto": "Empreendimentos residenciais e comerciais",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Construtora/incorporadora; usa aço em armadura de concreto, mas não é fabricante metalúrgica",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 567,
+  "dominio_efetivo": "leonardi.com.br",
+  "empresa": "Leonardi Construção Industrializada",
+  "segmento": "Pré-fabricados de concreto",
+  "principal_produto": "Estruturas pré-fabricadas de concreto armado (pilares, vigas)",
+  "fabrica_brasil": "Atibaia/SP",
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Armadura de aço é insumo do concreto armado, mas o produto final é de concreto",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 568,
+  "dominio_efetivo": "tecnogeo.com.br",
+  "empresa": "Tecnogeo Ground (grupo Keller)",
+  "segmento": "Engenharia geotécnica e fundações",
+  "principal_produto": "Ancoragens, estacas e melhoria de solo",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Tirantes e armaduras metálicas são insumo do serviço, mas não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 569,
+  "dominio_efetivo": "dof.com",
+  "empresa": null,
+  "segmento": null,
+  "principal_produto": null,
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "indefinido",
+  "justificativa_aco": "Busca não retornou identificação confiável da empresa por trás do domínio dof.com",
+  "fonte": "busca web (inconclusivo)"
+ },
+ {
+  "idx": 570,
+  "dominio_efetivo": "jaraguaequipamentos.com.br",
+  "empresa": "Jaraguá Equipamentos",
+  "segmento": "Equipamentos industriais",
+  "principal_produto": "Equipamentos industriais sob encomenda",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "provavel",
+  "justificativa_aco": "Fabricante de equipamentos industriais metálicos (conforme correcoes.json); segmento não detalhado nesta pesquisa",
+  "fonte": "conhecimento setorial (nome sugestivo do segmento)"
+ },
+ {
+  "idx": 571,
+  "dominio_efetivo": "polifiltro.com.br",
+  "empresa": "Polifiltro",
+  "segmento": "Distribuição de filtros automotivos",
+  "principal_produto": "Filtros de ar, óleo, combustível e cabine para veículos pesados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Maior distribuidora de filtros do Brasil; não é fabricante",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 572,
+  "dominio_efetivo": "secotools.com",
+  "empresa": "Seco Tools",
+  "segmento": "Ferramentas de corte para usinagem",
+  "principal_produto": "Insertos, fresas e brocas de metal duro",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Fabricante de ferramentas de corte (metal duro); usinam aço de terceiros, não o consomem como estrutura",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 573,
+  "dominio_efetivo": "morumbi.ind.br",
+  "empresa": "Morumbi Industrial",
+  "segmento": "Implementos rodoviários",
+  "principal_produto": "Carrocerias, báscula, graneleiros e implementos para caminhões",
+  "fabrica_brasil": "Campos dos Goytacazes/RJ, Belo Horizonte/MG",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Empresa expandiu para 'fabricação de equipamentos em aço carbono' conforme histórico institucional",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 574,
+  "dominio_efetivo": "diamanteenergia.com.br",
+  "empresa": "Diamante Geração de Energia",
+  "segmento": "Geração de energia termelétrica",
+  "principal_produto": "Energia elétrica (usinas termelétricas a carvão e gás)",
+  "fabrica_brasil": "Capivari de Baixo/SC, São Gonçalo do Amarante/CE",
+  "usa_aco_carbono": "nao",
+  "justificativa_aco": "Geradora de energia, não fabricante de bens metálicos",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 575,
+  "dominio_efetivo": "allisontransmission.com",
+  "empresa": "Allison Transmission",
+  "segmento": "Transmissões automáticas para veículos comerciais",
+  "principal_produto": "Transmissões automáticas para caminhões e ônibus",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Engrenagens e carcaças de transmissão fabricadas em aço",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 576,
+  "dominio_efetivo": "horse.cars",
+  "empresa": "Horse Powertrain",
+  "segmento": "Motores e sistemas de powertrain automotivo",
+  "principal_produto": "Motores de combustão interna e híbridos (JV Renault-Geely-Aramco)",
+  "fabrica_brasil": "São José dos Pinhais/PR (Renault)",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Blocos e componentes de motor fabricados em aço/ferro fundido",
+  "fonte": "conhecimento setorial"
+ },
+ {
+  "idx": 577,
+  "dominio_efetivo": "metalurgicatanaka.com.br",
+  "empresa": "Tanaka Metalúrgica",
+  "segmento": "Peças de reposição para máquinas agrícolas e pesadas",
+  "principal_produto": "Peças para tratores, colheitadeiras, retroescavadeiras e empilhadeiras",
+  "fabrica_brasil": "Cajuru/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Um dos maiores fabricantes de peças de reposição do Brasil, em aço",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 578,
+  "dominio_efetivo": "mecalor.com.br",
+  "empresa": "Mecalor",
+  "segmento": "Engenharia térmica industrial",
+  "principal_produto": "Chillers, dry coolers e câmaras climáticas",
+  "fabrica_brasil": "São Paulo/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas e trocadores de calor fabricados em aço/aço inoxidável",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 579,
+  "dominio_efetivo": "evacon.com.br",
+  "empresa": "Evacon Equipamentos Industriais",
+  "segmento": "Equipamentos industriais sob encomenda",
+  "principal_produto": "Trocadores de calor, vasos de pressão e transportadores",
+  "fabrica_brasil": "Diadema/SP",
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Equipamentos metálicos customizados: caldeiras, reatores, vasos e transportadores",
+  "fonte": "busca web"
+ },
+ {
+  "idx": 580,
+  "dominio_efetivo": "aguiasistemas.com.br",
+  "empresa": "Águia Sistemas",
+  "segmento": "Sistemas de armazenagem e intralogística",
+  "principal_produto": "Estruturas porta-paletes, mezaninos e sistemas automatizados",
+  "fabrica_brasil": null,
+  "usa_aco_carbono": "sim",
+  "justificativa_aco": "Estruturas de armazenagem fabricadas em aço estrutural",
+  "fonte": "busca web"
+ }
+]
